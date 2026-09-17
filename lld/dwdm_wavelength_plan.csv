@@ -1,0 +1,16 @@
+route,ring,route_km,design_demand_Gbps,wavelengths_day1,channel_plan,inline_amplifier_sites_80km,node_type,line_optics
+Desert Highway (R15) Amman-Aqaba,Southern ring,340,1340,4,4 × 400G (of 64 × 75 GHz C-band slots),4,"ROADM (2-degree, 3 at junctions)","400G ZR+/OTN coherent, FlexO"
+Dead Sea - Wadi Araba (R65) Amman-Aqaba,Southern ring,337,1340,4,4 × 400G (of 64 × 75 GHz C-band slots),4,"ROADM (2-degree, 3 at junctions)","400G ZR+/OTN coherent, FlexO"
+Amman-Zarqa-Mafraq-Jaber,Northern ring,74,1039,3,3 × 400G (of 64 × 75 GHz C-band slots),0,"ROADM (2-degree, 3 at junctions)","400G ZR+/OTN coherent, FlexO"
+Mafraq-Ramtha-Irbid,Northern ring,52,1039,3,3 × 400G (of 64 × 75 GHz C-band slots),0,"ROADM (2-degree, 3 at junctions)","400G ZR+/OTN coherent, FlexO"
+Irbid-Jerash-Amman (R35),Northern ring,68,1039,3,3 × 400G (of 64 × 75 GHz C-band slots),0,"ROADM (2-degree, 3 at junctions)","400G ZR+/OTN coherent, FlexO"
+King's Highway Madaba-Karak-Tafilah-Petra-Ma'an,spur / regional,241,509,2,2 × 400G (of 64 × 75 GHz C-band slots),3,FOADM / terminal,"400G ZR+/OTN coherent, FlexO"
+Jordan Valley (R65 north),spur / regional,127,10,2,2 × 100G (of 64 × 75 GHz C-band slots),1,FOADM / terminal,100G coherent
+Amman-Salt-Deir Alla,spur / regional,37,145,2,2 × 100G (of 64 × 75 GHz C-band slots),0,FOADM / terminal,100G coherent
+Irbid-Ajloun-Jerash,spur / regional,47,79,2,2 × 100G (of 64 × 75 GHz C-band slots),0,FOADM / terminal,100G coherent
+Karak-Qatraneh,spur / regional,39,0,2,2 × 100G (of 64 × 75 GHz C-band slots),0,FOADM / terminal,100G coherent
+Tafilah-Jurf,spur / regional,34,0,2,2 × 100G (of 64 × 75 GHz C-band slots),0,FOADM / terminal,100G coherent
+Amman-Azraq (R40),spur / regional,112,16,2,2 × 100G (of 64 × 75 GHz C-band slots),1,FOADM / terminal,100G coherent
+Zarqa-Azraq-Safawi,spur / regional,137,0,2,2 × 100G (of 64 × 75 GHz C-band slots),1,FOADM / terminal,100G coherent
+Mafraq-Safawi-Ruwaished (R10),spur / regional,302,0,2,2 × 100G (of 64 × 75 GHz C-band slots),3,FOADM / terminal,100G coherent
+Quweira-Wadi Rum,spur / regional,32,0,2,2 × 100G (of 64 × 75 GHz C-band slots),0,FOADM / terminal,100G coherent

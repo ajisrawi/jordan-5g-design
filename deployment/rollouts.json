@@ -1,0 +1,2469 @@
+[
+ {
+  "r": 1,
+  "id": "RO-01",
+  "m_from": 4,
+  "m_to": 6,
+  "window": "Apr 2027 – Jun 2027",
+  "sites": 306,
+  "cls": {
+   "DU": 293,
+   "U": 13
+  },
+  "types": {
+   "Rooftop": 306
+  },
+  "sectors": 918,
+  "aau64": 918,
+  "aau8": 0,
+  "passive": 918,
+  "rru_low": 918,
+  "rru_mid": 918,
+  "n258": 0,
+  "du_cran": 230,
+  "du_dran": 0,
+  "csr": 0,
+  "fhgw": 306,
+  "hubs": 6,
+  "hub_routers": 12,
+  "mw": 0,
+  "access_km": 228,
+  "agg_km": 32,
+  "bb_km": 87,
+  "spur_km": 0,
+  "bb_routes": [
+   "Amman metro core ring (87 km)"
+  ],
+  "rooftop": 306,
+  "mono": 0,
+  "tower": 0,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    306
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-28",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    61
+   ],
+   [
+    "HUB-AMM-69",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    55
+   ],
+   [
+    "HUB-AMM-14",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    51
+   ],
+   [
+    "HUB-AMM-82",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-13",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    47
+   ],
+   [
+    "HUB-AMM-38",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    44
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    306
+   ]
+  ],
+  "venues": [],
+  "prru": 0,
+  "vmmw": 0,
+  "cum_sites": 306,
+  "cum_pop_pct": 8.6,
+  "cum_1g_km2": 40,
+  "rate": 102
+ },
+ {
+  "r": 2,
+  "id": "RO-02",
+  "m_from": 7,
+  "m_to": 9,
+  "window": "Jul 2027 – Sep 2027",
+  "sites": 465,
+  "cls": {
+   "DU": 176,
+   "U": 289
+  },
+  "types": {
+   "Rooftop": 452,
+   "Monopole / greenfield": 13
+  },
+  "sectors": 1395,
+  "aau64": 1395,
+  "aau8": 0,
+  "passive": 1395,
+  "rru_low": 1395,
+  "rru_mid": 1395,
+  "n258": 0,
+  "du_cran": 349,
+  "du_dran": 0,
+  "csr": 0,
+  "fhgw": 465,
+  "hubs": 10,
+  "hub_routers": 20,
+  "mw": 0,
+  "access_km": 381,
+  "agg_km": 64,
+  "bb_km": 194,
+  "spur_km": 0,
+  "bb_routes": [
+   "Amman-Zarqa-Mafraq-Jaber (74 km)",
+   "Mafraq-Ramtha-Irbid (52 km)",
+   "Irbid-Jerash-Amman (R35) (68 km)"
+  ],
+  "rooftop": 452,
+  "mono": 13,
+  "tower": 0,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    375
+   ],
+   [
+    "Irbid",
+    90
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-52",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    54
+   ],
+   [
+    "HUB-IRB-15",
+    "Hub cluster",
+    "Irbid",
+    52
+   ],
+   [
+    "HUB-AMM-57",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    51
+   ],
+   [
+    "HUB-AMM-41",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    50
+   ],
+   [
+    "HUB-AMM-45",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    46
+   ],
+   [
+    "HUB-AMM-59",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    45
+   ],
+   [
+    "HUB-AMM-23",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    43
+   ],
+   [
+    "HUB-AMM-64",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    43
+   ],
+   [
+    "HUB-AMM-35",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    43
+   ],
+   [
+    "HUB-IRB-01",
+    "Hub cluster",
+    "Irbid",
+    38
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    375
+   ],
+   [
+    "Irbid",
+    90
+   ]
+  ],
+  "venues": [
+   [
+    "Abdali Mall",
+    "mall",
+    248,
+    10
+   ],
+   [
+    "The Boulevard - Abdali",
+    "mixed-use",
+    110,
+    4
+   ],
+   [
+    "Galleria Mall",
+    "mall",
+    66,
+    4
+   ],
+   [
+    "Al Baraka Mall",
+    "mall",
+    50,
+    4
+   ],
+   [
+    "Istiklal Mall",
+    "mall",
+    66,
+    4
+   ],
+   [
+    "Four Seasons Amman",
+    "hotel",
+    66,
+    2
+   ],
+   [
+    "The St. Regis Amman",
+    "hotel",
+    88,
+    2
+   ],
+   [
+    "The Ritz-Carlton Amman",
+    "hotel",
+    79,
+    2
+   ],
+   [
+    "Fairmont Amman",
+    "hotel",
+    103,
+    4
+   ],
+   [
+    "W Amman",
+    "hotel",
+    86,
+    2
+   ],
+   [
+    "Amman Rotana",
+    "hotel",
+    125,
+    4
+   ],
+   [
+    "InterContinental Jordan",
+    "hotel",
+    130,
+    4
+   ],
+   [
+    "Amman Marriott",
+    "hotel",
+    89,
+    2
+   ],
+   [
+    "Kempinski Amman",
+    "hotel",
+    83,
+    2
+   ],
+   [
+    "Le Royal Amman",
+    "hotel",
+    105,
+    2
+   ],
+   [
+    "Sheraton Amman",
+    "hotel",
+    84,
+    2
+   ],
+   [
+    "Landmark Amman",
+    "hotel",
+    79,
+    2
+   ],
+   [
+    "Crowne Plaza Amman",
+    "hotel",
+    83,
+    2
+   ]
+  ],
+  "prru": 1740,
+  "vmmw": 58,
+  "cum_sites": 771,
+  "cum_pop_pct": 18.4,
+  "cum_1g_km2": 117,
+  "rate": 155
+ },
+ {
+  "r": 3,
+  "id": "RO-03",
+  "m_from": 10,
+  "m_to": 12,
+  "window": "Oct 2027 – Dec 2027",
+  "sites": 617,
+  "cls": {
+   "DU": 8,
+   "U": 589,
+   "SU": 20
+  },
+  "types": {
+   "Rooftop": 487,
+   "Monopole / greenfield": 130
+  },
+  "sectors": 1851,
+  "aau64": 1851,
+  "aau8": 0,
+  "passive": 1851,
+  "rru_low": 1851,
+  "rru_mid": 1851,
+  "n258": 0,
+  "du_cran": 453,
+  "du_dran": 14,
+  "csr": 14,
+  "fhgw": 603,
+  "hubs": 15,
+  "hub_routers": 30,
+  "mw": 0,
+  "access_km": 537,
+  "agg_km": 108,
+  "bb_km": 340,
+  "spur_km": 0,
+  "bb_routes": [
+   "Desert Highway (R15) Amman-Aqaba (340 km)"
+  ],
+  "rooftop": 487,
+  "mono": 130,
+  "tower": 0,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    456
+   ],
+   [
+    "Aqaba",
+    123
+   ],
+   [
+    "Irbid",
+    38
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AQB-05",
+    "Hub cluster",
+    "Aqaba",
+    57
+   ],
+   [
+    "HUB-AQB-06",
+    "Hub cluster",
+    "Aqaba",
+    52
+   ],
+   [
+    "HUB-AMM-56",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    49
+   ],
+   [
+    "HUB-AMM-83",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-47",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-44",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    44
+   ],
+   [
+    "HUB-AMM-79",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-AMM-05",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    40
+   ],
+   [
+    "HUB-AMM-02",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    39
+   ],
+   [
+    "HUB-IRB-05",
+    "Hub cluster",
+    "Irbid",
+    38
+   ],
+   [
+    "HUB-AMM-49",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    38
+   ],
+   [
+    "HUB-AMM-11",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-AMM-27",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "HUB-AMM-04",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "HUB-AQB-07",
+    "Hub cluster",
+    "Aqaba",
+    14
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    444
+   ],
+   [
+    "Aqaba",
+    123
+   ],
+   [
+    "Irbid",
+    38
+   ],
+   [
+    "Balqa",
+    12
+   ]
+  ],
+  "venues": [
+   [
+    "Taj Lifestyle Center",
+    "mall",
+    164,
+    6
+   ],
+   [
+    "Grand Hyatt Amman",
+    "hotel",
+    99,
+    4
+   ],
+   [
+    "Al-Bashir Hospital",
+    "hospital",
+    130,
+    2
+   ],
+   [
+    "Amman Intl Stadium / Al-Hussein Youth City",
+    "stadium",
+    50,
+    24
+   ],
+   [
+    "Yarmouk University",
+    "campus",
+    130,
+    2
+   ]
+  ],
+  "prru": 573,
+  "vmmw": 38,
+  "cum_sites": 1388,
+  "cum_pop_pct": 28.5,
+  "cum_1g_km2": 236,
+  "rate": 206
+ },
+ {
+  "r": 4,
+  "id": "RO-04",
+  "m_from": 13,
+  "m_to": 15,
+  "window": "Jan 2028 – Mar 2028",
+  "sites": 719,
+  "cls": {
+   "U": 625,
+   "SU": 61,
+   "HW": 33
+  },
+  "types": {
+   "Rooftop": 385,
+   "Monopole / greenfield": 301,
+   "Lattice tower": 33
+  },
+  "sectors": 2124,
+  "aau64": 2058,
+  "aau8": 0,
+  "passive": 2124,
+  "rru_low": 2124,
+  "rru_mid": 2124,
+  "n258": 0,
+  "du_cran": 515,
+  "du_dran": 33,
+  "csr": 33,
+  "fhgw": 686,
+  "hubs": 16,
+  "hub_routers": 32,
+  "mw": 0,
+  "access_km": 611,
+  "agg_km": 108,
+  "bb_km": 337,
+  "spur_km": 30,
+  "bb_routes": [
+   "Dead Sea - Wadi Araba (R65) Amman-Aqaba (337 km)"
+  ],
+  "rooftop": 385,
+  "mono": 301,
+  "tower": 33,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    466
+   ],
+   [
+    "Irbid",
+    168
+   ],
+   [
+    "Aqaba",
+    52
+   ],
+   [
+    "Desert Highway (R15) Amman-Aqaba",
+    33
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-40",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    54
+   ],
+   [
+    "HUB-AMM-03",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    53
+   ],
+   [
+    "HUB-AQB-03",
+    "Hub cluster",
+    "Aqaba",
+    52
+   ],
+   [
+    "HUB-AMM-07",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-IRB-11",
+    "Hub cluster",
+    "Irbid",
+    44
+   ],
+   [
+    "HUB-IRB-17",
+    "Hub cluster",
+    "Irbid",
+    42
+   ],
+   [
+    "HUB-AMM-01",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    42
+   ],
+   [
+    "HUB-AMM-29",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    42
+   ],
+   [
+    "HUB-AMM-24",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    42
+   ],
+   [
+    "HUB-IRB-08",
+    "Hub cluster",
+    "Irbid",
+    41
+   ],
+   [
+    "HUB-IRB-07",
+    "Hub cluster",
+    "Irbid",
+    41
+   ],
+   [
+    "HUB-AMM-39",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-AMM-15",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-AMM-54",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    38
+   ],
+   [
+    "HUB-AMM-51",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "HW|Desert Highway (R15) Amman-Aqaba",
+    "Highway corridor",
+    "Desert Highway (R15) Amman-Aqaba",
+    33
+   ],
+   [
+    "HUB-AMM-36",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    29
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    240
+   ],
+   [
+    "Zarqa",
+    203
+   ],
+   [
+    "Irbid",
+    168
+   ],
+   [
+    "Aqaba",
+    60
+   ],
+   [
+    "Balqa",
+    27
+   ],
+   [
+    "Ma'an",
+    11
+   ],
+   [
+    "Karak",
+    7
+   ],
+   [
+    "Tafilah",
+    3
+   ]
+  ],
+  "venues": [
+   [
+    "City Mall",
+    "mall",
+    175,
+    7
+   ],
+   [
+    "Mecca Mall",
+    "mall",
+    208,
+    8
+   ],
+   [
+    "King Hussein Business Park",
+    "campus",
+    130,
+    2
+   ],
+   [
+    "University of Jordan",
+    "campus",
+    270,
+    2
+   ],
+   [
+    "Jordan University Hospital",
+    "hospital",
+    103,
+    2
+   ],
+   [
+    "King Hussein Cancer Center",
+    "hospital",
+    119,
+    2
+   ],
+   [
+    "Ayla Oasis / Hyatt Regency",
+    "resort",
+    112,
+    2
+   ],
+   [
+    "Al Manara - Saraya Aqaba",
+    "hotel",
+    69,
+    2
+   ],
+   [
+    "Kempinski Aqaba",
+    "hotel",
+    64,
+    2
+   ],
+   [
+    "InterContinental Aqaba",
+    "hotel",
+    81,
+    2
+   ],
+   [
+    "Movenpick Aqaba",
+    "hotel",
+    90,
+    2
+   ],
+   [
+    "Aqaba Gateway / City Center",
+    "mall",
+    44,
+    4
+   ],
+   [
+    "King Hussein Intl Airport (Aqaba)",
+    "airport",
+    25,
+    6
+   ],
+   [
+    "Arabella Mall Irbid",
+    "mall",
+    55,
+    4
+   ]
+  ],
+  "prru": 1545,
+  "vmmw": 47,
+  "cum_sites": 2107,
+  "cum_pop_pct": 39.3,
+  "cum_1g_km2": 376,
+  "rate": 240
+ },
+ {
+  "r": 5,
+  "id": "RO-05",
+  "m_from": 16,
+  "m_to": 18,
+  "window": "Apr 2028 – Jun 2028",
+  "sites": 769,
+  "cls": {
+   "U": 561,
+   "SU": 176,
+   "HW": 32
+  },
+  "types": {
+   "Monopole / greenfield": 378,
+   "Rooftop": 359,
+   "Lattice tower": 32
+  },
+  "sectors": 2275,
+  "aau64": 2211,
+  "aau8": 0,
+  "passive": 2275,
+  "rru_low": 2275,
+  "rru_mid": 2275,
+  "n258": 0,
+  "du_cran": 513,
+  "du_dran": 85,
+  "csr": 85,
+  "fhgw": 684,
+  "hubs": 19,
+  "hub_routers": 38,
+  "mw": 0,
+  "access_km": 697,
+  "agg_km": 109,
+  "bb_km": 278,
+  "spur_km": 30,
+  "bb_routes": [
+   "King's Highway Madaba-Karak-Tafilah-Petra-Ma'an (241 km)",
+   "Amman-Salt-Deir Alla (37 km)"
+  ],
+  "rooftop": 359,
+  "mono": 378,
+  "tower": 32,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    618
+   ],
+   [
+    "Wadi Musa / Petra",
+    65
+   ],
+   [
+    "Irbid",
+    35
+   ],
+   [
+    "Dead Sea - Wadi Araba (R65) Amman-Aqaba",
+    32
+   ],
+   [
+    "Dead Sea",
+    19
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-33",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    52
+   ],
+   [
+    "HUB-AMM-70",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-46",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-86",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    47
+   ],
+   [
+    "HUB-AMM-62",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    46
+   ],
+   [
+    "HUB-AMM-66",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    42
+   ],
+   [
+    "HUB-AMM-77",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-AMM-19",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-AMM-61",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    39
+   ],
+   [
+    "HUB-AMM-72",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    39
+   ],
+   [
+    "HUB-AMM-65",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-AMM-22",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-AMM-85",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    35
+   ],
+   [
+    "HUB-IRB-03",
+    "Hub cluster",
+    "Irbid",
+    35
+   ],
+   [
+    "HUB-WAD-01",
+    "Hub cluster",
+    "Wadi Musa / Petra",
+    34
+   ],
+   [
+    "HUB-AMM-63",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HUB-AMM-42",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HW|Dead Sea - Wadi Araba (R65) Amman-Aqaba",
+    "Highway corridor",
+    "Dead Sea - Wadi Araba (R65) Amman-Aqaba",
+    32
+   ],
+   [
+    "HUB-WAD-02",
+    "Hub cluster",
+    "Wadi Musa / Petra",
+    31
+   ],
+   [
+    "HUB-DEA-01",
+    "Hub cluster",
+    "Dead Sea",
+    19
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    288
+   ],
+   [
+    "Zarqa",
+    271
+   ],
+   [
+    "Balqa",
+    71
+   ],
+   [
+    "Ma'an",
+    65
+   ],
+   [
+    "Irbid",
+    35
+   ],
+   [
+    "Aqaba",
+    17
+   ],
+   [
+    "Madaba",
+    11
+   ],
+   [
+    "Karak",
+    8
+   ],
+   [
+    "Tafilah",
+    3
+   ]
+  ],
+  "venues": [
+   [
+    "Irbid City Centre",
+    "mall",
+    88,
+    4
+   ]
+  ],
+  "prru": 88,
+  "vmmw": 4,
+  "cum_sites": 2876,
+  "cum_pop_pct": 50.1,
+  "cum_1g_km2": 550,
+  "rate": 256
+ },
+ {
+  "r": 6,
+  "id": "RO-06",
+  "m_from": 19,
+  "m_to": 21,
+  "window": "Jul 2028 – Sep 2028",
+  "sites": 770,
+  "cls": {
+   "U": 455,
+   "SU": 308,
+   "HW": 7
+  },
+  "types": {
+   "Monopole / greenfield": 538,
+   "Rooftop": 225,
+   "Lattice tower": 7
+  },
+  "sectors": 2303,
+  "aau64": 2289,
+  "aau8": 0,
+  "passive": 2303,
+  "rru_low": 2303,
+  "rru_mid": 2303,
+  "n258": 0,
+  "du_cran": 448,
+  "du_dran": 173,
+  "csr": 173,
+  "fhgw": 597,
+  "hubs": 19,
+  "hub_routers": 38,
+  "mw": 0,
+  "access_km": 810,
+  "agg_km": 106,
+  "bb_km": 174,
+  "spur_km": 6,
+  "bb_routes": [
+   "Jordan Valley (R65 north) (127 km)",
+   "Irbid-Ajloun-Jerash (47 km)"
+  ],
+  "rooftop": 225,
+  "mono": 538,
+  "tower": 7,
+  "clusters": [
+   [
+    "Irbid",
+    283
+   ],
+   [
+    "Amman-Zarqa Metro",
+    144
+   ],
+   [
+    "Madaba",
+    122
+   ],
+   [
+    "Mafraq",
+    75
+   ],
+   [
+    "Tafilah",
+    42
+   ],
+   [
+    "Karak",
+    38
+   ],
+   [
+    "Ma'an",
+    35
+   ],
+   [
+    "Aqaba",
+    24
+   ],
+   [
+    "King's Highway Madaba-Karak-Tafilah-Petra-Ma'an",
+    7
+   ]
+  ],
+  "units": [
+   [
+    "HUB-IRB-13",
+    "Hub cluster",
+    "Irbid",
+    71
+   ],
+   [
+    "HUB-IRB-06",
+    "Hub cluster",
+    "Irbid",
+    60
+   ],
+   [
+    "HUB-IRB-18",
+    "Hub cluster",
+    "Irbid",
+    42
+   ],
+   [
+    "HUB-TAF-02",
+    "Hub cluster",
+    "Tafilah",
+    42
+   ],
+   [
+    "HUB-MAD-04",
+    "Hub cluster",
+    "Madaba",
+    42
+   ],
+   [
+    "HUB-AMM-81",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    41
+   ],
+   [
+    "HUB-MAD-02",
+    "Hub cluster",
+    "Madaba",
+    41
+   ],
+   [
+    "HUB-MAF-05",
+    "Hub cluster",
+    "Mafraq",
+    39
+   ],
+   [
+    "HUB-MAD-03",
+    "Hub cluster",
+    "Madaba",
+    39
+   ],
+   [
+    "HUB-IRB-04",
+    "Hub cluster",
+    "Irbid",
+    38
+   ],
+   [
+    "HUB-KAR-03",
+    "Hub cluster",
+    "Karak",
+    38
+   ],
+   [
+    "HUB-IRB-09",
+    "Hub cluster",
+    "Irbid",
+    37
+   ],
+   [
+    "HUB-AMM-60",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-MAF-02",
+    "Hub cluster",
+    "Mafraq",
+    36
+   ],
+   [
+    "HUB-MA-02",
+    "Hub cluster",
+    "Ma'an",
+    35
+   ],
+   [
+    "HUB-IRB-19",
+    "Hub cluster",
+    "Irbid",
+    35
+   ],
+   [
+    "HUB-AMM-76",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HUB-AMM-06",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HUB-AQB-02",
+    "Hub cluster",
+    "Aqaba",
+    24
+   ],
+   [
+    "HW|King's Highway Madaba-Karak-Tafilah-Petra-Ma'an",
+    "Highway corridor",
+    "King's Highway Madaba-Karak-Tafilah-Petra-Ma'an",
+    7
+   ]
+  ],
+  "gov": [
+   [
+    "Irbid",
+    283
+   ],
+   [
+    "Amman",
+    131
+   ],
+   [
+    "Madaba",
+    87
+   ],
+   [
+    "Mafraq",
+    75
+   ],
+   [
+    "Zarqa",
+    48
+   ],
+   [
+    "Tafilah",
+    43
+   ],
+   [
+    "Ma'an",
+    41
+   ],
+   [
+    "Karak",
+    38
+   ],
+   [
+    "Aqaba",
+    24
+   ]
+  ],
+  "venues": [
+   [
+    "Kempinski Ishtar Dead Sea",
+    "hotel",
+    111,
+    4
+   ],
+   [
+    "Movenpick Dead Sea",
+    "hotel",
+    109,
+    4
+   ],
+   [
+    "Dead Sea Marriott",
+    "hotel",
+    80,
+    2
+   ],
+   [
+    "Hilton Dead Sea",
+    "hotel",
+    90,
+    2
+   ],
+   [
+    "Crowne Plaza Dead Sea",
+    "hotel",
+    126,
+    4
+   ],
+   [
+    "King Hussein Bin Talal Convention Centre",
+    "convention",
+    42,
+    6
+   ],
+   [
+    "Movenpick Petra",
+    "hotel",
+    52,
+    2
+   ],
+   [
+    "Petra Marriott",
+    "hotel",
+    31,
+    2
+   ],
+   [
+    "Petra Visitor Centre",
+    "venue",
+    9,
+    2
+   ]
+  ],
+  "prru": 650,
+  "vmmw": 28,
+  "cum_sites": 3646,
+  "cum_pop_pct": 60.3,
+  "cum_1g_km2": 755,
+  "rate": 257
+ },
+ {
+  "r": 7,
+  "id": "RO-07",
+  "m_from": 22,
+  "m_to": 24,
+  "window": "Oct 2028 – Dec 2028",
+  "sites": 766,
+  "cls": {
+   "U": 264,
+   "SU": 191,
+   "R": 311
+  },
+  "types": {
+   "Monopole / greenfield": 323,
+   "Rooftop": 132,
+   "Lattice tower": 311
+  },
+  "sectors": 2298,
+  "aau64": 1365,
+  "aau8": 933,
+  "passive": 2298,
+  "rru_low": 2298,
+  "rru_mid": 2298,
+  "n258": 0,
+  "du_cran": 320,
+  "du_dran": 340,
+  "csr": 340,
+  "fhgw": 426,
+  "hubs": 13,
+  "hub_routers": 26,
+  "mw": 246,
+  "access_km": 463,
+  "agg_km": 53,
+  "bb_km": 185,
+  "spur_km": 60,
+  "bb_routes": [
+   "Karak-Qatraneh (39 km)",
+   "Tafilah-Jurf (34 km)",
+   "Amman-Azraq (R40) (112 km)"
+  ],
+  "rooftop": 132,
+  "mono": 323,
+  "tower": 311,
+  "clusters": [
+   [
+    "Jerash",
+    117
+   ],
+   [
+    "Ma'an",
+    102
+   ],
+   [
+    "Salt",
+    101
+   ],
+   [
+    "Mafraq",
+    71
+   ],
+   [
+    "Karak governorate (rural)",
+    40
+   ],
+   [
+    "Amman governorate (rural)",
+    40
+   ],
+   [
+    "Madaba governorate (rural)",
+    40
+   ],
+   [
+    "Mafraq governorate (rural)",
+    40
+   ],
+   [
+    "Irbid governorate (rural)",
+    40
+   ],
+   [
+    "Tafilah governorate (rural)",
+    35
+   ],
+   [
+    "Karak",
+    35
+   ],
+   [
+    "Amman-Zarqa Metro",
+    29
+   ],
+   [
+    "Balqa governorate (rural)",
+    28
+   ],
+   [
+    "Ajloun governorate (rural)",
+    19
+   ],
+   [
+    "Jerash governorate (rural)",
+    16
+   ],
+   [
+    "Zarqa governorate (rural)",
+    13
+   ]
+  ],
+  "units": [
+   [
+    "RUR|Karak|1",
+    "Rural package",
+    "Karak governorate (rural)",
+    40
+   ],
+   [
+    "RUR|Amman|1",
+    "Rural package",
+    "Amman governorate (rural)",
+    40
+   ],
+   [
+    "RUR|Madaba|1",
+    "Rural package",
+    "Madaba governorate (rural)",
+    40
+   ],
+   [
+    "RUR|Mafraq|1",
+    "Rural package",
+    "Mafraq governorate (rural)",
+    40
+   ],
+   [
+    "RUR|Irbid|1",
+    "Rural package",
+    "Irbid governorate (rural)",
+    40
+   ],
+   [
+    "HUB-JER-02",
+    "Hub cluster",
+    "Jerash",
+    40
+   ],
+   [
+    "HUB-JER-03",
+    "Hub cluster",
+    "Jerash",
+    39
+   ],
+   [
+    "HUB-JER-01",
+    "Hub cluster",
+    "Jerash",
+    38
+   ],
+   [
+    "HUB-MAF-03",
+    "Hub cluster",
+    "Mafraq",
+    36
+   ],
+   [
+    "RUR|Tafilah|1",
+    "Rural package",
+    "Tafilah governorate (rural)",
+    35
+   ],
+   [
+    "HUB-MA-03",
+    "Hub cluster",
+    "Ma'an",
+    35
+   ],
+   [
+    "HUB-SAL-01",
+    "Hub cluster",
+    "Salt",
+    35
+   ],
+   [
+    "HUB-SAL-02",
+    "Hub cluster",
+    "Salt",
+    35
+   ],
+   [
+    "HUB-MA-01",
+    "Hub cluster",
+    "Ma'an",
+    35
+   ],
+   [
+    "HUB-MAF-04",
+    "Hub cluster",
+    "Mafraq",
+    35
+   ],
+   [
+    "HUB-KAR-02",
+    "Hub cluster",
+    "Karak",
+    35
+   ],
+   [
+    "HUB-MA-04",
+    "Hub cluster",
+    "Ma'an",
+    32
+   ],
+   [
+    "HUB-SAL-03",
+    "Hub cluster",
+    "Salt",
+    31
+   ],
+   [
+    "HUB-AMM-71",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    29
+   ],
+   [
+    "RUR|Balqa|1",
+    "Rural package",
+    "Balqa governorate (rural)",
+    28
+   ],
+   [
+    "RUR|Ajloun|1",
+    "Rural package",
+    "Ajloun governorate (rural)",
+    19
+   ],
+   [
+    "RUR|Jerash|1",
+    "Rural package",
+    "Jerash governorate (rural)",
+    16
+   ],
+   [
+    "RUR|Zarqa|1",
+    "Rural package",
+    "Zarqa governorate (rural)",
+    13
+   ]
+  ],
+  "gov": [
+   [
+    "Balqa",
+    158
+   ],
+   [
+    "Jerash",
+    133
+   ],
+   [
+    "Mafraq",
+    111
+   ],
+   [
+    "Ma'an",
+    102
+   ],
+   [
+    "Karak",
+    75
+   ],
+   [
+    "Madaba",
+    40
+   ],
+   [
+    "Amman",
+    40
+   ],
+   [
+    "Irbid",
+    40
+   ],
+   [
+    "Tafilah",
+    35
+   ],
+   [
+    "Ajloun",
+    19
+   ],
+   [
+    "Zarqa",
+    13
+   ]
+  ],
+  "venues": [],
+  "prru": 0,
+  "vmmw": 0,
+  "cum_sites": 4412,
+  "cum_pop_pct": 73.9,
+  "cum_1g_km2": 878,
+  "rate": 255
+ },
+ {
+  "r": 8,
+  "id": "RO-08",
+  "m_from": 25,
+  "m_to": 27,
+  "window": "Jan 2029 – Mar 2029",
+  "sites": 718,
+  "cls": {
+   "U": 166,
+   "SU": 415,
+   "R": 126,
+   "HW": 11
+  },
+  "types": {
+   "Rooftop": 181,
+   "Monopole / greenfield": 400,
+   "Lattice tower": 137
+  },
+  "sectors": 2142,
+  "aau64": 1743,
+  "aau8": 377,
+  "passive": 2142,
+  "rru_low": 2142,
+  "rru_mid": 2142,
+  "n258": 0,
+  "du_cran": 99,
+  "du_dran": 586,
+  "csr": 586,
+  "fhgw": 132,
+  "hubs": 18,
+  "hub_routers": 36,
+  "mw": 107,
+  "access_km": 667,
+  "agg_km": 107,
+  "bb_km": 471,
+  "spur_km": 28,
+  "bb_routes": [
+   "Zarqa-Azraq-Safawi (137 km)",
+   "Mafraq-Safawi-Ruwaished (R10) (302 km)",
+   "Quweira-Wadi Rum (32 km)"
+  ],
+  "rooftop": 181,
+  "mono": 400,
+  "tower": 137,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    288
+   ],
+   [
+    "Ajloun",
+    81
+   ],
+   [
+    "Amman governorate (rural)",
+    40
+   ],
+   [
+    "Salt",
+    36
+   ],
+   [
+    "Madaba",
+    36
+   ],
+   [
+    "Karak governorate (rural)",
+    35
+   ],
+   [
+    "Karak",
+    34
+   ],
+   [
+    "Mafraq",
+    31
+   ],
+   [
+    "Tafilah",
+    30
+   ],
+   [
+    "Mafraq governorate (rural)",
+    29
+   ],
+   [
+    "Irbid",
+    27
+   ],
+   [
+    "Irbid governorate (rural)",
+    21
+   ],
+   [
+    "Aqaba",
+    18
+   ],
+   [
+    "Amman-Azraq (R40)",
+    9
+   ],
+   [
+    "Karak-Qatraneh",
+    1
+   ],
+   [
+    "Tafilah-Jurf",
+    1
+   ],
+   [
+    "Madaba governorate (rural)",
+    1
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-37",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    48
+   ],
+   [
+    "HUB-AMM-73",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    46
+   ],
+   [
+    "RUR|Amman|2",
+    "Rural package",
+    "Amman governorate (rural)",
+    40
+   ],
+   [
+    "HUB-SAL-04",
+    "Hub cluster",
+    "Salt",
+    36
+   ],
+   [
+    "HUB-MAD-01",
+    "Hub cluster",
+    "Madaba",
+    36
+   ],
+   [
+    "HUB-AMM-58",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "RUR|Karak|2",
+    "Rural package",
+    "Karak governorate (rural)",
+    35
+   ],
+   [
+    "HUB-AMM-21",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    35
+   ],
+   [
+    "HUB-KAR-01",
+    "Hub cluster",
+    "Karak",
+    34
+   ],
+   [
+    "HUB-AMM-50",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    34
+   ],
+   [
+    "HUB-AMM-20",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HUB-MAF-01",
+    "Hub cluster",
+    "Mafraq",
+    31
+   ],
+   [
+    "HUB-TAF-01",
+    "Hub cluster",
+    "Tafilah",
+    30
+   ],
+   [
+    "HUB-AMM-84",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    30
+   ],
+   [
+    "RUR|Mafraq|2",
+    "Rural package",
+    "Mafraq governorate (rural)",
+    29
+   ],
+   [
+    "HUB-AJL-02",
+    "Hub cluster",
+    "Ajloun",
+    29
+   ],
+   [
+    "HUB-AJL-03",
+    "Hub cluster",
+    "Ajloun",
+    27
+   ],
+   [
+    "HUB-IRB-12",
+    "Hub cluster",
+    "Irbid",
+    27
+   ],
+   [
+    "HUB-AMM-74",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    26
+   ],
+   [
+    "HUB-AJL-01",
+    "Hub cluster",
+    "Ajloun",
+    25
+   ],
+   [
+    "RUR|Irbid|2",
+    "Rural package",
+    "Irbid governorate (rural)",
+    21
+   ],
+   [
+    "HUB-AQB-04",
+    "Hub cluster",
+    "Aqaba",
+    18
+   ],
+   [
+    "HW|Amman-Azraq (R40)",
+    "Highway corridor",
+    "Amman-Azraq (R40)",
+    9
+   ],
+   [
+    "HW|Karak-Qatraneh",
+    "Highway corridor",
+    "Karak-Qatraneh",
+    1
+   ],
+   [
+    "HW|Tafilah-Jurf",
+    "Highway corridor",
+    "Tafilah-Jurf",
+    1
+   ],
+   [
+    "RUR|Madaba|2",
+    "Rural package",
+    "Madaba governorate (rural)",
+    1
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    212
+   ],
+   [
+    "Zarqa",
+    105
+   ],
+   [
+    "Ajloun",
+    81
+   ],
+   [
+    "Karak",
+    70
+   ],
+   [
+    "Mafraq",
+    60
+   ],
+   [
+    "Balqa",
+    58
+   ],
+   [
+    "Irbid",
+    48
+   ],
+   [
+    "Madaba",
+    35
+   ],
+   [
+    "Tafilah",
+    31
+   ],
+   [
+    "Aqaba",
+    18
+   ]
+  ],
+  "venues": [
+   [
+    "JUST campus",
+    "campus",
+    216,
+    2
+   ],
+   [
+    "King Abdullah University Hospital",
+    "hospital",
+    103,
+    2
+   ]
+  ],
+  "prru": 319,
+  "vmmw": 4,
+  "cum_sites": 5130,
+  "cum_pop_pct": 83.4,
+  "cum_1g_km2": 1071,
+  "rate": 239
+ },
+ {
+  "r": 9,
+  "id": "RO-09",
+  "m_from": 28,
+  "m_to": 30,
+  "window": "Apr 2029 – Jun 2029",
+  "sites": 669,
+  "cls": {
+   "U": 2,
+   "SU": 609,
+   "R": 7,
+   "HW": 51
+  },
+  "types": {
+   "Monopole / greenfield": 528,
+   "Rooftop": 83,
+   "Lattice tower": 58
+  },
+  "sectors": 1956,
+  "aau64": 1833,
+  "aau8": 21,
+  "passive": 1956,
+  "rru_low": 1956,
+  "rru_mid": 1956,
+  "n258": 480,
+  "du_cran": 0,
+  "du_dran": 669,
+  "csr": 669,
+  "fhgw": 0,
+  "hubs": 17,
+  "hub_routers": 34,
+  "mw": 7,
+  "access_km": 764,
+  "agg_km": 121,
+  "bb_km": 0,
+  "spur_km": 47,
+  "bb_routes": [],
+  "rooftop": 83,
+  "mono": 528,
+  "tower": 58,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    550
+   ],
+   [
+    "Irbid",
+    61
+   ],
+   [
+    "Mafraq-Safawi-Ruwaished (R10)",
+    34
+   ],
+   [
+    "Zarqa-Azraq-Safawi",
+    13
+   ],
+   [
+    "Amman governorate (rural)",
+    7
+   ],
+   [
+    "Quweira-Wadi Rum",
+    4
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-78",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    55
+   ],
+   [
+    "HUB-AMM-16",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    49
+   ],
+   [
+    "HUB-AMM-30",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    47
+   ],
+   [
+    "HUB-AMM-32",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    42
+   ],
+   [
+    "HUB-AMM-55",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    40
+   ],
+   [
+    "HUB-AMM-25",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    39
+   ],
+   [
+    "HUB-AMM-53",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-AMM-34",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "HUB-AMM-43",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    36
+   ],
+   [
+    "HUB-AMM-31",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    35
+   ],
+   [
+    "HW|Mafraq-Safawi-Ruwaished (R10)",
+    "Highway corridor",
+    "Mafraq-Safawi-Ruwaished (R10)",
+    34
+   ],
+   [
+    "HUB-IRB-16",
+    "Hub cluster",
+    "Irbid",
+    33
+   ],
+   [
+    "HUB-AMM-68",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    33
+   ],
+   [
+    "HUB-AMM-67",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    32
+   ],
+   [
+    "HUB-AMM-10",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    28
+   ],
+   [
+    "HUB-IRB-02",
+    "Hub cluster",
+    "Irbid",
+    28
+   ],
+   [
+    "HUB-AMM-26",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    22
+   ],
+   [
+    "HUB-AMM-18",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    19
+   ],
+   [
+    "HW|Zarqa-Azraq-Safawi",
+    "Highway corridor",
+    "Zarqa-Azraq-Safawi",
+    13
+   ],
+   [
+    "RUR|Amman|3",
+    "Rural package",
+    "Amman governorate (rural)",
+    7
+   ],
+   [
+    "HW|Quweira-Wadi Rum",
+    "Highway corridor",
+    "Quweira-Wadi Rum",
+    4
+   ]
+  ],
+  "gov": [
+   [
+    "Amman",
+    361
+   ],
+   [
+    "Zarqa",
+    133
+   ],
+   [
+    "Balqa",
+    71
+   ],
+   [
+    "Irbid",
+    61
+   ],
+   [
+    "Mafraq",
+    39
+   ],
+   [
+    "Aqaba",
+    4
+   ]
+  ],
+  "venues": [],
+  "prru": 0,
+  "vmmw": 0,
+  "cum_sites": 5799,
+  "cum_pop_pct": 88.9,
+  "cum_1g_km2": 1309,
+  "rate": 223
+ },
+ {
+  "r": 10,
+  "id": "RO-10",
+  "m_from": 31,
+  "m_to": 33,
+  "window": "Jul 2029 – Sep 2029",
+  "sites": 471,
+  "cls": {
+   "U": 6,
+   "SU": 465
+  },
+  "types": {
+   "Monopole / greenfield": 429,
+   "Rooftop": 42
+  },
+  "sectors": 1413,
+  "aau64": 1413,
+  "aau8": 0,
+  "passive": 1413,
+  "rru_low": 1413,
+  "rru_mid": 1413,
+  "n258": 480,
+  "du_cran": 0,
+  "du_dran": 471,
+  "csr": 471,
+  "fhgw": 0,
+  "hubs": 17,
+  "hub_routers": 34,
+  "mw": 0,
+  "access_km": 579,
+  "agg_km": 80,
+  "bb_km": 0,
+  "spur_km": 0,
+  "bb_routes": [],
+  "rooftop": 42,
+  "mono": 429,
+  "tower": 0,
+  "clusters": [
+   [
+    "Amman-Zarqa Metro",
+    208
+   ],
+   [
+    "Irbid",
+    71
+   ],
+   [
+    "Mutah-Mazar",
+    36
+   ],
+   [
+    "Aqaba",
+    34
+   ],
+   [
+    "Azraq",
+    32
+   ],
+   [
+    "Deir Alla",
+    24
+   ],
+   [
+    "Ghor Safi",
+    23
+   ],
+   [
+    "South Shuna",
+    23
+   ],
+   [
+    "North Shuna",
+    20
+   ]
+  ],
+  "units": [
+   [
+    "HUB-AMM-80",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    50
+   ],
+   [
+    "HUB-AMM-75",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    37
+   ],
+   [
+    "HUB-MUT-01",
+    "Hub cluster",
+    "Mutah-Mazar",
+    36
+   ],
+   [
+    "HUB-AMM-48",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    35
+   ],
+   [
+    "HUB-AQB-01",
+    "Hub cluster",
+    "Aqaba",
+    34
+   ],
+   [
+    "HUB-AZR-01",
+    "Hub cluster",
+    "Azraq",
+    32
+   ],
+   [
+    "HUB-IRB-20",
+    "Hub cluster",
+    "Irbid",
+    26
+   ],
+   [
+    "HUB-IRB-14",
+    "Hub cluster",
+    "Irbid",
+    24
+   ],
+   [
+    "HUB-AMM-08",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    24
+   ],
+   [
+    "HUB-DEI-01",
+    "Hub cluster",
+    "Deir Alla",
+    24
+   ],
+   [
+    "HUB-GHO-01",
+    "Hub cluster",
+    "Ghor Safi",
+    23
+   ],
+   [
+    "HUB-SOU-01",
+    "Hub cluster",
+    "South Shuna",
+    23
+   ],
+   [
+    "HUB-AMM-17",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    22
+   ],
+   [
+    "HUB-AMM-12",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    21
+   ],
+   [
+    "HUB-IRB-10",
+    "Hub cluster",
+    "Irbid",
+    21
+   ],
+   [
+    "HUB-NOR-01",
+    "Hub cluster",
+    "North Shuna",
+    20
+   ],
+   [
+    "HUB-AMM-09",
+    "Hub cluster",
+    "Amman-Zarqa Metro",
+    19
+   ]
+  ],
+  "gov": [
+   [
+    "Balqa",
+    113
+   ],
+   [
+    "Zarqa",
+    110
+   ],
+   [
+    "Irbid",
+    94
+   ],
+   [
+    "Karak",
+    59
+   ],
+   [
+    "Amman",
+    58
+   ],
+   [
+    "Aqaba",
+    34
+   ],
+   [
+    "Ajloun",
+    3
+   ]
+  ],
+  "venues": [
+   [
+    "Queen Alia Intl Airport terminal",
+    "airport",
+    172,
+    13
+   ],
+   [
+    "Tala Bay resort cluster",
+    "resort",
+    252,
+    4
+   ]
+  ],
+  "prru": 424,
+  "vmmw": 17,
+  "cum_sites": 6270,
+  "cum_pop_pct": 93.0,
+  "cum_1g_km2": 1491,
+  "rate": 157
+ }
+]

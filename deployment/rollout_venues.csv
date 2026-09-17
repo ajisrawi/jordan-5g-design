@@ -1,0 +1,52 @@
+rollout,venue,type,n78_pRRU,n258_heads
+RO-02,Abdali Mall,mall,248,10
+RO-02,The Boulevard - Abdali,mixed-use,110,4
+RO-02,Galleria Mall,mall,66,4
+RO-02,Al Baraka Mall,mall,50,4
+RO-02,Istiklal Mall,mall,66,4
+RO-02,Four Seasons Amman,hotel,66,2
+RO-02,The St. Regis Amman,hotel,88,2
+RO-02,The Ritz-Carlton Amman,hotel,79,2
+RO-02,Fairmont Amman,hotel,103,4
+RO-02,W Amman,hotel,86,2
+RO-02,Amman Rotana,hotel,125,4
+RO-02,InterContinental Jordan,hotel,130,4
+RO-02,Amman Marriott,hotel,89,2
+RO-02,Kempinski Amman,hotel,83,2
+RO-02,Le Royal Amman,hotel,105,2
+RO-02,Sheraton Amman,hotel,84,2
+RO-02,Landmark Amman,hotel,79,2
+RO-02,Crowne Plaza Amman,hotel,83,2
+RO-03,Taj Lifestyle Center,mall,164,6
+RO-03,Grand Hyatt Amman,hotel,99,4
+RO-03,Al-Bashir Hospital,hospital,130,2
+RO-03,Amman Intl Stadium / Al-Hussein Youth City,stadium,50,24
+RO-03,Yarmouk University,campus,130,2
+RO-04,City Mall,mall,175,7
+RO-04,Mecca Mall,mall,208,8
+RO-04,King Hussein Business Park,campus,130,2
+RO-04,University of Jordan,campus,270,2
+RO-04,Jordan University Hospital,hospital,103,2
+RO-04,King Hussein Cancer Center,hospital,119,2
+RO-04,Ayla Oasis / Hyatt Regency,resort,112,2
+RO-04,Al Manara - Saraya Aqaba,hotel,69,2
+RO-04,Kempinski Aqaba,hotel,64,2
+RO-04,InterContinental Aqaba,hotel,81,2
+RO-04,Movenpick Aqaba,hotel,90,2
+RO-04,Aqaba Gateway / City Center,mall,44,4
+RO-04,King Hussein Intl Airport (Aqaba),airport,25,6
+RO-04,Arabella Mall Irbid,mall,55,4
+RO-05,Irbid City Centre,mall,88,4
+RO-06,Kempinski Ishtar Dead Sea,hotel,111,4
+RO-06,Movenpick Dead Sea,hotel,109,4
+RO-06,Dead Sea Marriott,hotel,80,2
+RO-06,Hilton Dead Sea,hotel,90,2
+RO-06,Crowne Plaza Dead Sea,hotel,126,4
+RO-06,King Hussein Bin Talal Convention Centre,convention,42,6
+RO-06,Movenpick Petra,hotel,52,2
+RO-06,Petra Marriott,hotel,31,2
+RO-06,Petra Visitor Centre,venue,9,2
+RO-08,JUST campus,campus,216,2
+RO-08,King Abdullah University Hospital,hospital,103,2
+RO-10,Queen Alia Intl Airport terminal,airport,172,13
+RO-10,Tala Bay resort cluster,resort,252,4

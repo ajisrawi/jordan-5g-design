@@ -1,0 +1,361 @@
+site,far_end_fiber_site,hop_km,radio_configuration,capacity,dish_m,antenna_gain_dBi,free_space_loss_dB,RSL_dBm,fade_margin_dB,rain_attenuation_0.01pct_dB,availability_99.99,terrain_line_of_sight,clearance_m_vs_0.6F1
+RUR-R-0002,RUR-R-0001,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.2,34.8,7.3,OK,LOS,31
+RUR-R-0003,RUR-R-0005,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.3,34.7,11.8,OK,LOS,10
+RUR-R-0004,RUR-R-0008,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,26
+RUR-R-0006,RUR-R-0005,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.7,-27.7,34.3,7.7,OK,LOS,39
+RUR-R-0007,RUR-R-0008,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.2,34.8,7.3,OK,LOS,41
+RUR-R-0010,RUR-R-0011,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,BLOCKED by 4 m: raise antennas or relay,-4
+RUR-R-0013,RUR-R-0008,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,LOS,24
+RUR-R-0015,RUR-R-0011,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.0,-27.0,35.0,7.2,OK,LOS,32
+RUR-R-0016,RUR-R-0012,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.9,34.1,7.8,OK,LOS,40
+RUR-R-0017,RUR-R-0012,8.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.6,-25.6,34.4,12.1,OK,LOS,0
+RUR-R-0018,RUR-R-0014,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.2,-27.2,34.8,7.3,OK,LOS,9
+RUR-R-0019,RUR-R-0012,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.1,-25.1,34.9,11.6,OK,LOS,48
+RUR-R-0020,RUR-R-0012,9.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.0,-27.0,33.0,13.6,OK,LOS,43
+RUR-R-0021,HWY-HW-0012,12.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.5,-29.6,30.4,16.7,OK,LOS,48
+RUR-R-0022,TAF-SU-0065,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.2,-26.2,35.8,6.6,OK,LOS,20
+RUR-R-0023,TAF-SU-0065,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.6,OK,LOS,3
+RUR-R-0024,RUR-R-0035,11.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.5,-28.5,31.5,15.4,OK,BLOCKED by 68 m: raise antennas or relay,-68
+RUR-R-0025,RUR-R-0012,13.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,140.2,-30.3,29.7,17.6,OK,BLOCKED by 102 m: raise antennas or relay,-102
+RUR-R-0026,HWY-HW-0011,12.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.6,-29.7,30.3,16.9,OK,LOS,4
+RUR-R-0027,RUR-R-0028,3.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.3,-25.3,36.7,6.0,OK,BLOCKED by 146 m: raise antennas or relay,-146
+RUR-R-0029,RUR-R-0035,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.8,-26.8,35.2,7.0,OK,LOS,44
+RUR-R-0030,RUR-R-0035,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.8,35.2,11.3,OK,LOS,76
+RUR-R-0031,RUR-R-0035,11.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.6,-28.6,31.4,15.5,OK,LOS,23
+RUR-R-0032,HWY-HW-0011,15.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,141.1,-31.2,28.8,18.8,OK,LOS,2
+RUR-R-0033,HWY-HW-0010,10.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.3,-28.3,31.7,15.2,OK,LOS,10
+RUR-R-0034,RUR-R-0028,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,BLOCKED by 34 m: raise antennas or relay,-34
+RUR-R-0036,RUR-R-0035,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.9,-26.0,36.0,6.4,OK,BLOCKED by 8 m: raise antennas or relay,-8
+RUR-R-0037,RUR-R-0035,8.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.8,-25.9,34.1,12.3,OK,LOS,34
+RUR-R-0038,RUR-R-0035,13.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,140.2,-30.2,29.8,17.6,OK,LOS,83
+RUR-R-0039,HWY-HW-0010,13.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,140.2,-30.2,29.8,17.6,OK,BLOCKED by 2 m: raise antennas or relay,-2
+RUR-R-0040,HWY-HW-0010,9.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.4,-27.5,32.5,14.1,OK,LOS,28
+RUR-R-0041,RUR-R-0035,8.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,BLOCKED by 78 m: raise antennas or relay,-78
+RUR-R-0042,RUR-R-0035,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.4,OK,BLOCKED by 5 m: raise antennas or relay,-5
+RUR-R-0043,RUR-R-0035,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,43
+RUR-R-0044,RUR-R-0035,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.7,OK,LOS,67
+RUR-R-0045,MUT-SU-0003,10.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.0,-28.0,32.0,14.8,OK,LOS,5
+RUR-R-0046,MUT-SU-0003,14.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,140.7,-30.7,29.3,18.2,OK,LOS,10
+RUR-R-0047,HWY-HW-0009,12.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.7,-29.7,30.3,17.0,OK,LOS,43
+RUR-R-0048,RUR-R-0049,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.7,34.3,7.6,OK,BLOCKED by 83 m: raise antennas or relay,-83
+RUR-R-0050,RUR-R-0049,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,BLOCKED by 8 m: raise antennas or relay,-8
+RUR-R-0051,MUT-SU-0003,6.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.1,-30.1,31.9,9.7,OK,LOS,11
+RUR-R-0052,MUT-SU-0003,9.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.0,-27.0,33.0,13.6,OK,LOS,6
+RUR-R-0053,MUT-SU-0019,13.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.9,-30.0,30.0,17.2,OK,BLOCKED by 18 m: raise antennas or relay,-18
+RUR-R-0054,HWY-HW-0009,10.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.7,-27.7,32.3,14.5,OK,LOS,6
+RUR-R-0055,RUR-R-0049,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.8,-25.9,36.1,6.4,OK,BLOCKED by 24 m: raise antennas or relay,-24
+RUR-R-0056,MUT-SU-0019,6.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.6,-30.6,31.4,10.1,OK,LOS,12
+RUR-R-0057,MUT-SU-0019,9.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.1,-27.2,32.8,13.8,OK,BLOCKED by 20 m: raise antennas or relay,-20
+RUR-R-0058,HWY-HW-0008,13.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,140.3,-30.3,29.7,17.7,OK,BLOCKED by 74 m: raise antennas or relay,-74
+RUR-R-0059,MUT-SU-0025,7.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.6,-24.6,35.4,11.1,OK,BLOCKED by 307 m: raise antennas or relay,-307
+RUR-R-0060,MUT-SU-0025,2.6,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,138.9,-22.0,36.0,24.2,OK,LOS,27
+RUR-R-0061,MUT-SU-0019,3.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.2,-24.2,37.8,5.4,OK,LOS,23
+RUR-R-0062,MUT-SU-0019,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,LOS,18
+RUR-R-0063,RUR-R-0078,11.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.8,-28.8,31.2,15.7,OK,LOS,2
+RUR-R-0064,HWY-HW-0008,12.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.1,-29.1,30.9,16.2,OK,BLOCKED by 7 m: raise antennas or relay,-7
+RUR-R-0065,MUT-SU-0030,6.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.1,-30.1,31.9,9.6,OK,BLOCKED by 152 m: raise antennas or relay,-152
+RUR-R-0066,KAR-SU-0062,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.6,-24.6,37.4,5.6,OK,LOS,29
+RUR-R-0067,MUT-SU-0036,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.7,-24.7,37.3,5.7,OK,LOS,25
+RUR-R-0068,KAR-SU-0075,6.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.2,-30.2,31.8,9.7,OK,LOS,30
+RUR-R-0069,RUR-R-0078,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.8,34.2,12.2,OK,LOS,38
+RUR-R-0070,RUR-R-0078,9.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.3,-27.4,32.6,14.0,OK,LOS,47
+RUR-R-0071,HWY-HW-0007,10.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.7,-27.7,32.3,14.5,OK,BLOCKED by 25 m: raise antennas or relay,-25
+RUR-R-0072,KAR-SU-0070,6.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.9,-30.9,31.1,10.4,OK,BLOCKED by 163 m: raise antennas or relay,-163
+RUR-R-0073,RUR-R-0078,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.7,-26.8,35.2,7.0,OK,LOS,21
+RUR-R-0074,RUR-R-0078,5.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.9,-29.0,33.0,8.7,OK,LOS,41
+RUR-R-0075,RUR-R-0086,7.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.5,-25.5,34.5,12.0,OK,LOS,9
+RUR-R-0076,KAR-SU-0088,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,BLOCKED by 6 m: raise antennas or relay,-6
+RUR-R-0079,RUR-R-0086,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.7,-26.8,35.2,7.0,OK,LOS,32
+RUR-R-0080,HWY-HW-0073,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.7,-27.7,34.3,7.7,OK,LOS,31
+RUR-R-0081,RUR-R-0082,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,BLOCKED by 213 m: raise antennas or relay,-213
+RUR-R-0083,RUR-R-0089,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.2,-27.2,34.8,7.3,OK,LOS,39
+RUR-R-0084,RUR-R-0077,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,27
+RUR-R-0085,RUR-R-0086,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,32
+RUR-R-0087,RUR-R-0082,8.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.6,-25.6,34.4,12.1,OK,BLOCKED by 41 m: raise antennas or relay,-41
+RUR-R-0088,RUR-R-0082,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,BLOCKED by 41 m: raise antennas or relay,-41
+RUR-R-0090,RUR-R-0089,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,33
+RUR-R-0091,RUR-R-0086,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.9,-24.9,35.1,11.3,OK,LOS,6
+RUR-R-0092,RUR-R-0086,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,43
+RUR-R-0093,RUR-R-0086,5.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.7,-28.8,33.2,8.5,OK,LOS,27
+RUR-R-0094,RUR-R-0089,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.1,-25.1,34.9,11.6,OK,BLOCKED by 30 m: raise antennas or relay,-30
+RUR-R-0095,RUR-R-0096,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,41
+RUR-R-0097,RUR-R-0096,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,38
+RUR-R-0098,RUR-R-0086,8.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.4,-26.4,33.6,12.9,OK,BLOCKED by 34 m: raise antennas or relay,-34
+RUR-R-0099,RUR-R-0086,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.4,34.6,11.9,OK,LOS,17
+RUR-R-0100,HWY-HW-0039,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,BLOCKED by 305 m: raise antennas or relay,-305
+RUR-R-0101,RUR-R-0096,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.7,OK,LOS,42
+RUR-R-0102,RUR-R-0096,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,37
+RUR-R-0103,RUR-R-0096,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.2,-28.2,33.8,8.0,OK,LOS,36
+RUR-R-0104,RUR-R-0096,7.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.5,-25.5,34.5,12.0,OK,LOS,35
+RUR-R-0105,RUR-R-0086,11.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.8,-28.9,31.1,15.8,OK,BLOCKED by 148 m: raise antennas or relay,-148
+RUR-R-0106,HWY-HW-0003,11.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.7,-28.7,31.3,15.6,OK,LOS,25
+RUR-R-0107,RUR-R-0109,9.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.7,-26.7,33.3,13.3,OK,BLOCKED by 97 m: raise antennas or relay,-97
+RUR-R-0108,RUR-R-0109,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,BLOCKED by 70 m: raise antennas or relay,-70
+RUR-R-0110,RUR-R-0109,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,37
+RUR-R-0111,RUR-R-0116,7.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.7,-24.7,35.3,11.1,OK,BLOCKED by 12 m: raise antennas or relay,-12
+RUR-R-0112,RUR-R-0116,12.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.1,-29.1,30.9,16.2,OK,LOS,47
+RUR-R-0113,HWY-HW-0003,8.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.2,-26.3,33.7,12.8,OK,LOS,12
+RUR-R-0114,RUR-R-0109,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.3,34.7,11.7,OK,BLOCKED by 145 m: raise antennas or relay,-145
+RUR-R-0115,RUR-R-0109,3.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.7,-25.7,36.3,6.3,OK,LOS,30
+RUR-R-0117,RUR-R-0116,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,BLOCKED by 167 m: raise antennas or relay,-167
+RUR-R-0118,RUR-R-0116,9.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.9,-26.9,33.1,13.5,OK,LOS,34
+RUR-R-0119,HWY-HW-0002,9.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.4,-27.5,32.5,14.1,OK,LOS,27
+RUR-R-0120,HWY-HW-0037,7.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.7,-24.7,35.3,11.2,OK,BLOCKED by 83 m: raise antennas or relay,-83
+RUR-R-0121,RUR-R-0122,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.2,-28.2,33.8,8.1,OK,BLOCKED by 0 m: raise antennas or relay,0
+RUR-R-0123,RUR-R-0116,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.2,-27.2,34.8,7.3,OK,BLOCKED by 182 m: raise antennas or relay,-182
+RUR-R-0124,RUR-R-0129,8.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.0,-26.0,34.0,12.5,OK,LOS,2
+RUR-R-0125,RUR-R-0116,11.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.0,-29.0,31.0,16.0,OK,LOS,48
+RUR-R-0126,HWY-HW-0002,8.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.9,-25.9,34.1,12.4,OK,LOS,40
+RUR-R-0127,RUR-R-0122,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.7,OK,BLOCKED by 533 m: raise antennas or relay,-533
+RUR-R-0128,RUR-R-0129,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.1,33.9,8.0,OK,LOS,40
+RUR-R-0130,RUR-R-0137,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.5,34.5,7.5,OK,LOS,41
+RUR-R-0131,RUR-R-0137,7.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.7,-24.7,35.3,11.1,OK,LOS,34
+RUR-R-0132,RUR-R-0141,7.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.7,-24.7,35.3,11.1,OK,LOS,25
+RUR-R-0133,RUR-R-0141,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,LOS,26
+RUR-R-0134,HWY-HW-0036,7.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.6,-24.6,35.4,11.1,OK,BLOCKED by 159 m: raise antennas or relay,-159
+RUR-R-0135,RUR-R-0144,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.7,OK,BLOCKED by 158 m: raise antennas or relay,-158
+RUR-R-0136,RUR-R-0144,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.5,34.5,7.5,OK,LOS,24
+RUR-R-0138,RUR-R-0137,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,40
+RUR-R-0139,RUR-R-0137,8.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.8,-25.8,34.2,12.3,OK,LOS,2
+RUR-R-0140,RUR-R-0141,5.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.6,-28.6,33.4,8.4,OK,LOS,33
+RUR-R-0142,RUR-R-0144,9.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.6,-26.6,33.4,13.2,OK,LOS,34
+RUR-R-0143,RUR-R-0144,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,24
+RUR-R-0145,RUR-R-0137,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,34
+RUR-R-0146,RUR-R-0153,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.9,35.1,11.3,OK,LOS,28
+RUR-R-0147,RUR-R-0141,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.4,34.6,11.8,OK,LOS,25
+RUR-R-0148,RUR-R-0157,5.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.7,-28.8,33.2,8.5,OK,LOS,19
+RUR-R-0150,HWY-HW-0035,7.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.0,-25.0,35.0,11.5,OK,LOS,22
+RUR-R-0151,RUR-R-0162,7.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.5,-24.5,35.5,11.0,OK,LOS,8
+RUR-R-0152,RUR-R-0162,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,LOS,39
+RUR-R-0154,RUR-R-0153,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.9,-25.9,36.1,6.4,OK,LOS,19
+RUR-R-0155,RUR-R-0166,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.8,-25.8,34.2,12.3,OK,LOS,21
+RUR-R-0156,RUR-R-0166,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.7,OK,LOS,20
+RUR-R-0158,RUR-R-0157,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,21
+RUR-R-0159,HWY-HW-0034,5.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.2,-29.2,32.8,8.9,OK,LOS,31
+RUR-R-0160,HWY-HW-0034,8.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.4,-26.4,33.6,13.0,OK,BLOCKED by 153 m: raise antennas or relay,-153
+RUR-R-0161,RUR-R-0162,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,35
+RUR-R-0163,RUR-R-0162,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.6,35.4,6.9,OK,LOS,19
+RUR-R-0164,RUR-R-0153,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.9,35.1,11.3,OK,LOS,36
+RUR-R-0165,RUR-R-0166,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.2,33.8,8.0,OK,LOS,27
+RUR-R-0167,RUR-R-0157,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,21
+RUR-R-0168,RUR-R-0157,7.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.5,-24.5,35.5,11.0,OK,LOS,8
+RUR-R-0169,HWY-HW-0034,6.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.9,-31.0,31.0,10.4,OK,LOS,18
+RUR-R-0170,MAD-SU-0118,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.8,35.2,11.2,OK,BLOCKED by 42 m: raise antennas or relay,-42
+RUR-R-0171,MAD-SU-0104,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,3
+RUR-R-0173,RUR-R-0172,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,19
+RUR-R-0174,RUR-R-0166,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.4,34.6,11.8,OK,LOS,31
+RUR-R-0175,RUR-R-0176,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,34
+RUR-R-0177,RUR-R-0176,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.7,34.3,7.6,OK,LOS,38
+RUR-R-0178,AMM-SU-2180,9.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.1,-27.1,32.9,13.7,OK,LOS,29
+RUR-R-0179,DEA-SU-0002,3.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.2,-25.2,36.8,6.0,OK,BLOCKED by 68 m: raise antennas or relay,-68
+RUR-R-0180,MAD-SU-0118,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.8,35.2,11.3,OK,BLOCKED by 63 m: raise antennas or relay,-63
+RUR-R-0181,MAD-SU-0118,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.5,-24.5,37.5,5.6,OK,LOS,25
+RUR-R-0182,MAD-SU-0123,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,BLOCKED by 6 m: raise antennas or relay,-6
+RUR-R-0183,RUR-R-0189,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,34
+RUR-R-0184,AMM-SU-2180,4.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.4,-28.4,33.6,8.2,OK,LOS,29
+RUR-R-0185,AMM-SU-2196,9.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.0,-27.0,33.0,13.6,OK,LOS,30
+RUR-R-0186,DEA-SU-0017,5.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.4,-29.4,32.6,9.1,OK,BLOCKED by 31 m: raise antennas or relay,-31
+RUR-R-0187,MAD-SU-0131,5.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.1,-29.2,32.8,8.8,OK,BLOCKED by 34 m: raise antennas or relay,-34
+RUR-R-0188,RUR-R-0189,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,39
+RUR-R-0190,AMM-SU-2196,6.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.5,-30.5,31.5,10.0,OK,LOS,30
+RUR-R-0191,RUR-R-0212,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.4,34.6,11.9,OK,LOS,42
+RUR-R-0192,DEA-SU-0019,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,LOS,20
+RUR-R-0193,DEA-SU-0017,8.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,BLOCKED by 51 m: raise antennas or relay,-51
+RUR-R-0194,MAD-SU-0143,5.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.5,-28.5,33.5,8.3,OK,BLOCKED by 16 m: raise antennas or relay,-16
+RUR-R-0195,RUR-R-0206,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,26
+RUR-R-0196,RUR-R-0189,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.8,-25.8,36.2,6.4,OK,LOS,25
+RUR-R-0198,RUR-R-0211,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.3,-27.4,34.6,7.4,OK,LOS,32
+RUR-R-0199,RUR-R-0211,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,18
+RUR-R-0200,HWY-HW-0075,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.6,-26.6,35.4,6.9,OK,LOS,37
+RUR-R-0202,RUR-R-0201,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,44
+RUR-R-0203,RUR-R-0216,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,2
+RUR-R-0204,RUR-R-0216,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.5,34.5,7.5,OK,BLOCKED by 25 m: raise antennas or relay,-25
+RUR-R-0205,RUR-R-0206,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.2,-27.2,34.8,7.3,OK,LOS,9
+RUR-R-0207,AMM-SU-2238,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.3,-26.3,35.7,6.7,OK,LOS,12
+RUR-R-0209,AMM-SU-2226,3.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.2,-25.2,36.8,6.0,OK,LOS,19
+RUR-R-0210,AMM-SU-2254,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.9,-27.9,34.1,7.8,OK,LOS,31
+RUR-R-0213,RUR-R-0201,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,35
+RUR-R-0217,RUR-R-0216,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.1,33.9,8.0,OK,BLOCKED by 118 m: raise antennas or relay,-118
+RUR-R-0218,AMM-SU-2351,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.0,-26.0,36.0,6.5,OK,LOS,30
+RUR-R-0220,RUR-R-0219,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,40
+RUR-R-0221,RUR-R-0212,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,15
+RUR-R-0222,SOU-SU-0003,2.8,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,139.3,-22.5,35.5,25.4,OK,BLOCKED by 41 m: raise antennas or relay,-41
+RUR-R-0223,RUR-R-0215,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,LOS,9
+RUR-R-0224,RUR-R-0216,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.3,OK,BLOCKED by 67 m: raise antennas or relay,-67
+RUR-R-0225,AMM-SU-2566,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.4,OK,LOS,33
+RUR-R-0226,RUR-R-0219,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.3,34.7,11.7,OK,BLOCKED by 27 m: raise antennas or relay,-27
+RUR-R-0227,HWY-HW-0075,9.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.2,-27.2,32.8,13.8,OK,LOS,38
+RUR-R-0228,SOU-SU-0016,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.3,-26.4,35.6,6.7,OK,LOS,31
+RUR-R-0229,AMM-SU-2639,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.0,-26.0,36.0,6.5,OK,BLOCKED by 25 m: raise antennas or relay,-25
+RUR-R-0230,AMM-SU-2681,4.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.4,-28.4,33.6,8.2,OK,LOS,1
+RUR-R-0231,AMM-SU-2738,8.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.5,-26.6,33.4,13.1,OK,LOS,11
+RUR-R-0232,RUR-R-0249,12.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.6,-29.7,30.3,16.8,OK,LOS,19
+RUR-R-0234,SOU-SU-0021,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,BLOCKED by 59 m: raise antennas or relay,-59
+RUR-R-0235,AMM-SU-2764,5.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.6,-28.6,33.4,8.4,OK,LOS,31
+RUR-R-0236,AMM-SU-2738,6.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.7,-30.7,31.3,10.2,OK,BLOCKED by 21 m: raise antennas or relay,-21
+RUR-R-0237,RUR-R-0249,9.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.0,-27.0,33.0,13.6,OK,LOS,39
+RUR-R-0238,RUR-R-0249,8.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.0,-26.0,34.0,12.5,OK,LOS,44
+RUR-R-0240,RUR-R-0239,3.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.2,-25.2,36.8,6.0,OK,LOS,28
+RUR-R-0241,SAL-SU-0083,4.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.4,-28.5,33.5,8.2,OK,BLOCKED by 13 m: raise antennas or relay,-13
+RUR-R-0242,AMM-SU-2887,3.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.3,-24.4,37.6,5.5,OK,BLOCKED by 2 m: raise antennas or relay,-2
+RUR-R-0243,AMM-SU-2920,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,LOS,18
+RUR-R-0244,RUR-R-0249,5.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.7,-28.7,33.3,8.4,OK,LOS,34
+RUR-R-0245,RUR-R-0250,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,41
+RUR-R-0247,SAL-SU-0102,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,BLOCKED by 125 m: raise antennas or relay,-125
+RUR-R-0248,RUR-R-0253,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.3,OK,LOS,36
+RUR-R-0252,RUR-R-0246,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.4,-26.4,35.6,6.7,OK,LOS,37
+RUR-R-0254,RUR-R-0249,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,LOS,37
+RUR-R-0255,RUR-R-0250,5.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.7,-28.7,33.3,8.5,OK,LOS,21
+RUR-R-0257,RUR-R-0256,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,BLOCKED by 3 m: raise antennas or relay,-3
+RUR-R-0258,RUR-R-0253,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.5,34.5,7.5,OK,LOS,11
+RUR-R-0259,RUR-R-0253,8.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.6,-25.7,34.3,12.1,OK,LOS,36
+RUR-R-0260,RUR-R-0256,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,36
+RUR-R-0261,RUR-R-0262,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.6,34.4,7.5,OK,LOS,9
+RUR-R-0263,RUR-R-0262,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,1
+RUR-R-0264,AMM-SU-3335,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.5,34.5,7.5,OK,LOS,52
+RUR-R-0265,AMM-SU-3358,2.5,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,138.5,-21.7,36.3,23.2,OK,LOS,10
+RUR-R-0266,AMM-SU-3350,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.1,33.9,8.0,OK,BLOCKED by 29 m: raise antennas or relay,-29
+RUR-R-0267,AMM-SU-3392,3.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.3,-24.3,37.7,5.5,OK,LOS,26
+RUR-R-0268,AMM-SU-3386,5.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.8,-29.8,32.2,9.4,OK,LOS,31
+RUR-R-0269,RUR-R-0253,8.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.5,-26.6,33.4,13.1,OK,BLOCKED by 6 m: raise antennas or relay,-6
+RUR-R-0270,RUR-R-0250,12.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.4,-29.4,30.6,16.5,OK,BLOCKED by 15 m: raise antennas or relay,-15
+RUR-R-0272,RUR-R-0262,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.5,OK,BLOCKED by 31 m: raise antennas or relay,-31
+RUR-R-0273,RUR-R-0262,7.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.5,-24.5,35.5,10.9,OK,LOS,13
+RUR-R-0274,AMM-SU-3358,6.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.6,-30.6,31.4,10.1,OK,LOS,29
+RUR-R-0275,RUR-R-0276,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,28
+RUR-R-0277,RUR-R-0276,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,BLOCKED by 1 m: raise antennas or relay,-1
+RUR-R-0278,AMM-SU-3408,6.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.3,-30.4,31.6,9.9,OK,BLOCKED by 75 m: raise antennas or relay,-75
+RUR-R-0279,AMM-SU-3431,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.2,-26.3,35.7,6.6,OK,LOS,2
+RUR-R-0281,RUR-R-0280,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.2,-28.2,33.8,8.0,OK,LOS,41
+RUR-R-0282,RUR-R-0295,7.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.5,-25.5,34.5,12.0,OK,LOS,42
+RUR-R-0283,RUR-R-0311,11.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.0,-29.1,30.9,16.1,OK,LOS,41
+RUR-R-0284,RUR-R-0311,15.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,141.4,-31.4,28.6,19.2,OK,LOS,45
+RUR-R-0285,DEI-SU-0013,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,6
+RUR-R-0286,RUR-R-0271,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.1,-25.2,34.8,11.6,OK,BLOCKED by 274 m: raise antennas or relay,-274
+RUR-R-0287,RUR-R-0289,9.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.8,-26.8,33.2,13.4,OK,LOS,2
+RUR-R-0288,RUR-R-0289,5.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.0,-29.0,33.0,8.7,OK,BLOCKED by 9 m: raise antennas or relay,-9
+RUR-R-0290,RUR-R-0289,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.8,-25.8,36.2,6.4,OK,BLOCKED by 73 m: raise antennas or relay,-73
+RUR-R-0291,RUR-R-0276,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.6,OK,LOS,9
+RUR-R-0292,AMM-SU-3431,8.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.0,-26.0,34.0,12.5,OK,BLOCKED by 19 m: raise antennas or relay,-19
+RUR-R-0293,AMM-SU-3438,6.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.9,-30.9,31.1,10.4,OK,BLOCKED by 14 m: raise antennas or relay,-14
+RUR-R-0294,RUR-R-0280,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.4,-26.4,35.6,6.7,OK,LOS,5
+RUR-R-0296,RUR-R-0311,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,42
+RUR-R-0297,RUR-R-0311,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.5,34.5,11.9,OK,LOS,39
+RUR-R-0298,RUR-R-0311,11.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.9,-28.9,31.1,15.9,OK,LOS,38
+RUR-R-0299,RUR-R-0355,15.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,141.6,-31.6,28.4,19.4,OK,LOS,26
+RUR-R-0300,DEI-SU-0023,3.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.8,-25.8,36.2,6.4,OK,LOS,36
+RUR-R-0301,DEI-SU-0023,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.9,-24.9,35.1,11.3,OK,LOS,43
+RUR-R-0302,AJL-SU-0042,9.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.2,-27.2,32.8,13.9,OK,BLOCKED by 247 m: raise antennas or relay,-247
+RUR-R-0303,JER-SU-0079,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.3,34.7,11.8,OK,BLOCKED by 56 m: raise antennas or relay,-56
+RUR-R-0304,RUR-R-0305,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,39
+RUR-R-0306,JER-SU-0078,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,15
+RUR-R-0307,JER-SU-0083,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.4,34.6,11.8,OK,BLOCKED by 192 m: raise antennas or relay,-192
+RUR-R-0308,AMM-SU-3438,10.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.0,-28.0,32.0,14.8,OK,BLOCKED by 113 m: raise antennas or relay,-113
+RUR-R-0309,RUR-R-0295,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,BLOCKED by 0 m: raise antennas or relay,0
+RUR-R-0310,RUR-R-0295,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.1,33.9,7.9,OK,LOS,39
+RUR-R-0312,RUR-R-0311,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.1,33.9,7.9,OK,LOS,22
+RUR-R-0313,RUR-R-0311,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.8,34.2,12.2,OK,LOS,24
+RUR-R-0314,RUR-R-0355,12.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.2,-29.2,30.8,16.3,OK,LOS,30
+RUR-R-0315,RUR-R-0356,11.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,139.1,-29.1,30.9,16.1,OK,LOS,17
+RUR-R-0316,RUR-R-0332,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.5,OK,LOS,24
+RUR-R-0317,RUR-R-0332,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,BLOCKED by 23 m: raise antennas or relay,-23
+RUR-R-0318,RUR-R-0332,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.3,34.7,11.8,OK,LOS,11
+RUR-R-0319,AJL-SU-0041,5.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.6,-29.7,32.3,9.2,OK,BLOCKED by 205 m: raise antennas or relay,-205
+RUR-R-0320,AJL-SU-0044,6.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.4,-30.4,31.6,9.9,OK,BLOCKED by 186 m: raise antennas or relay,-186
+RUR-R-0321,JER-SU-0084,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.0,34.0,7.9,OK,LOS,22
+RUR-R-0322,JER-SU-0093,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.2,-26.2,35.8,6.6,OK,LOS,3
+RUR-R-0323,JER-SU-0093,8.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.0,-26.0,34.0,12.5,OK,BLOCKED by 24 m: raise antennas or relay,-24
+RUR-R-0324,RUR-R-0340,11.4,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,138.7,-28.7,31.3,15.7,OK,LOS,4
+RUR-R-0325,RUR-R-0340,7.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.2,-25.2,34.8,11.6,OK,BLOCKED by 0 m: raise antennas or relay,0
+RUR-R-0326,RUR-R-0340,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.3,-26.4,35.6,6.7,OK,LOS,13
+RUR-R-0327,RUR-R-0311,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,23
+RUR-R-0328,MAF-SU-0128,6.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.9,-30.9,31.1,10.4,OK,LOS,27
+RUR-R-0329,RUR-R-0354,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.4,34.6,11.9,OK,LOS,31
+RUR-R-0330,RUR-R-0355,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,LOS,39
+RUR-R-0331,RUR-R-0356,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.8,35.2,11.3,OK,LOS,26
+RUR-R-0333,RUR-R-0332,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,1
+RUR-R-0334,AJL-SU-0045,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.7,-26.7,35.3,7.0,OK,LOS,29
+RUR-R-0335,AJL-SU-0055,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.3,-26.4,35.6,6.7,OK,BLOCKED by 16 m: raise antennas or relay,-16
+RUR-R-0336,JER-SU-0093,6.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.5,-30.5,31.5,10.0,OK,BLOCKED by 81 m: raise antennas or relay,-81
+RUR-R-0337,JER-SU-0093,10.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.6,-27.6,32.4,14.3,OK,BLOCKED by 42 m: raise antennas or relay,-42
+RUR-R-0338,RUR-R-0340,8.6,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.3,-26.3,33.7,12.8,OK,LOS,6
+RUR-R-0339,RUR-R-0340,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.0,-27.0,35.0,7.2,OK,LOS,15
+RUR-R-0341,RUR-R-0354,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,36
+RUR-R-0342,RUR-R-0354,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.2,33.8,8.0,OK,LOS,39
+RUR-R-0343,RUR-R-0356,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,34
+RUR-R-0345,RUR-R-0344,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,BLOCKED by 13 m: raise antennas or relay,-13
+RUR-R-0346,AJL-SU-0062,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.7,OK,LOS,25
+RUR-R-0348,JER-SU-0113,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.7,-24.7,37.3,5.7,OK,LOS,33
+RUR-R-0349,JER-SU-0117,2.9,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,139.6,-22.8,35.2,26.1,OK,LOS,33
+RUR-R-0350,JER-SU-0105,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.2,-28.2,33.8,8.0,OK,BLOCKED by 129 m: raise antennas or relay,-129
+RUR-R-0351,JER-SU-0105,9.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.8,-26.8,33.2,13.4,OK,BLOCKED by 111 m: raise antennas or relay,-111
+RUR-R-0352,MAF-SU-0149,9.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.4,-27.5,32.5,14.1,OK,BLOCKED by 5 m: raise antennas or relay,-5
+RUR-R-0353,MAF-SU-0149,5.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.9,-30.0,32.0,9.5,OK,LOS,32
+RUR-R-0358,RUR-R-0357,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.0,34.0,7.9,OK,BLOCKED by 46 m: raise antennas or relay,-46
+RUR-R-0359,AJL-SU-0065,3.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.3,-24.3,37.7,5.5,OK,BLOCKED by 61 m: raise antennas or relay,-61
+RUR-R-0360,AJL-SU-0077,2.9,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,139.9,-23.1,34.9,26.9,OK,BLOCKED by 34 m: raise antennas or relay,-34
+RUR-R-0361,RUR-R-0347,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.5,OK,LOS,4
+RUR-R-0363,RUR-R-0362,5.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.5,-28.6,33.4,8.3,OK,LOS,33
+RUR-R-0364,JER-SU-0105,9.2,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.8,-26.8,33.2,13.4,OK,BLOCKED by 163 m: raise antennas or relay,-163
+RUR-R-0365,RUR-R-0398,9.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.7,-26.7,33.3,13.3,OK,BLOCKED by 8 m: raise antennas or relay,-8
+RUR-R-0366,RUR-R-0398,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.1,-25.1,34.9,11.6,OK,LOS,6
+RUR-R-0367,MAF-SU-0159,3.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.1,-26.1,35.9,6.6,OK,LOS,18
+RUR-R-0368,MAF-SU-0158,2.6,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,138.7,-21.9,36.1,23.8,OK,LOS,29
+RUR-R-0369,RUR-R-0355,4.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.3,-28.3,33.7,8.1,OK,LOS,41
+RUR-R-0370,RUR-R-0355,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,39
+RUR-R-0372,RUR-R-0371,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.4,-26.4,35.6,6.7,OK,LOS,5
+RUR-R-0373,AJL-SU-0072,7.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,134.4,-31.4,30.6,10.9,OK,BLOCKED by 58 m: raise antennas or relay,-58
+RUR-R-0374,RUR-R-0375,4.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.2,33.8,8.0,OK,LOS,11
+RUR-R-0376,RUR-R-0392,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.0,-27.0,35.0,7.1,OK,LOS,2
+RUR-R-0378,RUR-R-0362,4.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.7,-26.7,35.3,6.9,OK,BLOCKED by 4 m: raise antennas or relay,-4
+RUR-R-0379,RUR-R-0362,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.0,-25.0,35.0,11.5,OK,LOS,10
+RUR-R-0380,RUR-R-0398,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.8,-24.8,35.2,11.2,OK,LOS,7
+RUR-R-0381,RUR-R-0398,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.2,OK,LOS,44
+RUR-R-0382,RUR-R-0398,4.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.9,-26.9,35.1,7.1,OK,LOS,20
+RUR-R-0385,MAF-SU-0175,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,27
+RUR-R-0386,MAF-SU-0162,6.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,134.0,-31.1,30.9,10.5,OK,LOS,22
+RUR-R-0387,RUR-R-0355,8.1,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.7,-25.7,34.3,12.2,OK,LOS,30
+RUR-R-0389,RUR-R-0388,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,LOS,36
+RUR-R-0390,RUR-R-0407,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.0,-25.0,35.0,11.5,OK,BLOCKED by 69 m: raise antennas or relay,-69
+RUR-R-0391,RUR-R-0407,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.1,33.9,7.9,OK,LOS,8
+RUR-R-0393,RUR-R-0392,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.1,-27.1,34.9,7.3,OK,BLOCKED by 12 m: raise antennas or relay,-12
+RUR-R-0395,RUR-R-0394,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.5,-26.5,35.5,6.8,OK,LOS,44
+RUR-R-0396,RUR-R-0411,8.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.1,-26.1,33.9,12.6,OK,LOS,24
+RUR-R-0397,RUR-R-0398,4.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.0,-27.0,35.0,7.2,OK,LOS,39
+RUR-R-0399,RUR-R-0383,4.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.8,-27.8,34.2,7.8,OK,LOS,41
+RUR-R-0400,RUR-R-0414,4.3,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.3,-27.3,34.7,7.4,OK,LOS,43
+RUR-R-0402,RUR-R-0401,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,37
+RUR-R-0403,RUR-R-0401,8.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.5,-26.5,33.5,13.1,OK,LOS,31
+RUR-R-0404,RUR-R-0416,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.5,OK,BLOCKED by 44 m: raise antennas or relay,-44
+RUR-R-0405,RUR-R-0388,7.7,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.3,-25.3,34.7,11.8,OK,BLOCKED by 111 m: raise antennas or relay,-111
+RUR-R-0406,RUR-R-0407,5.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.9,-29.0,33.0,8.7,OK,LOS,42
+RUR-R-0408,IRB-SU-0508,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.6,-24.6,37.4,5.6,OK,BLOCKED by 13 m: raise antennas or relay,-13
+RUR-R-0409,IRB-SU-0540,5.8,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.8,-29.9,32.1,9.4,OK,BLOCKED by 14 m: raise antennas or relay,-14
+RUR-R-0410,RUR-R-0421,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.1,33.9,7.9,OK,LOS,41
+RUR-R-0412,RUR-R-0411,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.4,-26.4,35.6,6.8,OK,BLOCKED by 15 m: raise antennas or relay,-15
+RUR-R-0413,RUR-R-0414,5.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.5,-28.6,33.4,8.3,OK,LOS,42
+RUR-R-0415,RUR-R-0414,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,40
+RUR-R-0417,RUR-R-0416,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,16
+RUR-R-0418,IRB-SU-0614,7.8,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.4,-25.4,34.6,11.9,OK,LOS,3
+RUR-R-0419,IRB-SU-0586,3.2,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.7,-24.7,37.3,5.7,OK,LOS,13
+RUR-R-0420,IRB-SU-0612,3.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,128.3,-25.3,36.7,6.0,OK,LOS,29
+RUR-R-0422,RUR-R-0411,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.0,-25.1,34.9,11.5,OK,BLOCKED by 35 m: raise antennas or relay,-35
+RUR-R-0423,RUR-R-0416,5.0,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.5,-28.5,33.5,8.3,OK,BLOCKED by 46 m: raise antennas or relay,-46
+RUR-R-0424,RUR-R-0416,7.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,134.9,-24.9,35.1,11.3,OK,BLOCKED by 128 m: raise antennas or relay,-128
+RUR-R-0425,IRB-SU-0614,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.5,OK,LOS,9
+RUR-R-0426,RUR-R-0429,4.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.6,-27.6,34.4,7.6,OK,LOS,23
+RUR-R-0427,RUR-R-0428,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.5,-27.5,34.5,7.5,OK,LOS,19
+RUR-R-0431,IRB-SU-0720,3.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,129.3,-26.3,35.7,6.7,OK,LOS,31
+RUR-R-0432,IRB-SU-0764,2.3,"E-band 80 GHz 1+0, 2 GHz channel",10 Gbps,0.6,51.4,137.8,-21.0,37.0,21.7,OK,LOS,22
+RUR-R-0433,IRB-SU-0729,3.1,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,127.2,-24.3,37.7,5.4,OK,LOS,16
+RUR-R-0434,NOR-SU-0018,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.0,-28.0,34.0,7.9,OK,BLOCKED by 38 m: raise antennas or relay,-38
+RUR-R-0435,RUR-R-0429,4.7,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,131.1,-28.1,33.9,8.0,OK,LOS,36
+RUR-R-0436,RUR-R-0430,4.4,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,130.4,-27.4,34.6,7.5,OK,LOS,50
+RUR-R-0437,IRB-SU-0765,6.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,133.8,-30.8,31.2,10.3,OK,LOS,40
+RUR-R-0438,IRB-SU-0768,5.5,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.4,-29.4,32.6,9.0,OK,LOS,2
+RUR-R-0439,IRB-SU-0771,5.6,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,132.5,-29.5,32.5,9.1,OK,LOS,10
+RUR-R-0440,IRB-SU-0764,6.9,E-band + 18 GHz multiband (carrier-bonded),10 Gbps clear-sky / 1 Gbps guaranteed,0.9,42.0,134.4,-31.4,30.6,10.8,OK,LOS,23
+RUR-R-0441,RUR-R-0430,7.5,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,135.1,-25.1,34.9,11.6,OK,BLOCKED by 49 m: raise antennas or relay,-49
+RUR-R-0442,RUR-R-0430,9.3,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,137.0,-27.0,33.0,13.6,OK,BLOCKED by 20 m: raise antennas or relay,-20
+RUR-R-0443,IRB-SU-0765,8.9,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.6,-26.6,33.4,13.2,OK,BLOCKED by 50 m: raise antennas or relay,-50
+RUR-R-0444,IRB-SU-0770,9.0,"18 GHz XPIC 2+0, 2 × 112 MHz, 2048-QAM",2.0 Gbps,1.2,44.5,136.7,-26.7,33.3,13.3,OK,LOS,16

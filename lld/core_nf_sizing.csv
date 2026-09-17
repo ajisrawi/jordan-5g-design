@@ -1,0 +1,13 @@
+network_function,dimensioning_driver,driver_unit,capacity_per_instance,instances_per_DC_N+1,vCPU_per_DC
+AMF,"3,573,770",registered subs,"2,000,000",4,2560
+SMF,"5,718,032",PDU sessions,"3,000,000",4,2880
+AUSF + UDM,"4,204,435",provisioned subs,"5,000,000",3,1440
+UDR (subscriber DB),"4,204,435","provisioned subs, 3 replicas","10,000,000",2,1920
+PCF + BSF,"5,718,032",policy sessions,"3,000,000",4,2240
+CHF (charging),"5,718,032",charging sessions,"4,000,000",4,2560
+NRF + NSSF + SCP,"167,967",SBI transactions/s (≈ 6 per procedure),"60,000",5,1600
+NEF + NWDAF,"4,204,435",exposure / analytics,"10,000,000",2,960
+"IMS (P/I/S-CSCF, TAS, MRF, SBC)","2,522,661",VoNR subs,"1,500,000",4,4400
+SEPP + roaming / interconnect GW,"210,222",roamers,"1,000,000",2,480
+"SMSF + CBCF (SMS, public warning)","4,204,435",subs,"10,000,000",2,400
+"OSS, observability, LI mediation, security","4,204,435",platform,"5,000,000",3,2700

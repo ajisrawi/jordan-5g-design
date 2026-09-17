@@ -1,0 +1,52 @@
+venue,type,lat,lon,served_area_m2,rooms,n78_pRRU_4T4R,RHUB,n258_mmWave_heads,BBU_DU,backhaul
+City Mall,mall,31.9803,35.8368,160000,0,175,22,7,2,2x25GE diverse
+Mecca Mall,mall,31.9769,35.8433,190000,0,208,26,8,3,2x25GE diverse
+Taj Lifestyle Center,mall,31.9408,35.8881,150000,0,164,21,6,2,2x25GE diverse
+Abdali Mall,mall,31.965,35.9075,227000,0,248,31,10,3,2x25GE diverse
+The Boulevard - Abdali,mixed-use,31.9637,35.9085,100000,0,110,14,4,2,2x25GE diverse
+Galleria Mall,mall,31.9557,35.8643,60000,0,66,9,4,1,2x25GE diverse
+Al Baraka Mall,mall,31.957,35.861,45000,0,50,7,4,1,2x10GE diverse
+Istiklal Mall,mall,31.976,35.923,60000,0,66,9,4,1,2x25GE diverse
+Four Seasons Amman,hotel,31.9583,35.8787,45000,192,66,9,2,1,2x25GE diverse
+The St. Regis Amman,hotel,31.956,35.887,60000,260,88,11,2,1,2x25GE diverse
+The Ritz-Carlton Amman,hotel,31.957,35.876,55000,228,79,10,2,1,2x25GE diverse
+Fairmont Amman,hotel,31.956,35.88,65000,317,103,13,4,2,2x25GE diverse
+W Amman,hotel,31.964,35.908,50000,280,86,11,2,1,2x25GE diverse
+Amman Rotana,hotel,31.9645,35.9095,70000,412,125,16,4,2,2x25GE diverse
+Grand Hyatt Amman,hotel,31.952,35.905,60000,311,99,13,4,2,2x25GE diverse
+InterContinental Jordan,hotel,31.9525,35.9105,70000,440,130,17,4,2,2x25GE diverse
+Amman Marriott,hotel,31.971,35.905,50000,292,89,12,2,1,2x25GE diverse
+Kempinski Amman,hotel,31.969,35.899,45000,278,83,11,2,1,2x25GE diverse
+Le Royal Amman,hotel,31.9535,35.9085,80000,283,105,14,2,2,2x25GE diverse
+Sheraton Amman,hotel,31.9575,35.883,50000,267,84,11,2,1,2x25GE diverse
+Landmark Amman,hotel,31.966,35.904,45000,260,79,10,2,1,2x25GE diverse
+Crowne Plaza Amman,hotel,31.96,35.869,45000,279,83,11,2,1,2x25GE diverse
+Queen Alia Intl Airport terminal,airport,31.7226,35.9932,103000,0,172,22,13,2,2x25GE diverse
+King Hussein Business Park,campus,31.9725,35.833,120000,0,130,17,2,2,2x25GE diverse
+University of Jordan,campus,32.016,35.87,250000,0,270,34,2,3,2x25GE diverse
+Jordan University Hospital,hospital,32.009,35.874,95000,0,103,13,2,2,2x25GE diverse
+King Hussein Cancer Center,hospital,32.004,35.876,110000,0,119,15,2,2,2x25GE diverse
+Al-Bashir Hospital,hospital,31.939,35.943,120000,0,130,17,2,2,2x25GE diverse
+Amman Intl Stadium / Al-Hussein Youth City,stadium,31.985,35.901,40000,0,50,7,24,1,2x10GE diverse
+Kempinski Ishtar Dead Sea,hotel,31.718,35.588,70000,345,111,14,4,2,2x25GE diverse
+Movenpick Dead Sea,hotel,31.715,35.5885,65000,346,109,14,4,2,2x25GE diverse
+Dead Sea Marriott,hotel,31.712,35.589,50000,250,80,10,2,1,2x25GE diverse
+Hilton Dead Sea,hotel,31.708,35.589,55000,285,90,12,2,1,2x25GE diverse
+Crowne Plaza Dead Sea,hotel,31.7,35.5885,70000,420,126,16,4,2,2x25GE diverse
+King Hussein Bin Talal Convention Centre,convention,31.7095,35.59,25000,0,42,6,6,1,2x10GE diverse
+Ayla Oasis / Hyatt Regency,resort,29.548,34.988,90000,286,112,14,2,2,2x25GE diverse
+Al Manara - Saraya Aqaba,hotel,29.536,34.999,45000,207,69,9,2,1,2x25GE diverse
+Kempinski Aqaba,hotel,29.533,35.0,40000,200,64,8,2,1,2x25GE diverse
+InterContinental Aqaba,hotel,29.535,34.9975,50000,255,81,11,2,1,2x25GE diverse
+Movenpick Aqaba,hotel,29.531,35.001,50000,296,90,12,2,1,2x25GE diverse
+Tala Bay resort cluster,resort,29.408,34.978,120000,900,252,32,4,3,2x25GE diverse
+Aqaba Gateway / City Center,mall,29.529,35.002,40000,0,44,6,4,1,2x10GE diverse
+King Hussein Intl Airport (Aqaba),airport,29.6116,35.0181,15000,0,25,4,6,1,2x10GE diverse
+Movenpick Petra,hotel,30.3245,35.469,25000,183,52,7,2,1,2x10GE diverse
+Petra Marriott,hotel,30.313,35.49,18000,100,31,4,2,1,2x10GE diverse
+Petra Visitor Centre,venue,30.324,35.468,8000,0,9,2,2,1,2x10GE diverse
+Arabella Mall Irbid,mall,32.5385,35.847,50000,0,55,7,4,1,2x10GE diverse
+Irbid City Centre,mall,32.534,35.864,80000,0,88,11,4,1,2x25GE diverse
+Yarmouk University,campus,32.5365,35.854,120000,0,130,17,2,2,2x25GE diverse
+JUST campus,campus,32.495,35.989,200000,0,216,27,2,3,2x25GE diverse
+King Abdullah University Hospital,hospital,32.4985,35.992,95000,0,103,13,2,2,2x25GE diverse

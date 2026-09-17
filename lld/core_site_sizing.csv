@@ -1,0 +1,8 @@
+site,user_plane_share,peak_Gbps,UPF_servers_N+1,control_plane_servers,total_servers,racks,IT_load_kW,400GE_ports_to_transport
+DC1 Amman West,27.5 %,822,8,315,323,23,254,6
+DC2 Amman East,27.5 %,822,8,315,323,23,254,6
+Amman Centre edge,8.0 %,239,3,0,9,3,19,2
+Zarqa edge,7.0 %,209,3,0,9,3,19,2
+Irbid regional DC,15.0 %,449,5,0,17,4,25,4
+Aqaba regional DC,8.0 %,239,3,0,15,3,23,2
+"Regional PoPs (Karak, Ma'an, Mafraq)",7.0 %,209,3,0,9,3,19,2

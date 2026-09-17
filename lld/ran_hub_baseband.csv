@@ -1,0 +1,151 @@
+hub_id,cluster,type,sites,access_rings,pooled_DUs,racks_incl_transport_power,IT_load_kW,facility_load_kW,grid_kVA,busy_hour_Gbps,peak_Gbps
+HUB-AJL-01,Ajloun,Pre-aggregation,25,4,0,2,4.2,5.9,10,8.4,17.8
+HUB-AJL-02,Ajloun,C-RAN,29,4,22,4,15.2,21.3,30,9.9,20.1
+HUB-AJL-03,Ajloun,Pre-aggregation,27,4,0,2,4.2,5.9,10,9.1,18.8
+HUB-AMM-01,Amman-Zarqa Metro,C-RAN,42,6,32,5,20.2,28.3,40,17.9,32.0
+HUB-AMM-02,Amman-Zarqa Metro,C-RAN,39,6,30,5,19.2,26.9,40,16.6,30.1
+HUB-AMM-03,Amman-Zarqa Metro,C-RAN,53,8,40,6,24.2,33.9,50,21.9,38.0
+HUB-AMM-04,Amman-Zarqa Metro,C-RAN,36,5,27,5,17.7,24.8,40,15.3,28.2
+HUB-AMM-05,Amman-Zarqa Metro,C-RAN,40,6,30,5,19.2,26.9,40,17.0,30.8
+HUB-AMM-06,Amman-Zarqa Metro,Pre-aggregation,33,5,0,2,4.2,5.9,10,10.2,20.5
+HUB-AMM-07,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,20.4,35.9
+HUB-AMM-08,Amman-Zarqa Metro,Pre-aggregation,24,4,0,2,4.2,5.9,10,6.0,14.3
+HUB-AMM-09,Amman-Zarqa Metro,Pre-aggregation,19,3,0,2,4.2,5.9,10,5.1,12.9
+HUB-AMM-10,Amman-Zarqa Metro,Pre-aggregation,28,4,0,2,4.2,5.9,10,7.1,15.8
+HUB-AMM-11,Amman-Zarqa Metro,C-RAN,37,6,28,5,18.2,25.5,40,15.8,28.8
+HUB-AMM-12,Amman-Zarqa Metro,Pre-aggregation,21,3,0,2,4.2,5.9,10,5.3,13.1
+HUB-AMM-13,Amman-Zarqa Metro,C-RAN,47,7,36,5,22.2,31.1,40,34.0,56.2
+HUB-AMM-14,Amman-Zarqa Metro,C-RAN,51,8,39,6,23.7,33.2,50,36.9,60.5
+HUB-AMM-15,Amman-Zarqa Metro,C-RAN,41,6,31,5,19.7,27.6,40,16.8,30.4
+HUB-AMM-16,Amman-Zarqa Metro,Pre-aggregation,49,7,0,2,4.2,5.9,10,12.3,23.7
+HUB-AMM-17,Amman-Zarqa Metro,Pre-aggregation,22,3,0,2,4.2,5.9,10,5.9,14.0
+HUB-AMM-18,Amman-Zarqa Metro,Pre-aggregation,19,3,0,2,4.2,5.9,10,5.1,12.9
+HUB-AMM-19,Amman-Zarqa Metro,C-RAN,41,6,31,5,19.7,27.6,40,15.7,28.8
+HUB-AMM-20,Amman-Zarqa Metro,Pre-aggregation,33,5,0,2,4.2,5.9,10,8.7,18.2
+HUB-AMM-21,Amman-Zarqa Metro,Pre-aggregation,35,5,0,2,4.2,5.9,10,9.7,19.7
+HUB-AMM-22,Amman-Zarqa Metro,C-RAN,37,6,28,5,18.2,25.5,40,13.5,25.4
+HUB-AMM-23,Amman-Zarqa Metro,C-RAN,43,6,33,5,20.7,29.0,40,25.1,42.9
+HUB-AMM-24,Amman-Zarqa Metro,C-RAN,42,6,32,5,20.2,28.3,40,17.9,32.0
+HUB-AMM-25,Amman-Zarqa Metro,Pre-aggregation,39,6,0,2,4.2,5.9,10,9.8,19.9
+HUB-AMM-26,Amman-Zarqa Metro,Pre-aggregation,22,3,0,2,4.2,5.9,10,5.5,13.5
+HUB-AMM-27,Amman-Zarqa Metro,C-RAN,36,5,27,5,17.7,24.8,40,15.3,28.2
+HUB-AMM-28,Amman-Zarqa Metro,C-RAN,61,9,46,6,27.2,38.1,50,43.5,70.5
+HUB-AMM-29,Amman-Zarqa Metro,C-RAN,42,6,32,5,20.2,28.3,40,16.0,29.2
+HUB-AMM-30,Amman-Zarqa Metro,Pre-aggregation,47,7,0,2,4.2,5.9,10,11.8,23.0
+HUB-AMM-31,Amman-Zarqa Metro,Pre-aggregation,35,5,0,2,4.2,5.9,10,8.8,18.4
+HUB-AMM-32,Amman-Zarqa Metro,Pre-aggregation,42,6,0,2,4.2,5.9,10,10.6,21.1
+HUB-AMM-33,Amman-Zarqa Metro,C-RAN,52,8,39,6,23.7,33.2,50,19.5,34.5
+HUB-AMM-34,Amman-Zarqa Metro,Pre-aggregation,36,5,0,2,4.2,5.9,10,9.1,18.8
+HUB-AMM-35,Amman-Zarqa Metro,C-RAN,43,6,33,5,20.7,29.0,40,18.3,32.7
+HUB-AMM-36,Amman-Zarqa Metro,C-RAN,29,4,22,4,15.2,21.3,30,11.7,22.7
+HUB-AMM-37,Amman-Zarqa Metro,Pre-aggregation,48,7,0,2,4.2,5.9,10,12.1,23.3
+HUB-AMM-38,Amman-Zarqa Metro,C-RAN,44,7,33,5,20.7,29.0,40,29.7,49.8
+HUB-AMM-39,Amman-Zarqa Metro,C-RAN,41,6,31,5,19.7,27.6,40,16.2,29.6
+HUB-AMM-40,Amman-Zarqa Metro,C-RAN,54,8,41,6,24.7,34.6,50,21.6,37.6
+HUB-AMM-41,Amman-Zarqa Metro,C-RAN,50,7,38,6,23.2,32.5,50,31.7,52.7
+HUB-AMM-42,Amman-Zarqa Metro,C-RAN,33,5,25,5,16.7,23.4,30,14.1,26.3
+HUB-AMM-43,Amman-Zarqa Metro,Pre-aggregation,36,5,0,2,4.2,5.9,10,9.1,18.8
+HUB-AMM-44,Amman-Zarqa Metro,C-RAN,44,7,33,5,20.7,29.0,40,18.7,33.3
+HUB-AMM-45,Amman-Zarqa Metro,C-RAN,46,7,35,5,21.7,30.4,40,22.6,39.0
+HUB-AMM-46,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,16.8,30.4
+HUB-AMM-47,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,20.4,35.9
+HUB-AMM-48,Amman-Zarqa Metro,Pre-aggregation,35,5,0,2,4.2,5.9,10,8.8,18.4
+HUB-AMM-49,Amman-Zarqa Metro,C-RAN,38,6,29,5,18.7,26.2,40,16.2,29.5
+HUB-AMM-50,Amman-Zarqa Metro,Pre-aggregation,34,5,0,2,4.2,5.9,10,9.3,19.1
+HUB-AMM-51,Amman-Zarqa Metro,C-RAN,36,5,27,5,17.7,24.8,40,13.6,25.6
+HUB-AMM-52,Amman-Zarqa Metro,C-RAN,54,8,41,6,24.7,34.6,50,31.6,52.6
+HUB-AMM-53,Amman-Zarqa Metro,Pre-aggregation,37,6,0,2,4.2,5.9,10,9.3,19.2
+HUB-AMM-54,Amman-Zarqa Metro,C-RAN,38,6,29,5,18.7,26.2,40,15.7,28.7
+HUB-AMM-55,Amman-Zarqa Metro,Pre-aggregation,40,6,0,2,4.2,5.9,10,10.1,20.3
+HUB-AMM-56,Amman-Zarqa Metro,C-RAN,49,7,37,6,22.7,31.8,40,20.9,36.5
+HUB-AMM-57,Amman-Zarqa Metro,C-RAN,51,8,39,6,23.7,33.2,50,21.7,37.8
+HUB-AMM-58,Amman-Zarqa Metro,Pre-aggregation,36,5,0,2,4.2,5.9,10,11.2,21.9
+HUB-AMM-59,Amman-Zarqa Metro,C-RAN,45,7,34,5,21.2,29.7,40,25.4,43.3
+HUB-AMM-60,Amman-Zarqa Metro,C-RAN,37,6,28,5,18.2,25.5,40,13.3,25.2
+HUB-AMM-61,Amman-Zarqa Metro,C-RAN,39,6,30,5,19.2,26.9,40,14.4,26.7
+HUB-AMM-62,Amman-Zarqa Metro,C-RAN,46,7,35,5,21.7,30.4,40,18.4,32.8
+HUB-AMM-63,Amman-Zarqa Metro,C-RAN,33,5,25,5,16.7,23.4,30,14.1,26.3
+HUB-AMM-64,Amman-Zarqa Metro,C-RAN,43,6,33,5,20.7,29.0,40,19.8,34.9
+HUB-AMM-65,Amman-Zarqa Metro,C-RAN,37,6,28,5,18.2,25.5,40,15.1,27.8
+HUB-AMM-66,Amman-Zarqa Metro,C-RAN,42,6,32,5,20.2,28.3,40,15.8,28.9
+HUB-AMM-67,Amman-Zarqa Metro,Pre-aggregation,32,5,0,2,4.2,5.9,10,8.1,17.3
+HUB-AMM-68,Amman-Zarqa Metro,Pre-aggregation,33,5,0,2,4.2,5.9,10,8.3,17.7
+HUB-AMM-69,Amman-Zarqa Metro,C-RAN,55,8,42,6,25.2,35.3,50,38.6,63.1
+HUB-AMM-70,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,19.9,35.1
+HUB-AMM-71,Amman-Zarqa Metro,Pre-aggregation,29,4,0,2,4.2,5.9,10,9.0,18.8
+HUB-AMM-72,Amman-Zarqa Metro,C-RAN,39,6,30,5,19.2,26.9,40,14.0,26.2
+HUB-AMM-73,Amman-Zarqa Metro,Pre-aggregation,46,7,0,2,4.2,5.9,10,11.6,22.6
+HUB-AMM-74,Amman-Zarqa Metro,Pre-aggregation,26,4,0,2,4.2,5.9,10,6.9,15.6
+HUB-AMM-75,Amman-Zarqa Metro,Pre-aggregation,37,6,0,2,4.2,5.9,10,9.3,19.2
+HUB-AMM-76,Amman-Zarqa Metro,Pre-aggregation,33,5,0,2,4.2,5.9,10,10.8,21.3
+HUB-AMM-77,Amman-Zarqa Metro,C-RAN,41,6,31,5,19.7,27.6,40,17.5,31.4
+HUB-AMM-78,Amman-Zarqa Metro,Pre-aggregation,55,8,0,2,4.2,5.9,10,13.9,26.0
+HUB-AMM-79,Amman-Zarqa Metro,C-RAN,41,6,31,5,19.7,27.6,40,17.5,31.4
+HUB-AMM-80,Amman-Zarqa Metro,Pre-aggregation,50,7,0,2,4.2,5.9,10,12.6,24.1
+HUB-AMM-81,Amman-Zarqa Metro,Pre-aggregation,41,6,0,2,4.2,5.9,10,13.8,25.9
+HUB-AMM-82,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,34.7,57.3
+HUB-AMM-83,Amman-Zarqa Metro,C-RAN,48,7,36,5,22.2,31.1,40,20.7,36.3
+HUB-AMM-84,Amman-Zarqa Metro,Pre-aggregation,30,5,0,2,4.2,5.9,10,9.6,19.7
+HUB-AMM-85,Amman-Zarqa Metro,C-RAN,35,5,27,5,17.7,24.8,40,14.9,27.6
+HUB-AMM-86,Amman-Zarqa Metro,C-RAN,47,7,36,5,22.2,31.1,40,18.3,32.6
+HUB-AQB-01,Aqaba,Pre-aggregation,34,5,0,2,4.2,5.9,10,8.6,18.1
+HUB-AQB-02,Aqaba,Pre-aggregation,24,4,0,2,4.2,5.9,10,6.0,14.3
+HUB-AQB-03,Aqaba,C-RAN,52,8,39,6,23.7,33.2,50,21.1,36.9
+HUB-AQB-04,Aqaba,Pre-aggregation,18,3,0,2,4.2,5.9,10,4.5,12.0
+HUB-AQB-05,Aqaba,C-RAN,57,8,43,6,25.7,36.0,50,23.6,40.6
+HUB-AQB-06,Aqaba,C-RAN,52,8,39,6,23.7,33.2,50,21.8,37.9
+HUB-AQB-07,Aqaba,Pre-aggregation,14,2,0,2,4.2,5.9,10,3.5,10.5
+HUB-AZR-01,Azraq,Pre-aggregation,32,5,0,2,4.2,5.9,10,8.1,17.3
+HUB-DEA-01,Dead Sea,Pre-aggregation,19,3,0,2,4.2,5.9,10,4.8,12.4
+HUB-DEI-01,Deir Alla,Pre-aggregation,24,4,0,2,4.2,5.9,10,6.0,14.3
+HUB-GHO-01,Ghor Safi,Pre-aggregation,23,4,0,2,4.2,5.9,10,5.8,13.9
+HUB-IRB-01,Irbid,C-RAN,38,6,29,5,18.7,26.2,40,23.6,40.6
+HUB-IRB-02,Irbid,Pre-aggregation,28,4,0,2,4.2,5.9,10,7.1,15.8
+HUB-IRB-03,Irbid,C-RAN,35,5,27,5,17.7,24.8,40,13.7,25.7
+HUB-IRB-04,Irbid,C-RAN,38,6,29,5,18.7,26.2,40,13.2,25.0
+HUB-IRB-05,Irbid,C-RAN,38,6,29,5,18.7,26.2,40,18.3,32.6
+HUB-IRB-06,Irbid,C-RAN,60,9,45,6,26.7,37.4,50,20.9,36.5
+HUB-IRB-07,Irbid,C-RAN,41,6,31,5,19.7,27.6,40,17.3,31.1
+HUB-IRB-08,Irbid,C-RAN,41,6,31,5,19.7,27.6,40,16.9,30.6
+HUB-IRB-09,Irbid,C-RAN,37,6,28,5,18.2,25.5,40,13.2,24.9
+HUB-IRB-10,Irbid,Pre-aggregation,21,3,0,2,4.2,5.9,10,5.3,13.1
+HUB-IRB-11,Irbid,C-RAN,44,7,33,5,20.7,29.0,40,18.7,33.3
+HUB-IRB-12,Irbid,Pre-aggregation,27,4,0,2,4.2,5.9,10,7.0,15.7
+HUB-IRB-13,Irbid,C-RAN,71,10,54,7,31.2,43.7,60,27.3,46.1
+HUB-IRB-14,Irbid,Pre-aggregation,24,4,0,2,4.2,5.9,10,6.4,14.8
+HUB-IRB-15,Irbid,C-RAN,52,8,39,6,23.7,33.2,50,30.5,50.9
+HUB-IRB-16,Irbid,Pre-aggregation,33,5,0,2,4.2,5.9,10,8.3,17.7
+HUB-IRB-17,Irbid,C-RAN,42,6,32,5,20.2,28.3,40,17.9,32.0
+HUB-IRB-18,Irbid,C-RAN,42,6,32,5,20.2,28.3,40,14.6,27.1
+HUB-IRB-19,Irbid,Pre-aggregation,35,5,0,2,4.2,5.9,10,11.4,22.3
+HUB-IRB-20,Irbid,Pre-aggregation,26,4,0,2,4.2,5.9,10,6.6,15.0
+HUB-JER-01,Jerash,C-RAN,38,6,29,5,18.7,26.2,40,13.4,25.3
+HUB-JER-02,Jerash,C-RAN,40,6,30,5,19.2,26.9,40,14.1,26.3
+HUB-JER-03,Jerash,C-RAN,39,6,30,5,19.2,26.9,40,13.7,25.7
+HUB-KAR-01,Karak,Pre-aggregation,34,5,0,2,4.2,5.9,10,11.4,22.2
+HUB-KAR-02,Karak,C-RAN,35,5,27,5,17.7,24.8,40,12.3,23.7
+HUB-KAR-03,Karak,C-RAN,38,6,29,5,18.7,26.2,40,13.9,26.1
+HUB-MA-01,Ma'an,C-RAN,35,5,27,5,17.7,24.8,40,12.5,23.9
+HUB-MA-02,Ma'an,C-RAN,35,5,27,5,17.7,24.8,40,13.2,25.0
+HUB-MA-03,Ma'an,C-RAN,35,5,27,5,17.7,24.8,40,12.6,24.2
+HUB-MA-04,Ma'an,C-RAN,32,5,24,4,16.2,22.7,30,11.2,22.0
+HUB-MAD-01,Madaba,C-RAN,36,5,27,5,17.7,24.8,40,12.6,24.0
+HUB-MAD-02,Madaba,C-RAN,41,6,31,5,19.7,27.6,40,15.2,28.0
+HUB-MAD-03,Madaba,C-RAN,39,6,30,5,19.2,26.9,40,14.4,26.7
+HUB-MAD-04,Madaba,C-RAN,42,6,32,5,20.2,28.3,40,15.5,28.4
+HUB-MAF-01,Mafraq,C-RAN,31,5,24,4,16.2,22.7,30,10.8,21.4
+HUB-MAF-02,Mafraq,C-RAN,36,5,27,5,17.7,24.8,40,13.2,25.1
+HUB-MAF-03,Mafraq,C-RAN,36,5,27,5,17.7,24.8,40,13.1,24.8
+HUB-MAF-04,Mafraq,C-RAN,35,5,27,5,17.7,24.8,40,12.5,23.9
+HUB-MAF-05,Mafraq,C-RAN,39,6,30,5,19.2,26.9,40,15.9,29.1
+HUB-MUT-01,Mutah-Mazar,Pre-aggregation,36,5,0,2,4.2,5.9,10,9.1,18.8
+HUB-NOR-01,North Shuna,Pre-aggregation,20,3,0,2,4.2,5.9,10,5.0,12.8
+HUB-SAL-01,Salt,C-RAN,35,5,27,5,17.7,24.8,40,12.6,24.2
+HUB-SAL-02,Salt,C-RAN,35,5,27,5,17.7,24.8,40,12.6,24.2
+HUB-SAL-03,Salt,C-RAN,31,5,24,4,16.2,22.7,30,10.9,21.6
+HUB-SAL-04,Salt,C-RAN,36,5,27,5,17.7,24.8,40,12.6,24.0
+HUB-SOU-01,South Shuna,Pre-aggregation,23,4,0,2,4.2,5.9,10,5.8,13.9
+HUB-TAF-01,Tafilah,Pre-aggregation,30,5,0,2,4.2,5.9,10,10.2,20.5
+HUB-TAF-02,Tafilah,C-RAN,42,6,32,5,20.2,28.3,40,15.5,28.4
+HUB-WAD-01,Wadi Musa / Petra,Pre-aggregation,34,5,0,2,4.2,5.9,10,11.4,22.2
+HUB-WAD-02,Wadi Musa / Petra,C-RAN,31,5,24,4,16.2,22.7,30,11.6,22.7

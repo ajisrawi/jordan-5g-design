@@ -1,0 +1,6 @@
+data/raw/
+report_assets/
+__pycache__/
+*.pyc
+.claude/
+output/run.log

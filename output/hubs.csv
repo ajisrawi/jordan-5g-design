@@ -1,0 +1,151 @@
+hub_id,host_site,type,cluster,pop,sites_served,lat,lon
+HUB-AJL-01,AJL-U-0040,Pre-aggregation (D-RAN sites),Ajloun,POP-AJL,25,32.34626,35.75812
+HUB-AJL-02,AJL-U-0003,C-RAN DU hotel + pre-aggregation,Ajloun,POP-AJL,29,32.32036,35.75623
+HUB-AJL-03,AJL-U-0015,Pre-aggregation (D-RAN sites),Ajloun,POP-AJL,27,32.33216,35.73922
+HUB-AMM-01,AMM-U-1959,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,42,32.07054,36.07004
+HUB-AMM-02,AMM-U-1015,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,39,31.97619,35.83138
+HUB-AMM-03,AMM-U-0931,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,53,31.96047,36.01096
+HUB-AMM-04,AMM-U-1264,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,36,32.00086,35.83374
+HUB-AMM-05,AMM-U-1555,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,40,32.02119,35.90368
+HUB-AMM-06,AMM-SU-2952,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC2,33,32.01845,35.96449
+HUB-AMM-07,AMM-U-1533,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,48,32.01686,36.06295
+HUB-AMM-08,AMM-SU-3410,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,24,32.11753,36.05665
+HUB-AMM-09,AMM-SU-3406,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,19,32.11126,36.12286
+HUB-AMM-10,AMM-SU-2726,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC2,28,31.93308,36.05119
+HUB-AMM-11,AMM-U-1369,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,37,32.00710,35.88194
+HUB-AMM-12,AMM-SU-2916,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,21,32.00945,36.08873
+HUB-AMM-13,AMM-DU-0199,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,47,31.96137,35.87115
+HUB-AMM-14,AMM-DU-0261,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,51,31.96724,35.89478
+HUB-AMM-15,AMM-U-1691,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,41,32.03258,36.03459
+HUB-AMM-16,AMM-SU-2320,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,49,31.85281,36.00204
+HUB-AMM-17,AMM-SU-2991,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,22,32.02531,36.11877
+HUB-AMM-18,AMM-SU-3333,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,19,32.08072,36.14061
+HUB-AMM-19,AMM-U-0935,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,41,31.96521,35.81058
+HUB-AMM-20,AMM-SU-2519,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,33,31.88609,35.87575
+HUB-AMM-21,AMM-SU-3011,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC2,35,32.02863,35.99862
+HUB-AMM-22,AMM-U-0744,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,37,31.93742,35.81956
+HUB-AMM-23,AMM-DU-0399,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,43,31.98487,35.89478
+HUB-AMM-24,AMM-U-1870,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,42,32.05291,36.10076
+HUB-AMM-25,AMM-SU-2643,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC1,39,31.91331,35.79793
+HUB-AMM-26,AMM-SU-3134,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,22,32.05017,36.01774
+HUB-AMM-27,AMM-U-1269,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,36,31.99964,35.85690
+HUB-AMM-28,AMM-DU-0275,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,61,31.96623,35.94953
+HUB-AMM-29,AMM-U-0613,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,42,31.92292,35.84366
+HUB-AMM-30,AMM-SU-2308,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,47,31.85163,35.92012
+HUB-AMM-31,AMM-SU-2328,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,35,31.85731,35.87507
+HUB-AMM-32,AMM-SU-3167,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,42,32.05526,35.96244
+HUB-AMM-33,AMM-U-0551,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,52,31.91194,35.97694
+HUB-AMM-34,AMM-SU-2803,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC1,36,31.96990,35.77335
+HUB-AMM-35,AMM-U-0567,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,43,31.91546,35.92353
+HUB-AMM-36,AMM-U-1791,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,29,32.04153,35.85737
+HUB-AMM-37,AMM-SU-2480,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,48,31.88335,35.83820
+HUB-AMM-38,AMM-DU-0020,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,44,31.93686,35.92983
+HUB-AMM-39,AMM-U-1168,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,41,31.98947,36.00529
+HUB-AMM-40,AMM-U-0474,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,54,31.90055,35.94716
+HUB-AMM-41,AMM-DU-0028,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,50,31.94081,35.90069
+HUB-AMM-42,AMM-U-2098,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,33,32.09168,36.11352
+HUB-AMM-43,AMM-SU-2890,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC1,36,32.00553,35.76994
+HUB-AMM-44,AMM-U-1329,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,44,32.00276,35.92117
+HUB-AMM-45,AMM-U-0755,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,46,31.93661,35.87060
+HUB-AMM-46,AMM-SU-2525,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,48,31.88844,35.91671
+HUB-AMM-47,AMM-U-1023,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,48,31.97538,35.97788
+HUB-AMM-48,AMM-SU-3252,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,35,32.07054,35.80612
+HUB-AMM-49,AMM-U-1677,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,38,32.03177,35.88242
+HUB-AMM-50,AMM-SU-2820,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC2,34,31.97381,36.04163
+HUB-AMM-51,AMM-U-0527,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,36,31.91275,35.86446
+HUB-AMM-52,AMM-U-0762,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,54,31.93661,35.95756
+HUB-AMM-53,AMM-SU-3265,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,37,32.07054,35.92490
+HUB-AMM-54,AMM-U-1252,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,38,31.99652,35.98166
+HUB-AMM-55,AMM-SU-2247,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,40,31.83636,35.95630
+HUB-AMM-56,AMM-U-1246,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,49,31.99571,35.95425
+HUB-AMM-57,AMM-U-0561,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-S,51,31.91505,35.89470
+HUB-AMM-58,AMM-SU-3304,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,36,32.07563,36.04163
+HUB-AMM-59,AMM-U-1046,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,45,31.97849,35.86162
+HUB-AMM-60,AMM-U-2165,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,37,32.11364,36.08894
+HUB-AMM-61,AMM-U-1537,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,39,32.02038,35.81956
+HUB-AMM-62,AMM-U-1394,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,46,32.00628,36.03696
+HUB-AMM-63,AMM-U-1969,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,33,32.07054,36.11635
+HUB-AMM-64,AMM-U-0856,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,43,31.95071,35.84319
+HUB-AMM-65,AMM-U-1744,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,37,32.03529,36.09461
+HUB-AMM-66,AMM-U-1644,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,42,32.02906,35.93298
+HUB-AMM-67,AMM-SU-2730,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC1,32,31.93935,35.78018
+HUB-AMM-68,AMM-SU-3344,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,33,32.08463,35.88599
+HUB-AMM-69,AMM-DU-0372,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,55,31.97831,35.92235
+HUB-AMM-70,AMM-U-1846,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,48,32.04858,36.06531
+HUB-AMM-71,AMM-SU-3078,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,29,32.04391,35.83138
+HUB-AMM-72,AMM-U-1128,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC1,39,31.99029,35.80775
+HUB-AMM-73,AMM-SU-2433,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,46,31.87258,35.96722
+HUB-AMM-74,AMM-SU-3195,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,26,32.06035,35.87438
+HUB-AMM-75,AMM-SU-3045,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC1,37,32.03999,35.78701
+HUB-AMM-76,AMM-SU-3120,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-N,33,32.04959,35.90920
+HUB-AMM-77,AMM-U-2105,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,41,32.09521,36.07334
+HUB-AMM-78,AMM-SU-2563,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,55,31.89236,36.02115
+HUB-AMM-79,AMM-U-1586,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,41,32.02472,35.85028
+HUB-AMM-80,AMM-SU-2192,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-AMM-S,50,31.72377,35.99111
+HUB-AMM-81,AMM-SU-2708,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,DC2,41,31.92682,36.00545
+HUB-AMM-82,AMM-DU-0183,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-C,48,31.95708,35.92038
+HUB-AMM-83,AMM-U-0841,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,DC2,48,31.94718,35.97694
+HUB-AMM-84,AMM-SU-3139,Pre-aggregation (D-RAN sites),Amman-Zarqa Metro,POP-ZRQ,30,32.04959,36.13447
+HUB-AMM-85,AMM-U-2036,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-ZRQ,35,32.08111,36.09508
+HUB-AMM-86,AMM-U-2000,C-RAN DU hotel + pre-aggregation,Amman-Zarqa Metro,POP-AMM-N,47,32.07759,35.84319
+HUB-AQB-01,AQB-SU-0169,Pre-aggregation (D-RAN sites),Aqaba,POP-AQB,34,29.39725,34.98559
+HUB-AQB-02,AQB-SU-0228,Pre-aggregation (D-RAN sites),Aqaba,POP-AQB,24,29.59579,35.02996
+HUB-AQB-03,AQB-U-0123,C-RAN DU hotel + pre-aggregation,Aqaba,POP-AQB,52,29.56466,35.02324
+HUB-AQB-04,AQB-SU-0192,Pre-aggregation (D-RAN sites),Aqaba,POP-AQB,18,29.45325,34.99583
+HUB-AQB-05,AQB-U-0028,C-RAN DU hotel + pre-aggregation,Aqaba,POP-AQB,57,29.53646,35.02419
+HUB-AQB-06,AQB-U-0083,C-RAN DU hotel + pre-aggregation,Aqaba,POP-AQB,52,29.55409,34.99725
+HUB-AQB-07,AQB-SU-0244,Pre-aggregation (D-RAN sites),Aqaba,POP-AQB,14,29.62183,35.02723
+HUB-AZR-01,AZR-SU-0013,Pre-aggregation (D-RAN sites),Azraq,POP-AZR,32,31.87708,36.82461
+HUB-DEA-01,DEA-SU-0010,Pre-aggregation (D-RAN sites),Dead Sea,POP-DEA,19,31.71927,35.59382
+HUB-DEI-01,DEI-SU-0011,Pre-aggregation (D-RAN sites),Deir Alla,POP-DEI,24,32.18763,35.62112
+HUB-GHO-01,GHO-SU-0011,Pre-aggregation (D-RAN sites),Ghor Safi,POP-GHO,23,31.03200,35.47299
+HUB-IRB-01,IRB-DU-0050,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,38,32.56211,35.84162
+HUB-IRB-02,IRB-SU-0593,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,28,32.51853,35.92217
+HUB-IRB-03,IRB-U-0250,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,35,32.54281,35.90463
+HUB-IRB-04,IRB-U-0423,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,38,32.57019,35.81956
+HUB-IRB-05,IRB-U-0263,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,38,32.54634,35.83043
+HUB-IRB-06,IRB-U-0275,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,60,32.54634,36.00151
+HUB-IRB-07,IRB-U-0110,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,41,32.52126,35.82949
+HUB-IRB-08,IRB-U-0360,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,41,32.55962,35.88809
+HUB-IRB-09,IRB-U-0487,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,37,32.58077,35.85028
+HUB-IRB-10,IRB-SU-0526,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,21,32.49699,35.82114
+HUB-IRB-11,IRB-U-0099,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,44,32.51855,35.85926
+HUB-IRB-12,IRB-SU-0536,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,27,32.49817,35.88940
+HUB-IRB-13,IRB-U-0417,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,71,32.56708,36.00104
+HUB-IRB-14,IRB-SU-0587,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,24,32.51853,35.79247
+HUB-IRB-15,IRB-DU-0021,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,52,32.55104,35.86131
+HUB-IRB-16,IRB-SU-0682,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,33,32.55867,35.92422
+HUB-IRB-17,IRB-U-0159,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,42,32.52871,35.88100
+HUB-IRB-18,IRB-U-0257,C-RAN DU hotel + pre-aggregation,Irbid,POP-IRB,42,32.54715,35.80302
+HUB-IRB-19,IRB-SU-0742,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,35,32.58471,35.87916
+HUB-IRB-20,IRB-SU-0516,Pre-aggregation (D-RAN sites),Irbid,POP-IRB,26,32.49190,35.85868
+HUB-JER-01,JER-U-0061,C-RAN DU hotel + pre-aggregation,Jerash,POP-JER,38,32.29258,35.89187
+HUB-JER-02,JER-U-0026,C-RAN DU hotel + pre-aggregation,Jerash,POP-JER,40,32.27414,35.90935
+HUB-JER-03,JER-U-0012,C-RAN DU hotel + pre-aggregation,Jerash,POP-JER,39,32.27224,35.88336
+HUB-KAR-01,KAR-U-0041,Pre-aggregation (D-RAN sites),Karak,POP-KAR,34,31.18319,35.72032
+HUB-KAR-02,KAR-U-0050,C-RAN DU hotel + pre-aggregation,Karak,POP-KAR,35,31.18943,35.69102
+HUB-KAR-03,KAR-U-0007,C-RAN DU hotel + pre-aggregation,Karak,POP-KAR,38,31.16828,35.70047
+HUB-MA-01,MA-U-0083,C-RAN DU hotel + pre-aggregation,Ma'an,POP-MA,35,30.21356,35.73260
+HUB-MA-02,MA-U-0046,C-RAN DU hotel + pre-aggregation,Ma'an,POP-MA,35,30.19472,35.74867
+HUB-MA-03,MA-U-0032,C-RAN DU hotel + pre-aggregation,Ma'an,POP-MA,35,30.19201,35.71795
+HUB-MA-04,MA-U-0004,C-RAN DU hotel + pre-aggregation,Ma'an,POP-MA,32,30.17791,35.73591
+HUB-MAD-01,MAD-U-0096,C-RAN DU hotel + pre-aggregation,Madaba,POP-MAD,36,31.73300,35.80538
+HUB-MAD-02,MAD-U-0006,C-RAN DU hotel + pre-aggregation,Madaba,POP-MAD,41,31.70128,35.78412
+HUB-MAD-03,MAD-U-0029,C-RAN DU hotel + pre-aggregation,Madaba,POP-MAD,39,31.70752,35.81247
+HUB-MAD-04,MAD-U-0072,C-RAN DU hotel + pre-aggregation,Madaba,POP-MAD,42,31.72514,35.77703
+HUB-MAF-01,MAF-U-0108,C-RAN DU hotel + pre-aggregation,Mafraq,POP-MAF,31,32.35954,36.19291
+HUB-MAF-02,MAF-U-0003,C-RAN DU hotel + pre-aggregation,Mafraq,POP-MAF,36,32.32430,36.20709
+HUB-MAF-03,MAF-U-0039,C-RAN DU hotel + pre-aggregation,Mafraq,POP-MAF,36,32.33758,36.18346
+HUB-MAF-04,MAF-U-0038,C-RAN DU hotel + pre-aggregation,Mafraq,POP-MAF,35,32.33487,36.23308
+HUB-MAF-05,MAF-U-0094,C-RAN DU hotel + pre-aggregation,Mafraq,POP-MAF,39,32.35249,36.21654
+HUB-MUT-01,MUT-SU-0016,Pre-aggregation (D-RAN sites),Mutah-Mazar,POP-MUT,36,31.08291,35.69826
+HUB-NOR-01,NOR-SU-0011,Pre-aggregation (D-RAN sites),North Shuna,POP-NOR,20,32.61076,35.61020
+HUB-SAL-01,SAL-U-0078,C-RAN DU hotel + pre-aggregation,Salt,POP-SAL,35,32.05210,35.74158
+HUB-SAL-02,SAL-U-0020,C-RAN DU hotel + pre-aggregation,Salt,POP-SAL,35,32.03177,35.74536
+HUB-SAL-03,SAL-U-0065,C-RAN DU hotel + pre-aggregation,Salt,POP-SAL,31,32.04939,35.71465
+HUB-SAL-04,SAL-U-0005,C-RAN DU hotel + pre-aggregation,Salt,POP-SAL,36,32.02824,35.71654
+HUB-SOU-01,SOU-SU-0009,Pre-aggregation (D-RAN sites),South Shuna,POP-SOU,23,31.89745,35.62317
+HUB-TAF-01,TAF-U-0040,Pre-aggregation (D-RAN sites),Tafilah,POP-TAF,30,30.84756,35.61493
+HUB-TAF-02,TAF-U-0010,C-RAN DU hotel + pre-aggregation,Tafilah,POP-TAF,42,30.82953,35.60264
+HUB-WAD-01,WAD-U-0029,Pre-aggregation (D-RAN sites),Wadi Musa / Petra,POP-WAD,34,30.32512,35.49111
+HUB-WAD-02,WAD-U-0012,C-RAN DU hotel + pre-aggregation,Wadi Musa / Petra,POP-WAD,31,30.31808,35.47221

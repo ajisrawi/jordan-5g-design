@@ -1,0 +1,999 @@
+{
+ "summary": {
+  "sites_total": 6270,
+  "sectors_total": 18675,
+  "by_class": {
+   "DU": 477,
+   "U": 2970,
+   "SU": 2245,
+   "R": 444,
+   "HW": 134
+  },
+  "by_governorate": {
+   "Amman": {
+    "DU": 417,
+    "U": 1179,
+    "SU": 759,
+    "R": 87,
+    "HW": 13
+   },
+   "Irbid": {
+    "DU": 60,
+    "U": 431,
+    "SU": 305,
+    "R": 61
+   },
+   "Aqaba": {
+    "U": 149,
+    "SU": 102,
+    "HW": 29
+   },
+   "Ma'an": {
+    "U": 124,
+    "SU": 78,
+    "HW": 17
+   },
+   "Tafilah": {
+    "U": 43,
+    "SU": 29,
+    "R": 35,
+    "HW": 8
+   },
+   "Karak": {
+    "U": 61,
+    "SU": 105,
+    "R": 75,
+    "HW": 16
+   },
+   "Madaba": {
+    "U": 82,
+    "SU": 46,
+    "R": 41,
+    "HW": 4
+   },
+   "Zarqa": {
+    "U": 506,
+    "SU": 356,
+    "R": 13,
+    "HW": 8
+   },
+   "Balqa": {
+    "U": 168,
+    "SU": 314,
+    "R": 28
+   },
+   "Jerash": {
+    "U": 67,
+    "SU": 50,
+    "R": 16
+   },
+   "Ajloun": {
+    "U": 40,
+    "SU": 44,
+    "R": 19
+   },
+   "Mafraq": {
+    "U": 120,
+    "SU": 57,
+    "R": 69,
+    "HW": 39
+   }
+  },
+  "area_km2": {
+   "DU": 58.3,
+   "U": 534.0,
+   "SU": 958.5,
+   "R": 8791.7
+  },
+  "jordan_km2": 88866,
+  "geo_cov_pct": 20.7,
+  "geo_1g_km2": 1491,
+  "pop_in_zones": 10511088,
+  "pop_total": 11305000,
+  "hubs": 150,
+  "access_rings": 849,
+  "access_fiber_km": 5737,
+  "agg_rings": 41,
+  "agg_fiber_km": 887,
+  "backbone_km": 1979,
+  "metro_core_km": 87,
+  "spur_km": 201,
+  "mw_links": 360,
+  "fiber_sites": 5910,
+  "bh_mbps_per_sub": 0.593,
+  "subs_total": 4204435,
+  "bh_total_gbps": 2492,
+  "indoor": {
+   "venues": 51,
+   "prru": 5339,
+   "mmw": 196
+  },
+  "bldg": {
+   "pruned": 311,
+   "rooftop": 2652,
+   "greenfield": 3040,
+   "towers": 578,
+   "by_class": {
+    "DU": {
+     "mean_bldg": 14.5,
+     "p95_bldg": 27.7,
+     "mean_ant": 28.1,
+     "max_ant": 49
+    },
+    "U": {
+     "mean_bldg": 8.1,
+     "p95_bldg": 18.8,
+     "mean_ant": 30.0,
+     "max_ant": 36
+    },
+    "SU": {
+     "mean_bldg": 3.5,
+     "p95_bldg": 12.9,
+     "mean_ant": 32.0,
+     "max_ant": 38
+    }
+   }
+  },
+  "terrain": {
+   "moved": 4806,
+   "mean_gain_m": 17.3,
+   "n28_geo_cov": {
+    "rsrp>=-100": 10.4,
+    "rsrp>=-110": 16.2,
+    "rsrp>=-118": 20.6
+   }
+  },
+  "terrain_tilts": true,
+  "border_sectors": 109,
+  "assumptions": {
+   "SUB_PEN": 0.4,
+   "GB_MONTH": 80,
+   "BH_SHARE": 0.1,
+   "CELL_SE": 10.0,
+   "ROUTE_F": 1.35
+  }
+ },
+ "link_budget": [
+  {
+   "layer": "n78 100 MHz DL 1 Gbps",
+   "cls": "DU",
+   "eirp_sc": 43.9,
+   "noise_sc": -122.2,
+   "sinr_req": 27.4,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 15.0,
+   "mapl": 114.0,
+   "range_m": 194,
+   "design_range_m": 250,
+   "margin_db": -4.3
+  },
+  {
+   "layer": "n78 100 MHz DL 1 Gbps",
+   "cls": "U",
+   "eirp_sc": 43.9,
+   "noise_sc": -122.2,
+   "sinr_req": 27.4,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 13.0,
+   "mapl": 116.0,
+   "range_m": 218,
+   "design_range_m": 300,
+   "margin_db": -5.4
+  },
+  {
+   "layer": "n78 100 MHz DL 1 Gbps",
+   "cls": "SU",
+   "eirp_sc": 43.9,
+   "noise_sc": -122.2,
+   "sinr_req": 27.4,
+   "im": 3.0,
+   "sfm": 4.0,
+   "pen": 10.0,
+   "mapl": 121.8,
+   "range_m": 308,
+   "design_range_m": 433,
+   "margin_db": -5.8
+  },
+  {
+   "layer": "n78 200 MHz DL 1 Gbps",
+   "cls": "DU",
+   "eirp_sc": 40.9,
+   "noise_sc": -122.2,
+   "sinr_req": 17.7,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 15.0,
+   "mapl": 120.6,
+   "range_m": 289,
+   "design_range_m": 250,
+   "margin_db": 2.4
+  },
+  {
+   "layer": "n78 200 MHz DL 1 Gbps",
+   "cls": "U",
+   "eirp_sc": 40.9,
+   "noise_sc": -122.2,
+   "sinr_req": 17.7,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 13.0,
+   "mapl": 122.6,
+   "range_m": 325,
+   "design_range_m": 300,
+   "margin_db": 1.3
+  },
+  {
+   "layer": "n78 200 MHz DL 1 Gbps",
+   "cls": "SU",
+   "eirp_sc": 40.9,
+   "noise_sc": -122.2,
+   "sinr_req": 17.7,
+   "im": 3.0,
+   "sfm": 4.0,
+   "pen": 10.0,
+   "mapl": 128.4,
+   "range_m": 458,
+   "design_range_m": 433,
+   "margin_db": 0.9
+  },
+  {
+   "layer": "n78 300 MHz DL 1 Gbps",
+   "cls": "DU",
+   "eirp_sc": 39.1,
+   "noise_sc": -122.2,
+   "sinr_req": 13.9,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 15.0,
+   "mapl": 122.6,
+   "range_m": 325,
+   "design_range_m": 250,
+   "margin_db": 4.4
+  },
+  {
+   "layer": "n78 300 MHz DL 1 Gbps",
+   "cls": "U",
+   "eirp_sc": 39.1,
+   "noise_sc": -122.2,
+   "sinr_req": 13.9,
+   "im": 3.0,
+   "sfm": 6.8,
+   "pen": 13.0,
+   "mapl": 124.6,
+   "range_m": 365,
+   "design_range_m": 300,
+   "margin_db": 3.3
+  },
+  {
+   "layer": "n78 300 MHz DL 1 Gbps",
+   "cls": "SU",
+   "eirp_sc": 39.1,
+   "noise_sc": -122.2,
+   "sinr_req": 13.9,
+   "im": 3.0,
+   "sfm": 4.0,
+   "pen": 10.0,
+   "mapl": 130.4,
+   "range_m": 514,
+   "design_range_m": 433,
+   "margin_db": 2.9
+  },
+  {
+   "layer": "n78 UL 20 Mbps (PC2 UE, one 100 MHz carrier)",
+   "cls": "DU",
+   "eirp_sc": -9.2,
+   "noise_sc": -125.7,
+   "sinr_req": 2.5,
+   "im": 2,
+   "sfm": 6.8,
+   "pen": 15.0,
+   "mapl": 114.3,
+   "range_m": 198,
+   "design_range_m": 250
+  },
+  {
+   "layer": "n3 UL 10 Mbps (PC3 UE, 20 MHz FDD)",
+   "cls": "DU",
+   "eirp_sc": -8.0,
+   "noise_sc": -129.7,
+   "sinr_req": -0.8,
+   "im": 2,
+   "sfm": 6.8,
+   "pen": 12.0,
+   "mapl": 119.2,
+   "range_m": 373,
+   "design_range_m": 250
+  },
+  {
+   "layer": "n78 UL 20 Mbps (PC2 UE, one 100 MHz carrier)",
+   "cls": "U",
+   "eirp_sc": -9.2,
+   "noise_sc": -125.7,
+   "sinr_req": 2.5,
+   "im": 2,
+   "sfm": 6.8,
+   "pen": 13.0,
+   "mapl": 116.3,
+   "range_m": 222,
+   "design_range_m": 300
+  },
+  {
+   "layer": "n3 UL 10 Mbps (PC3 UE, 20 MHz FDD)",
+   "cls": "U",
+   "eirp_sc": -8.0,
+   "noise_sc": -129.7,
+   "sinr_req": -0.8,
+   "im": 2,
+   "sfm": 6.8,
+   "pen": 10.0,
+   "mapl": 121.2,
+   "range_m": 420,
+   "design_range_m": 300
+  },
+  {
+   "layer": "n78 UL 20 Mbps (PC2 UE, one 100 MHz carrier)",
+   "cls": "SU",
+   "eirp_sc": -9.2,
+   "noise_sc": -125.7,
+   "sinr_req": 2.5,
+   "im": 2,
+   "sfm": 4.0,
+   "pen": 10.0,
+   "mapl": 122.1,
+   "range_m": 314,
+   "design_range_m": 433
+  },
+  {
+   "layer": "n3 UL 10 Mbps (PC3 UE, 20 MHz FDD)",
+   "cls": "SU",
+   "eirp_sc": -8.0,
+   "noise_sc": -129.7,
+   "sinr_req": -0.8,
+   "im": 2,
+   "sfm": 4.0,
+   "pen": 7.0,
+   "mapl": 127.0,
+   "range_m": 592,
+   "design_range_m": 433
+  },
+  {
+   "layer": "n28 10 MHz DL 10 Mbps edge (in-car)",
+   "cls": "R",
+   "eirp_sc": 36.0,
+   "noise_sc": -125.2,
+   "sinr_req": 4.4,
+   "im": 2,
+   "sfm": 5.5,
+   "pen": 8.0,
+   "mapl": 141.4,
+   "range_m": 5282,
+   "design_range_m": 3000
+  },
+  {
+   "layer": "n28 10 MHz DL 10 Mbps edge (in-car)",
+   "cls": "HW",
+   "eirp_sc": 36.0,
+   "noise_sc": -125.2,
+   "sinr_req": 4.4,
+   "im": 2,
+   "sfm": 5.5,
+   "pen": 8.0,
+   "mapl": 141.4,
+   "range_m": 5282,
+   "design_range_m": 5000
+  }
+ ],
+ "capacity": [
+  {
+   "cls": "DU",
+   "area_km2": 58,
+   "pop": 1456423,
+   "subs": 582569,
+   "sites": 477,
+   "sectors": 1431,
+   "subs_per_sector": 407,
+   "offered_mbps": 241,
+   "load_100": 32.6,
+   "load_200": 16.3,
+   "load_300": 10.9
+  },
+  {
+   "cls": "U",
+   "area_km2": 534,
+   "pop": 5339765,
+   "subs": 2135906,
+   "sites": 2970,
+   "sectors": 8910,
+   "subs_per_sector": 240,
+   "offered_mbps": 142,
+   "load_100": 19.2,
+   "load_200": 9.6,
+   "load_300": 6.4
+  },
+  {
+   "cls": "SU",
+   "area_km2": 958,
+   "pop": 2396140,
+   "subs": 958456,
+   "sites": 2245,
+   "sectors": 6735,
+   "subs_per_sector": 142,
+   "offered_mbps": 84,
+   "load_100": 11.4,
+   "load_200": 5.7,
+   "load_300": 3.8
+  },
+  {
+   "cls": "R",
+   "area_km2": 8792,
+   "pop": 1318759,
+   "subs": 527504,
+   "sites": 444,
+   "sectors": 1331,
+   "subs_per_sector": 396,
+   "offered_mbps": 235,
+   "load_100": 57.5,
+   "load_200": 33.3,
+   "load_300": 23.5
+  }
+ ],
+ "compliance": {
+  "Dense urban": {
+   "px": 23595,
+   "rsrp_ge_-105": 100.0,
+   "rsrp_p5": -84.6,
+   "outdoor|10|100": {
+    "pct_1g": 25.1,
+    "p5": 422,
+    "p50": 755
+   },
+   "outdoor|10|200": {
+    "pct_1g": 76.9,
+    "p5": 763,
+    "p50": 1347
+   },
+   "outdoor|10|300": {
+    "pct_1g": 97.9,
+    "p5": 1104,
+    "p50": 1940
+   },
+   "outdoor|20|100": {
+    "pct_1g": 11.0,
+    "p5": 284,
+    "p50": 558
+   },
+   "outdoor|20|200": {
+    "pct_1g": 50.5,
+    "p5": 517,
+    "p50": 1006
+   },
+   "outdoor|20|300": {
+    "pct_1g": 78.1,
+    "p5": 750,
+    "p50": 1454
+   },
+   "outdoor|30|100": {
+    "pct_1g": 5.5,
+    "p5": 223,
+    "p50": 457
+   },
+   "outdoor|30|200": {
+    "pct_1g": 36.7,
+    "p5": 406,
+    "p50": 826
+   },
+   "outdoor|30|300": {
+    "pct_1g": 62.0,
+    "p5": 590,
+    "p50": 1195
+   },
+   "outdoor|50|100": {
+    "pct_1g": 1.5,
+    "p5": 159,
+    "p50": 343
+   },
+   "outdoor|50|200": {
+    "pct_1g": 22.2,
+    "p5": 291,
+    "p50": 622
+   },
+   "outdoor|50|300": {
+    "pct_1g": 43.7,
+    "p5": 423,
+    "p50": 901
+   },
+   "light indoor / in-car|10|100": {
+    "pct_1g": 24.8,
+    "p5": 419,
+    "p50": 752
+   },
+   "light indoor / in-car|10|200": {
+    "pct_1g": 76.2,
+    "p5": 755,
+    "p50": 1338
+   },
+   "light indoor / in-car|10|300": {
+    "pct_1g": 97.5,
+    "p5": 1087,
+    "p50": 1921
+   },
+   "light indoor / in-car|20|100": {
+    "pct_1g": 10.8,
+    "p5": 284,
+    "p50": 557
+   },
+   "light indoor / in-car|20|200": {
+    "pct_1g": 50.2,
+    "p5": 515,
+    "p50": 1002
+   },
+   "light indoor / in-car|20|300": {
+    "pct_1g": 77.7,
+    "p5": 744,
+    "p50": 1445
+   },
+   "light indoor / in-car|30|100": {
+    "pct_1g": 5.4,
+    "p5": 222,
+    "p50": 456
+   },
+   "light indoor / in-car|30|200": {
+    "pct_1g": 36.5,
+    "p5": 404,
+    "p50": 823
+   },
+   "light indoor / in-car|30|300": {
+    "pct_1g": 61.7,
+    "p5": 586,
+    "p50": 1189
+   },
+   "light indoor / in-car|50|100": {
+    "pct_1g": 1.5,
+    "p5": 159,
+    "p50": 342
+   },
+   "light indoor / in-car|50|200": {
+    "pct_1g": 22.0,
+    "p5": 290,
+    "p50": 620
+   },
+   "light indoor / in-car|50|300": {
+    "pct_1g": 43.5,
+    "p5": 421,
+    "p50": 898
+   },
+   "deep indoor|10|100": {
+    "pct_1g": 21.5,
+    "p5": 388,
+    "p50": 714
+   },
+   "deep indoor|10|200": {
+    "pct_1g": 67.6,
+    "p5": 651,
+    "p50": 1220
+   },
+   "deep indoor|10|300": {
+    "pct_1g": 90.4,
+    "p5": 878,
+    "p50": 1692
+   },
+   "deep indoor|20|100": {
+    "pct_1g": 9.6,
+    "p5": 272,
+    "p50": 540
+   },
+   "deep indoor|20|200": {
+    "pct_1g": 45.6,
+    "p5": 474,
+    "p50": 943
+   },
+   "deep indoor|20|300": {
+    "pct_1g": 70.9,
+    "p5": 660,
+    "p50": 1327
+   },
+   "deep indoor|30|100": {
+    "pct_1g": 4.8,
+    "p5": 215,
+    "p50": 445
+   },
+   "deep indoor|30|200": {
+    "pct_1g": 33.7,
+    "p5": 380,
+    "p50": 786
+   },
+   "deep indoor|30|300": {
+    "pct_1g": 57.2,
+    "p5": 536,
+    "p50": 1112
+   },
+   "deep indoor|50|100": {
+    "pct_1g": 1.3,
+    "p5": 156,
+    "p50": 337
+   },
+   "deep indoor|50|200": {
+    "pct_1g": 20.8,
+    "p5": 280,
+    "p50": 601
+   },
+   "deep indoor|50|300": {
+    "pct_1g": 40.8,
+    "p5": 399,
+    "p50": 858
+   }
+  },
+  "Urban": {
+   "px": 223866,
+   "rsrp_ge_-105": 99.0,
+   "rsrp_p5": -88.2,
+   "outdoor|10|100": {
+    "pct_1g": 28.4,
+    "p5": 425,
+    "p50": 783
+   },
+   "outdoor|10|200": {
+    "pct_1g": 78.6,
+    "p5": 767,
+    "p50": 1395
+   },
+   "outdoor|10|300": {
+    "pct_1g": 97.6,
+    "p5": 1108,
+    "p50": 2006
+   },
+   "outdoor|20|100": {
+    "pct_1g": 13.6,
+    "p5": 287,
+    "p50": 583
+   },
+   "outdoor|20|200": {
+    "pct_1g": 53.5,
+    "p5": 521,
+    "p50": 1049
+   },
+   "outdoor|20|300": {
+    "pct_1g": 79.8,
+    "p5": 755,
+    "p50": 1515
+   },
+   "outdoor|30|100": {
+    "pct_1g": 7.5,
+    "p5": 225,
+    "p50": 480
+   },
+   "outdoor|30|200": {
+    "pct_1g": 40.4,
+    "p5": 410,
+    "p50": 867
+   },
+   "outdoor|30|300": {
+    "pct_1g": 64.5,
+    "p5": 594,
+    "p50": 1253
+   },
+   "outdoor|50|100": {
+    "pct_1g": 2.5,
+    "p5": 161,
+    "p50": 363
+   },
+   "outdoor|50|200": {
+    "pct_1g": 25.3,
+    "p5": 294,
+    "p50": 658
+   },
+   "outdoor|50|300": {
+    "pct_1g": 47.2,
+    "p5": 427,
+    "p50": 953
+   },
+   "light indoor / in-car|10|100": {
+    "pct_1g": 27.7,
+    "p5": 416,
+    "p50": 775
+   },
+   "light indoor / in-car|10|200": {
+    "pct_1g": 77.1,
+    "p5": 742,
+    "p50": 1372
+   },
+   "light indoor / in-car|10|300": {
+    "pct_1g": 96.5,
+    "p5": 1061,
+    "p50": 1961
+   },
+   "light indoor / in-car|20|100": {
+    "pct_1g": 13.3,
+    "p5": 283,
+    "p50": 579
+   },
+   "light indoor / in-car|20|200": {
+    "pct_1g": 52.7,
+    "p5": 510,
+    "p50": 1037
+   },
+   "light indoor / in-car|20|300": {
+    "pct_1g": 78.6,
+    "p5": 734,
+    "p50": 1492
+   },
+   "light indoor / in-car|30|100": {
+    "pct_1g": 7.3,
+    "p5": 222,
+    "p50": 477
+   },
+   "light indoor / in-car|30|200": {
+    "pct_1g": 39.7,
+    "p5": 402,
+    "p50": 858
+   },
+   "light indoor / in-car|30|300": {
+    "pct_1g": 63.7,
+    "p5": 580,
+    "p50": 1236
+   },
+   "light indoor / in-car|50|100": {
+    "pct_1g": 2.4,
+    "p5": 159,
+    "p50": 361
+   },
+   "light indoor / in-car|50|200": {
+    "pct_1g": 24.9,
+    "p5": 290,
+    "p50": 652
+   },
+   "light indoor / in-car|50|300": {
+    "pct_1g": 46.6,
+    "p5": 420,
+    "p50": 942
+   },
+   "deep indoor|10|100": {
+    "pct_1g": 21.1,
+    "p5": 349,
+    "p50": 703
+   },
+   "deep indoor|10|200": {
+    "pct_1g": 62.5,
+    "p5": 552,
+    "p50": 1163
+   },
+   "deep indoor|10|300": {
+    "pct_1g": 82.8,
+    "p5": 711,
+    "p50": 1572
+   },
+   "deep indoor|20|100": {
+    "pct_1g": 10.4,
+    "p5": 256,
+    "p50": 543
+   },
+   "deep indoor|20|200": {
+    "pct_1g": 44.6,
+    "p5": 426,
+    "p50": 927
+   },
+   "deep indoor|20|300": {
+    "pct_1g": 66.8,
+    "p5": 570,
+    "p50": 1275
+   },
+   "deep indoor|30|100": {
+    "pct_1g": 5.7,
+    "p5": 205,
+    "p50": 454
+   },
+   "deep indoor|30|200": {
+    "pct_1g": 34.2,
+    "p5": 350,
+    "p50": 784
+   },
+   "deep indoor|30|300": {
+    "pct_1g": 55.4,
+    "p5": 476,
+    "p50": 1090
+   },
+   "deep indoor|50|100": {
+    "pct_1g": 1.8,
+    "p5": 151,
+    "p50": 348
+   },
+   "deep indoor|50|200": {
+    "pct_1g": 22.0,
+    "p5": 265,
+    "p50": 610
+   },
+   "deep indoor|50|300": {
+    "pct_1g": 41.3,
+    "p5": 370,
+    "p50": 859
+   }
+  },
+  "Suburban": {
+   "px": 400707,
+   "rsrp_ge_-105": 96.3,
+   "rsrp_p5": -102.0,
+   "outdoor|10|100": {
+    "pct_1g": 32.6,
+    "p5": 404,
+    "p50": 803
+   },
+   "outdoor|10|200": {
+    "pct_1g": 78.4,
+    "p5": 720,
+    "p50": 1424
+   },
+   "outdoor|10|300": {
+    "pct_1g": 95.5,
+    "p5": 1025,
+    "p50": 2041
+   },
+   "outdoor|20|100": {
+    "pct_1g": 18.3,
+    "p5": 276,
+    "p50": 602
+   },
+   "outdoor|20|200": {
+    "pct_1g": 55.2,
+    "p5": 496,
+    "p50": 1080
+   },
+   "outdoor|20|300": {
+    "pct_1g": 79.7,
+    "p5": 712,
+    "p50": 1556
+   },
+   "outdoor|30|100": {
+    "pct_1g": 12.2,
+    "p5": 217,
+    "p50": 499
+   },
+   "outdoor|30|200": {
+    "pct_1g": 43.5,
+    "p5": 391,
+    "p50": 897
+   },
+   "outdoor|30|300": {
+    "pct_1g": 65.5,
+    "p5": 562,
+    "p50": 1294
+   },
+   "outdoor|50|100": {
+    "pct_1g": 6.3,
+    "p5": 155,
+    "p50": 379
+   },
+   "outdoor|50|200": {
+    "pct_1g": 29.8,
+    "p5": 282,
+    "p50": 686
+   },
+   "outdoor|50|300": {
+    "pct_1g": 49.6,
+    "p5": 408,
+    "p50": 992
+   },
+   "light indoor / in-car|10|100": {
+    "pct_1g": 29.4,
+    "p5": 326,
+    "p50": 761
+   },
+   "light indoor / in-car|10|200": {
+    "pct_1g": 70.8,
+    "p5": 503,
+    "p50": 1311
+   },
+   "light indoor / in-car|10|300": {
+    "pct_1g": 88.2,
+    "p5": 629,
+    "p50": 1832
+   },
+   "light indoor / in-car|20|100": {
+    "pct_1g": 16.8,
+    "p5": 241,
+    "p50": 579
+   },
+   "light indoor / in-car|20|200": {
+    "pct_1g": 51.1,
+    "p5": 396,
+    "p50": 1016
+   },
+   "light indoor / in-car|20|300": {
+    "pct_1g": 73.3,
+    "p5": 520,
+    "p50": 1436
+   },
+   "light indoor / in-car|30|100": {
+    "pct_1g": 11.3,
+    "p5": 193,
+    "p50": 482
+   },
+   "light indoor / in-car|30|200": {
+    "pct_1g": 40.7,
+    "p5": 326,
+    "p50": 852
+   },
+   "light indoor / in-car|30|300": {
+    "pct_1g": 61.0,
+    "p5": 440,
+    "p50": 1209
+   },
+   "light indoor / in-car|50|100": {
+    "pct_1g": 5.8,
+    "p5": 143,
+    "p50": 369
+   },
+   "light indoor / in-car|50|200": {
+    "pct_1g": 28.2,
+    "p5": 249,
+    "p50": 657
+   },
+   "light indoor / in-car|50|300": {
+    "pct_1g": 46.8,
+    "p5": 347,
+    "p50": 938
+   },
+   "deep indoor|10|100": {
+    "pct_1g": 14.3,
+    "p5": 93,
+    "p50": 551
+   },
+   "deep indoor|10|200": {
+    "pct_1g": 38.5,
+    "p5": 103,
+    "p50": 814
+   },
+   "deep indoor|10|300": {
+    "pct_1g": 50.4,
+    "p5": 112,
+    "p50": 1009
+   },
+   "deep indoor|20|100": {
+    "pct_1g": 9.0,
+    "p5": 89,
+    "p50": 452
+   },
+   "deep indoor|20|200": {
+    "pct_1g": 30.8,
+    "p5": 100,
+    "p50": 697
+   },
+   "deep indoor|20|300": {
+    "pct_1g": 44.1,
+    "p5": 110,
+    "p50": 887
+   },
+   "deep indoor|30|100": {
+    "pct_1g": 6.2,
+    "p5": 85,
+    "p50": 389
+   },
+   "deep indoor|30|200": {
+    "pct_1g": 25.7,
+    "p5": 98,
+    "p50": 612
+   },
+   "deep indoor|30|300": {
+    "pct_1g": 38.7,
+    "p5": 109,
+    "p50": 803
+   },
+   "deep indoor|50|100": {
+    "pct_1g": 3.2,
+    "p5": 77,
+    "p50": 313
+   },
+   "deep indoor|50|200": {
+    "pct_1g": 18.7,
+    "p5": 94,
+    "p50": 513
+   },
+   "deep indoor|50|300": {
+    "pct_1g": 31.6,
+    "p5": 105,
+    "p50": 684
+   }
+  }
+ }
+}

@@ -1,0 +1,906 @@
+ring_id,tier,parent,nodes,route_km
+HUB-AJL-01-R01,access 10/25GE,HUB-AJL-01,6,4.54
+HUB-AJL-01-R02,access 10/25GE,HUB-AJL-01,6,6.71
+HUB-AJL-01-R03,access 10/25GE,HUB-AJL-01,6,8.07
+HUB-AJL-01-R04,access 10/25GE,HUB-AJL-01,6,6.02
+HUB-AJL-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AJL-02,7,9.56
+HUB-AJL-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AJL-02,7,8.28
+HUB-AJL-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AJL-02,7,5.3
+HUB-AJL-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AJL-02,7,6.11
+HUB-AJL-03-R01,access 10/25GE,HUB-AJL-03,7,7.32
+HUB-AJL-03-R02,access 10/25GE,HUB-AJL-03,7,6.4
+HUB-AJL-03-R03,access 10/25GE,HUB-AJL-03,7,7.2
+HUB-AJL-03-R04,access 10/25GE,HUB-AJL-03,5,6.61
+HUB-AMM-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,7,5.45
+HUB-AMM-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,7,6.38
+HUB-AMM-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,7,6.07
+HUB-AMM-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,7,5.91
+HUB-AMM-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,7,6.33
+HUB-AMM-01-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-01,6,6.43
+HUB-AMM-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,7,6.41
+HUB-AMM-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,7,6.22
+HUB-AMM-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,7,6.24
+HUB-AMM-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,7,5.07
+HUB-AMM-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,7,5.7
+HUB-AMM-02-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-02,3,3.05
+HUB-AMM-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,5.88
+HUB-AMM-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,6.11
+HUB-AMM-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,6.35
+HUB-AMM-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,6.82
+HUB-AMM-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,5.41
+HUB-AMM-03-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,6.29
+HUB-AMM-03-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,7,6.4
+HUB-AMM-03-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-03,3,5.11
+HUB-AMM-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-04,7,6.69
+HUB-AMM-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-04,7,5.35
+HUB-AMM-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-04,7,6.78
+HUB-AMM-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-04,7,4.76
+HUB-AMM-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-04,7,6.25
+HUB-AMM-05-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,7,6.13
+HUB-AMM-05-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,7,7.04
+HUB-AMM-05-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,7,5.89
+HUB-AMM-05-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,7,5.02
+HUB-AMM-05-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,7,5.77
+HUB-AMM-05-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-05,4,3.16
+HUB-AMM-06-R01,access 10/25GE,HUB-AMM-06,7,6.27
+HUB-AMM-06-R02,access 10/25GE,HUB-AMM-06,7,9.59
+HUB-AMM-06-R03,access 10/25GE,HUB-AMM-06,7,8.3
+HUB-AMM-06-R04,access 10/25GE,HUB-AMM-06,7,10.04
+HUB-AMM-06-R05,access 10/25GE,HUB-AMM-06,4,4.77
+HUB-AMM-07-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,6.25
+HUB-AMM-07-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,5.41
+HUB-AMM-07-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,5.13
+HUB-AMM-07-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,6.38
+HUB-AMM-07-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,6.48
+HUB-AMM-07-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,7,5.27
+HUB-AMM-07-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-07,5,5.05
+HUB-AMM-08-R01,access 10/25GE,HUB-AMM-08,6,7.79
+HUB-AMM-08-R02,access 10/25GE,HUB-AMM-08,6,8.21
+HUB-AMM-08-R03,access 10/25GE,HUB-AMM-08,6,8.14
+HUB-AMM-08-R04,access 10/25GE,HUB-AMM-08,5,6.43
+HUB-AMM-09-R01,access 10/25GE,HUB-AMM-09,6,8.44
+HUB-AMM-09-R02,access 10/25GE,HUB-AMM-09,6,7.86
+HUB-AMM-09-R03,access 10/25GE,HUB-AMM-09,6,6.76
+HUB-AMM-10-R01,access 10/25GE,HUB-AMM-10,7,9.13
+HUB-AMM-10-R02,access 10/25GE,HUB-AMM-10,7,10.64
+HUB-AMM-10-R03,access 10/25GE,HUB-AMM-10,7,8.73
+HUB-AMM-10-R04,access 10/25GE,HUB-AMM-10,6,7.79
+HUB-AMM-11-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,5.5
+HUB-AMM-11-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,4.5
+HUB-AMM-11-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,4.18
+HUB-AMM-11-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,4.84
+HUB-AMM-11-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,4.14
+HUB-AMM-11-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-11,6,5.57
+HUB-AMM-12-R01,access 10/25GE,HUB-AMM-12,7,7.77
+HUB-AMM-12-R02,access 10/25GE,HUB-AMM-12,7,8.49
+HUB-AMM-12-R03,access 10/25GE,HUB-AMM-12,6,7.27
+HUB-AMM-13-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,4.95
+HUB-AMM-13-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,4.83
+HUB-AMM-13-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,4.92
+HUB-AMM-13-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,5.3
+HUB-AMM-13-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,5.62
+HUB-AMM-13-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,7,5.0
+HUB-AMM-13-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-13,4,4.03
+HUB-AMM-14-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,4.91
+HUB-AMM-14-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,5.52
+HUB-AMM-14-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,5.21
+HUB-AMM-14-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,5.8
+HUB-AMM-14-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,4.67
+HUB-AMM-14-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,4.67
+HUB-AMM-14-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,7,4.61
+HUB-AMM-14-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-14,1,3.04
+HUB-AMM-15-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,7,5.55
+HUB-AMM-15-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,7,6.21
+HUB-AMM-15-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,7,5.25
+HUB-AMM-15-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,7,5.29
+HUB-AMM-15-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,7,7.8
+HUB-AMM-15-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-15,5,5.38
+HUB-AMM-16-R01,access 10/25GE,HUB-AMM-16,7,8.5
+HUB-AMM-16-R02,access 10/25GE,HUB-AMM-16,7,8.72
+HUB-AMM-16-R03,access 10/25GE,HUB-AMM-16,7,7.05
+HUB-AMM-16-R04,access 10/25GE,HUB-AMM-16,7,9.58
+HUB-AMM-16-R05,access 10/25GE,HUB-AMM-16,7,8.24
+HUB-AMM-16-R06,access 10/25GE,HUB-AMM-16,7,7.91
+HUB-AMM-16-R07,access 10/25GE,HUB-AMM-16,6,8.86
+HUB-AMM-17-R01,access 10/25GE,HUB-AMM-17,7,7.03
+HUB-AMM-17-R02,access 10/25GE,HUB-AMM-17,7,7.88
+HUB-AMM-17-R03,access 10/25GE,HUB-AMM-17,7,6.5
+HUB-AMM-18-R01,access 10/25GE,HUB-AMM-18,6,7.7
+HUB-AMM-18-R02,access 10/25GE,HUB-AMM-18,6,8.03
+HUB-AMM-18-R03,access 10/25GE,HUB-AMM-18,6,7.5
+HUB-AMM-19-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,7,8.15
+HUB-AMM-19-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,7,6.65
+HUB-AMM-19-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,7,5.7
+HUB-AMM-19-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,7,6.48
+HUB-AMM-19-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,7,5.31
+HUB-AMM-19-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-19,5,6.31
+HUB-AMM-20-R01,access 10/25GE,HUB-AMM-20,7,7.5
+HUB-AMM-20-R02,access 10/25GE,HUB-AMM-20,7,10.21
+HUB-AMM-20-R03,access 10/25GE,HUB-AMM-20,7,7.92
+HUB-AMM-20-R04,access 10/25GE,HUB-AMM-20,7,7.94
+HUB-AMM-20-R05,access 10/25GE,HUB-AMM-20,4,5.11
+HUB-AMM-21-R01,access 10/25GE,HUB-AMM-21,7,8.41
+HUB-AMM-21-R02,access 10/25GE,HUB-AMM-21,7,6.49
+HUB-AMM-21-R03,access 10/25GE,HUB-AMM-21,7,9.01
+HUB-AMM-21-R04,access 10/25GE,HUB-AMM-21,7,8.13
+HUB-AMM-21-R05,access 10/25GE,HUB-AMM-21,6,6.88
+HUB-AMM-22-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,5.79
+HUB-AMM-22-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,6.47
+HUB-AMM-22-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,5.05
+HUB-AMM-22-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,5.37
+HUB-AMM-22-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,5.77
+HUB-AMM-22-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-22,6,6.77
+HUB-AMM-23-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,5.89
+HUB-AMM-23-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,5.61
+HUB-AMM-23-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,5.55
+HUB-AMM-23-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,6.94
+HUB-AMM-23-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,6.67
+HUB-AMM-23-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-23,7,5.49
+HUB-AMM-24-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,7,7.12
+HUB-AMM-24-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,7,5.57
+HUB-AMM-24-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,7,6.01
+HUB-AMM-24-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,7,5.62
+HUB-AMM-24-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,7,6.21
+HUB-AMM-24-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-24,6,4.78
+HUB-AMM-25-R01,access 10/25GE,HUB-AMM-25,7,9.79
+HUB-AMM-25-R02,access 10/25GE,HUB-AMM-25,7,10.73
+HUB-AMM-25-R03,access 10/25GE,HUB-AMM-25,7,7.89
+HUB-AMM-25-R04,access 10/25GE,HUB-AMM-25,7,9.33
+HUB-AMM-25-R05,access 10/25GE,HUB-AMM-25,7,9.11
+HUB-AMM-25-R06,access 10/25GE,HUB-AMM-25,3,6.46
+HUB-AMM-26-R01,access 10/25GE,HUB-AMM-26,7,10.82
+HUB-AMM-26-R02,access 10/25GE,HUB-AMM-26,7,8.82
+HUB-AMM-26-R03,access 10/25GE,HUB-AMM-26,7,14.57
+HUB-AMM-27-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-27,7,4.87
+HUB-AMM-27-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-27,7,5.13
+HUB-AMM-27-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-27,7,7.25
+HUB-AMM-27-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-27,7,5.09
+HUB-AMM-27-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-27,7,5.16
+HUB-AMM-28-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.49
+HUB-AMM-28-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.92
+HUB-AMM-28-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.15
+HUB-AMM-28-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.98
+HUB-AMM-28-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,4.77
+HUB-AMM-28-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,4.89
+HUB-AMM-28-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.41
+HUB-AMM-28-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,7,5.81
+HUB-AMM-28-R09,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-28,4,3.97
+HUB-AMM-29-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,7,7.45
+HUB-AMM-29-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,7,8.31
+HUB-AMM-29-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,7,5.51
+HUB-AMM-29-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,7,4.81
+HUB-AMM-29-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,7,7.82
+HUB-AMM-29-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-29,6,4.92
+HUB-AMM-30-R01,access 10/25GE,HUB-AMM-30,7,7.28
+HUB-AMM-30-R02,access 10/25GE,HUB-AMM-30,7,8.8
+HUB-AMM-30-R03,access 10/25GE,HUB-AMM-30,7,7.69
+HUB-AMM-30-R04,access 10/25GE,HUB-AMM-30,7,7.88
+HUB-AMM-30-R05,access 10/25GE,HUB-AMM-30,7,8.81
+HUB-AMM-30-R06,access 10/25GE,HUB-AMM-30,7,7.38
+HUB-AMM-30-R07,access 10/25GE,HUB-AMM-30,4,6.16
+HUB-AMM-31-R01,access 10/25GE,HUB-AMM-31,7,8.85
+HUB-AMM-31-R02,access 10/25GE,HUB-AMM-31,7,9.36
+HUB-AMM-31-R03,access 10/25GE,HUB-AMM-31,7,9.22
+HUB-AMM-31-R04,access 10/25GE,HUB-AMM-31,7,6.72
+HUB-AMM-31-R05,access 10/25GE,HUB-AMM-31,6,6.83
+HUB-AMM-32-R01,access 10/25GE,HUB-AMM-32,7,9.33
+HUB-AMM-32-R02,access 10/25GE,HUB-AMM-32,7,8.5
+HUB-AMM-32-R03,access 10/25GE,HUB-AMM-32,7,8.03
+HUB-AMM-32-R04,access 10/25GE,HUB-AMM-32,7,9.49
+HUB-AMM-32-R05,access 10/25GE,HUB-AMM-32,7,7.32
+HUB-AMM-32-R06,access 10/25GE,HUB-AMM-32,6,8.95
+HUB-AMM-33-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,6.35
+HUB-AMM-33-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,8.25
+HUB-AMM-33-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,7.99
+HUB-AMM-33-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,5.44
+HUB-AMM-33-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,6.78
+HUB-AMM-33-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,5.55
+HUB-AMM-33-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,7,6.44
+HUB-AMM-33-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-33,2,1.94
+HUB-AMM-34-R01,access 10/25GE,HUB-AMM-34,7,8.55
+HUB-AMM-34-R02,access 10/25GE,HUB-AMM-34,7,8.63
+HUB-AMM-34-R03,access 10/25GE,HUB-AMM-34,7,10.39
+HUB-AMM-34-R04,access 10/25GE,HUB-AMM-34,7,6.96
+HUB-AMM-34-R05,access 10/25GE,HUB-AMM-34,7,8.47
+HUB-AMM-35-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,5.31
+HUB-AMM-35-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,6.1
+HUB-AMM-35-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,5.02
+HUB-AMM-35-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,5.73
+HUB-AMM-35-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,6.92
+HUB-AMM-35-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-35,7,5.43
+HUB-AMM-36-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-36,7,6.8
+HUB-AMM-36-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-36,7,5.45
+HUB-AMM-36-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-36,7,6.91
+HUB-AMM-36-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-36,7,6.59
+HUB-AMM-37-R01,access 10/25GE,HUB-AMM-37,7,9.39
+HUB-AMM-37-R02,access 10/25GE,HUB-AMM-37,7,8.91
+HUB-AMM-37-R03,access 10/25GE,HUB-AMM-37,7,9.36
+HUB-AMM-37-R04,access 10/25GE,HUB-AMM-37,7,8.88
+HUB-AMM-37-R05,access 10/25GE,HUB-AMM-37,7,7.4
+HUB-AMM-37-R06,access 10/25GE,HUB-AMM-37,7,8.15
+HUB-AMM-37-R07,access 10/25GE,HUB-AMM-37,5,7.17
+HUB-AMM-38-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,5.58
+HUB-AMM-38-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,5.98
+HUB-AMM-38-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,4.39
+HUB-AMM-38-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,5.4
+HUB-AMM-38-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,4.87
+HUB-AMM-38-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,7,5.52
+HUB-AMM-38-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-38,1,2.13
+HUB-AMM-39-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,7,5.61
+HUB-AMM-39-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,7,6.33
+HUB-AMM-39-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,7,7.21
+HUB-AMM-39-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,7,7.07
+HUB-AMM-39-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,7,6.49
+HUB-AMM-39-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-39,5,3.89
+HUB-AMM-40-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,5.48
+HUB-AMM-40-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,6.41
+HUB-AMM-40-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,7.18
+HUB-AMM-40-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,5.93
+HUB-AMM-40-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,6.2
+HUB-AMM-40-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,7.84
+HUB-AMM-40-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,7,5.29
+HUB-AMM-40-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-40,4,4.1
+HUB-AMM-41-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,5.3
+HUB-AMM-41-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,4.85
+HUB-AMM-41-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,6.54
+HUB-AMM-41-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,5.52
+HUB-AMM-41-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,5.22
+HUB-AMM-41-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,5.25
+HUB-AMM-41-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-41,7,5.29
+HUB-AMM-42-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-42,7,6.53
+HUB-AMM-42-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-42,7,5.15
+HUB-AMM-42-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-42,7,6.04
+HUB-AMM-42-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-42,7,6.29
+HUB-AMM-42-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-42,4,4.68
+HUB-AMM-43-R01,access 10/25GE,HUB-AMM-43,7,8.98
+HUB-AMM-43-R02,access 10/25GE,HUB-AMM-43,7,7.94
+HUB-AMM-43-R03,access 10/25GE,HUB-AMM-43,7,7.58
+HUB-AMM-43-R04,access 10/25GE,HUB-AMM-43,7,8.88
+HUB-AMM-43-R05,access 10/25GE,HUB-AMM-43,7,8.12
+HUB-AMM-44-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,6.01
+HUB-AMM-44-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,5.51
+HUB-AMM-44-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,6.3
+HUB-AMM-44-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,5.52
+HUB-AMM-44-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,5.7
+HUB-AMM-44-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,7,7.22
+HUB-AMM-44-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-44,1,1.21
+HUB-AMM-45-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,6.87
+HUB-AMM-45-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,6.46
+HUB-AMM-45-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,6.17
+HUB-AMM-45-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,5.84
+HUB-AMM-45-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,5.16
+HUB-AMM-45-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,7,6.13
+HUB-AMM-45-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-45,3,3.29
+HUB-AMM-46-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,8.27
+HUB-AMM-46-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,9.5
+HUB-AMM-46-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,8.48
+HUB-AMM-46-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,6.0
+HUB-AMM-46-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,6.11
+HUB-AMM-46-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,7,6.28
+HUB-AMM-46-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-46,5,4.79
+HUB-AMM-47-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,6.78
+HUB-AMM-47-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,5.4
+HUB-AMM-47-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,5.43
+HUB-AMM-47-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,5.9
+HUB-AMM-47-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,5.52
+HUB-AMM-47-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,7,6.0
+HUB-AMM-47-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-47,5,4.75
+HUB-AMM-48-R01,access 10/25GE,HUB-AMM-48,7,8.85
+HUB-AMM-48-R02,access 10/25GE,HUB-AMM-48,7,9.24
+HUB-AMM-48-R03,access 10/25GE,HUB-AMM-48,7,8.84
+HUB-AMM-48-R04,access 10/25GE,HUB-AMM-48,7,9.18
+HUB-AMM-48-R05,access 10/25GE,HUB-AMM-48,6,7.02
+HUB-AMM-49-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,7,6.53
+HUB-AMM-49-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,7,4.85
+HUB-AMM-49-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,7,6.26
+HUB-AMM-49-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,7,6.02
+HUB-AMM-49-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,7,5.34
+HUB-AMM-49-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-49,2,3.38
+HUB-AMM-50-R01,access 10/25GE,HUB-AMM-50,7,8.24
+HUB-AMM-50-R02,access 10/25GE,HUB-AMM-50,7,8.69
+HUB-AMM-50-R03,access 10/25GE,HUB-AMM-50,7,8.49
+HUB-AMM-50-R04,access 10/25GE,HUB-AMM-50,7,7.65
+HUB-AMM-50-R05,access 10/25GE,HUB-AMM-50,5,5.96
+HUB-AMM-51-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-51,7,8.68
+HUB-AMM-51-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-51,7,6.68
+HUB-AMM-51-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-51,7,7.27
+HUB-AMM-51-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-51,7,5.57
+HUB-AMM-51-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-51,7,5.23
+HUB-AMM-52-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,6.01
+HUB-AMM-52-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,7.09
+HUB-AMM-52-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,5.27
+HUB-AMM-52-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,5.68
+HUB-AMM-52-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,5.15
+HUB-AMM-52-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,5.99
+HUB-AMM-52-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,7,6.11
+HUB-AMM-52-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-52,4,3.94
+HUB-AMM-53-R01,access 10/25GE,HUB-AMM-53,6,8.02
+HUB-AMM-53-R02,access 10/25GE,HUB-AMM-53,6,6.58
+HUB-AMM-53-R03,access 10/25GE,HUB-AMM-53,6,8.49
+HUB-AMM-53-R04,access 10/25GE,HUB-AMM-53,6,7.61
+HUB-AMM-53-R05,access 10/25GE,HUB-AMM-53,6,8.74
+HUB-AMM-53-R06,access 10/25GE,HUB-AMM-53,6,6.39
+HUB-AMM-54-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,7,6.57
+HUB-AMM-54-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,7,5.11
+HUB-AMM-54-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,7,7.05
+HUB-AMM-54-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,7,6.45
+HUB-AMM-54-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,7,6.95
+HUB-AMM-54-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-54,2,3.41
+HUB-AMM-55-R01,access 10/25GE,HUB-AMM-55,7,9.29
+HUB-AMM-55-R02,access 10/25GE,HUB-AMM-55,7,7.4
+HUB-AMM-55-R03,access 10/25GE,HUB-AMM-55,7,8.57
+HUB-AMM-55-R04,access 10/25GE,HUB-AMM-55,7,7.49
+HUB-AMM-55-R05,access 10/25GE,HUB-AMM-55,7,8.89
+HUB-AMM-55-R06,access 10/25GE,HUB-AMM-55,4,5.54
+HUB-AMM-56-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,6.23
+HUB-AMM-56-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,5.58
+HUB-AMM-56-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,5.19
+HUB-AMM-56-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,6.7
+HUB-AMM-56-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,6.18
+HUB-AMM-56-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,7,6.21
+HUB-AMM-56-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-56,6,4.59
+HUB-AMM-57-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,5.76
+HUB-AMM-57-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,6.61
+HUB-AMM-57-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,5.89
+HUB-AMM-57-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,5.67
+HUB-AMM-57-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,6.12
+HUB-AMM-57-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,5.55
+HUB-AMM-57-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,7,5.16
+HUB-AMM-57-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-57,1,3.28
+HUB-AMM-58-R01,access 10/25GE,HUB-AMM-58,7,9.17
+HUB-AMM-58-R02,access 10/25GE,HUB-AMM-58,7,6.6
+HUB-AMM-58-R03,access 10/25GE,HUB-AMM-58,7,6.95
+HUB-AMM-58-R04,access 10/25GE,HUB-AMM-58,7,11.81
+HUB-AMM-58-R05,access 10/25GE,HUB-AMM-58,7,8.21
+HUB-AMM-59-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,6.08
+HUB-AMM-59-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,5.26
+HUB-AMM-59-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,4.88
+HUB-AMM-59-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,6.03
+HUB-AMM-59-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,7.21
+HUB-AMM-59-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,7,4.8
+HUB-AMM-59-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-59,2,3.53
+HUB-AMM-60-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,4.48
+HUB-AMM-60-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,5.85
+HUB-AMM-60-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,5.27
+HUB-AMM-60-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,5.99
+HUB-AMM-60-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,8.19
+HUB-AMM-60-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-60,6,7.49
+HUB-AMM-61-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,7,8.38
+HUB-AMM-61-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,7,5.53
+HUB-AMM-61-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,7,5.26
+HUB-AMM-61-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,7,5.53
+HUB-AMM-61-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,7,7.51
+HUB-AMM-61-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-61,3,4.49
+HUB-AMM-62-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,6.52
+HUB-AMM-62-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,7.6
+HUB-AMM-62-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,5.18
+HUB-AMM-62-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,5.15
+HUB-AMM-62-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,5.42
+HUB-AMM-62-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,7,6.86
+HUB-AMM-62-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-62,3,3.69
+HUB-AMM-63-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-63,7,5.32
+HUB-AMM-63-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-63,7,6.01
+HUB-AMM-63-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-63,7,5.05
+HUB-AMM-63-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-63,7,6.01
+HUB-AMM-63-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-63,4,3.52
+HUB-AMM-64-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.67
+HUB-AMM-64-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.34
+HUB-AMM-64-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.37
+HUB-AMM-64-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.85
+HUB-AMM-64-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.8
+HUB-AMM-64-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-64,7,5.94
+HUB-AMM-65-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,5.71
+HUB-AMM-65-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,6.59
+HUB-AMM-65-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,4.58
+HUB-AMM-65-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,4.63
+HUB-AMM-65-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,6.43
+HUB-AMM-65-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-65,6,5.29
+HUB-AMM-66-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,7,6.87
+HUB-AMM-66-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,7,6.02
+HUB-AMM-66-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,7,6.34
+HUB-AMM-66-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,7,9.07
+HUB-AMM-66-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,7,6.95
+HUB-AMM-66-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-66,6,5.33
+HUB-AMM-67-R01,access 10/25GE,HUB-AMM-67,7,9.64
+HUB-AMM-67-R02,access 10/25GE,HUB-AMM-67,7,9.75
+HUB-AMM-67-R03,access 10/25GE,HUB-AMM-67,7,7.09
+HUB-AMM-67-R04,access 10/25GE,HUB-AMM-67,7,10.48
+HUB-AMM-67-R05,access 10/25GE,HUB-AMM-67,3,6.03
+HUB-AMM-68-R01,access 10/25GE,HUB-AMM-68,7,8.84
+HUB-AMM-68-R02,access 10/25GE,HUB-AMM-68,7,9.88
+HUB-AMM-68-R03,access 10/25GE,HUB-AMM-68,7,8.44
+HUB-AMM-68-R04,access 10/25GE,HUB-AMM-68,7,11.22
+HUB-AMM-68-R05,access 10/25GE,HUB-AMM-68,4,5.83
+HUB-AMM-69-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,5.28
+HUB-AMM-69-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,4.89
+HUB-AMM-69-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,5.44
+HUB-AMM-69-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,4.93
+HUB-AMM-69-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,5.71
+HUB-AMM-69-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,5.08
+HUB-AMM-69-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,7,4.91
+HUB-AMM-69-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-69,5,3.65
+HUB-AMM-70-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,6.99
+HUB-AMM-70-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,6.16
+HUB-AMM-70-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,5.89
+HUB-AMM-70-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,6.04
+HUB-AMM-70-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,5.45
+HUB-AMM-70-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,7,6.2
+HUB-AMM-70-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-70,5,6.46
+HUB-AMM-71-R01,access 10/25GE,HUB-AMM-71,7,9.62
+HUB-AMM-71-R02,access 10/25GE,HUB-AMM-71,7,7.0
+HUB-AMM-71-R03,access 10/25GE,HUB-AMM-71,7,7.88
+HUB-AMM-71-R04,access 10/25GE,HUB-AMM-71,7,8.07
+HUB-AMM-72-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,7,8.0
+HUB-AMM-72-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,7,6.38
+HUB-AMM-72-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,7,4.98
+HUB-AMM-72-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,7,6.29
+HUB-AMM-72-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,7,6.42
+HUB-AMM-72-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-72,3,5.52
+HUB-AMM-73-R01,access 10/25GE,HUB-AMM-73,7,8.47
+HUB-AMM-73-R02,access 10/25GE,HUB-AMM-73,7,8.03
+HUB-AMM-73-R03,access 10/25GE,HUB-AMM-73,7,10.31
+HUB-AMM-73-R04,access 10/25GE,HUB-AMM-73,7,9.15
+HUB-AMM-73-R05,access 10/25GE,HUB-AMM-73,7,8.96
+HUB-AMM-73-R06,access 10/25GE,HUB-AMM-73,7,8.15
+HUB-AMM-73-R07,access 10/25GE,HUB-AMM-73,3,6.23
+HUB-AMM-74-R01,access 10/25GE,HUB-AMM-74,7,9.88
+HUB-AMM-74-R02,access 10/25GE,HUB-AMM-74,7,7.27
+HUB-AMM-74-R03,access 10/25GE,HUB-AMM-74,7,7.61
+HUB-AMM-74-R04,access 10/25GE,HUB-AMM-74,4,4.29
+HUB-AMM-75-R01,access 10/25GE,HUB-AMM-75,6,7.95
+HUB-AMM-75-R02,access 10/25GE,HUB-AMM-75,6,8.12
+HUB-AMM-75-R03,access 10/25GE,HUB-AMM-75,6,8.08
+HUB-AMM-75-R04,access 10/25GE,HUB-AMM-75,6,7.49
+HUB-AMM-75-R05,access 10/25GE,HUB-AMM-75,6,6.46
+HUB-AMM-75-R06,access 10/25GE,HUB-AMM-75,6,7.95
+HUB-AMM-76-R01,access 10/25GE,HUB-AMM-76,7,7.48
+HUB-AMM-76-R02,access 10/25GE,HUB-AMM-76,7,7.37
+HUB-AMM-76-R03,access 10/25GE,HUB-AMM-76,7,8.93
+HUB-AMM-76-R04,access 10/25GE,HUB-AMM-76,7,7.1
+HUB-AMM-76-R05,access 10/25GE,HUB-AMM-76,4,6.2
+HUB-AMM-77-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,7,7.0
+HUB-AMM-77-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,7,5.99
+HUB-AMM-77-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,7,4.66
+HUB-AMM-77-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,7,6.49
+HUB-AMM-77-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,7,6.43
+HUB-AMM-77-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-77,5,4.58
+HUB-AMM-78-R01,access 10/25GE,HUB-AMM-78,7,9.7
+HUB-AMM-78-R02,access 10/25GE,HUB-AMM-78,7,8.01
+HUB-AMM-78-R03,access 10/25GE,HUB-AMM-78,7,10.91
+HUB-AMM-78-R04,access 10/25GE,HUB-AMM-78,7,8.92
+HUB-AMM-78-R05,access 10/25GE,HUB-AMM-78,7,8.91
+HUB-AMM-78-R06,access 10/25GE,HUB-AMM-78,7,8.78
+HUB-AMM-78-R07,access 10/25GE,HUB-AMM-78,7,8.24
+HUB-AMM-78-R08,access 10/25GE,HUB-AMM-78,5,7.3
+HUB-AMM-79-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,7,5.63
+HUB-AMM-79-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,7,6.23
+HUB-AMM-79-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,7,5.56
+HUB-AMM-79-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,7,5.42
+HUB-AMM-79-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,7,5.62
+HUB-AMM-79-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-79,5,4.81
+HUB-AMM-80-R01,access 10/25GE,HUB-AMM-80,7,10.54
+HUB-AMM-80-R02,access 10/25GE,HUB-AMM-80,7,8.1
+HUB-AMM-80-R03,access 10/25GE,HUB-AMM-80,7,9.11
+HUB-AMM-80-R04,access 10/25GE,HUB-AMM-80,7,9.63
+HUB-AMM-80-R05,access 10/25GE,HUB-AMM-80,7,9.36
+HUB-AMM-80-R06,access 10/25GE,HUB-AMM-80,7,7.79
+HUB-AMM-80-R07,access 10/25GE,HUB-AMM-80,7,9.0
+HUB-AMM-81-R01,access 10/25GE,HUB-AMM-81,7,10.86
+HUB-AMM-81-R02,access 10/25GE,HUB-AMM-81,7,8.53
+HUB-AMM-81-R03,access 10/25GE,HUB-AMM-81,7,7.74
+HUB-AMM-81-R04,access 10/25GE,HUB-AMM-81,7,7.1
+HUB-AMM-81-R05,access 10/25GE,HUB-AMM-81,7,6.92
+HUB-AMM-81-R06,access 10/25GE,HUB-AMM-81,5,5.64
+HUB-AMM-82-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,4.89
+HUB-AMM-82-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,4.89
+HUB-AMM-82-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,5.8
+HUB-AMM-82-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,5.18
+HUB-AMM-82-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,4.81
+HUB-AMM-82-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,7,4.67
+HUB-AMM-82-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-82,5,3.59
+HUB-AMM-83-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,6.16
+HUB-AMM-83-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,5.76
+HUB-AMM-83-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,6.8
+HUB-AMM-83-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,5.73
+HUB-AMM-83-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,6.08
+HUB-AMM-83-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,7,5.59
+HUB-AMM-83-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-83,5,3.99
+HUB-AMM-84-R01,access 10/25GE,HUB-AMM-84,6,5.79
+HUB-AMM-84-R02,access 10/25GE,HUB-AMM-84,6,8.78
+HUB-AMM-84-R03,access 10/25GE,HUB-AMM-84,6,9.01
+HUB-AMM-84-R04,access 10/25GE,HUB-AMM-84,6,7.28
+HUB-AMM-84-R05,access 10/25GE,HUB-AMM-84,5,5.85
+HUB-AMM-85-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-85,7,6.39
+HUB-AMM-85-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-85,7,5.44
+HUB-AMM-85-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-85,7,6.54
+HUB-AMM-85-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-85,7,5.4
+HUB-AMM-85-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-85,6,4.85
+HUB-AMM-86-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,6.19
+HUB-AMM-86-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,6.77
+HUB-AMM-86-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,5.62
+HUB-AMM-86-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,7.91
+HUB-AMM-86-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,6.05
+HUB-AMM-86-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,7,6.84
+HUB-AMM-86-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AMM-86,4,3.9
+HUB-AQB-01-R01,access 10/25GE,HUB-AQB-01,7,10.21
+HUB-AQB-01-R02,access 10/25GE,HUB-AQB-01,7,11.1
+HUB-AQB-01-R03,access 10/25GE,HUB-AQB-01,7,12.05
+HUB-AQB-01-R04,access 10/25GE,HUB-AQB-01,7,9.47
+HUB-AQB-01-R05,access 10/25GE,HUB-AQB-01,5,8.76
+HUB-AQB-02-R01,access 10/25GE,HUB-AQB-02,6,6.7
+HUB-AQB-02-R02,access 10/25GE,HUB-AQB-02,6,6.55
+HUB-AQB-02-R03,access 10/25GE,HUB-AQB-02,6,9.16
+HUB-AQB-02-R04,access 10/25GE,HUB-AQB-02,5,6.76
+HUB-AQB-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,6.08
+HUB-AQB-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,6.28
+HUB-AQB-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,8.34
+HUB-AQB-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,6.56
+HUB-AQB-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,5.86
+HUB-AQB-03-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,7.01
+HUB-AQB-03-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,7,9.16
+HUB-AQB-03-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-03,2,2.43
+HUB-AQB-04-R01,access 10/25GE,HUB-AQB-04,6,8.95
+HUB-AQB-04-R02,access 10/25GE,HUB-AQB-04,6,17.8
+HUB-AQB-04-R03,access 10/25GE,HUB-AQB-04,5,8.95
+HUB-AQB-05-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,6.83
+HUB-AQB-05-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,10.77
+HUB-AQB-05-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,6.6
+HUB-AQB-05-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,12.41
+HUB-AQB-05-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,7.84
+HUB-AQB-05-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,7.1
+HUB-AQB-05-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,5.84
+HUB-AQB-05-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-05,7,5.35
+HUB-AQB-06-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,5.63
+HUB-AQB-06-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,6.69
+HUB-AQB-06-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,7.13
+HUB-AQB-06-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,5.75
+HUB-AQB-06-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,6.54
+HUB-AQB-06-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,7.79
+HUB-AQB-06-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,7,5.4
+HUB-AQB-06-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-AQB-06,2,3.65
+HUB-AQB-07-R01,access 10/25GE,HUB-AQB-07,7,10.0
+HUB-AQB-07-R02,access 10/25GE,HUB-AQB-07,6,7.69
+HUB-AZR-01-R01,access 10/25GE,HUB-AZR-01,7,8.54
+HUB-AZR-01-R02,access 10/25GE,HUB-AZR-01,7,9.74
+HUB-AZR-01-R03,access 10/25GE,HUB-AZR-01,7,10.1
+HUB-AZR-01-R04,access 10/25GE,HUB-AZR-01,7,9.11
+HUB-AZR-01-R05,access 10/25GE,HUB-AZR-01,3,4.95
+HUB-DEA-01-R01,access 10/25GE,HUB-DEA-01,6,9.52
+HUB-DEA-01-R02,access 10/25GE,HUB-DEA-01,6,8.06
+HUB-DEA-01-R03,access 10/25GE,HUB-DEA-01,6,8.3
+HUB-DEI-01-R01,access 10/25GE,HUB-DEI-01,6,7.84
+HUB-DEI-01-R02,access 10/25GE,HUB-DEI-01,6,6.54
+HUB-DEI-01-R03,access 10/25GE,HUB-DEI-01,6,7.13
+HUB-DEI-01-R04,access 10/25GE,HUB-DEI-01,5,6.2
+HUB-GHO-01-R01,access 10/25GE,HUB-GHO-01,6,9.83
+HUB-GHO-01-R02,access 10/25GE,HUB-GHO-01,6,9.17
+HUB-GHO-01-R03,access 10/25GE,HUB-GHO-01,6,7.39
+HUB-GHO-01-R04,access 10/25GE,HUB-GHO-01,4,5.67
+HUB-IRB-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,7,5.39
+HUB-IRB-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,7,5.1
+HUB-IRB-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,7,4.32
+HUB-IRB-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,7,5.28
+HUB-IRB-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,7,5.71
+HUB-IRB-01-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-01,2,3.26
+HUB-IRB-02-R01,access 10/25GE,HUB-IRB-02,7,8.21
+HUB-IRB-02-R02,access 10/25GE,HUB-IRB-02,7,10.33
+HUB-IRB-02-R03,access 10/25GE,HUB-IRB-02,7,9.77
+HUB-IRB-02-R04,access 10/25GE,HUB-IRB-02,6,6.17
+HUB-IRB-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-03,7,6.59
+HUB-IRB-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-03,7,8.1
+HUB-IRB-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-03,7,6.89
+HUB-IRB-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-03,7,6.9
+HUB-IRB-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-03,6,5.25
+HUB-IRB-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,7,7.89
+HUB-IRB-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,7,5.94
+HUB-IRB-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,7,5.81
+HUB-IRB-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,7,8.0
+HUB-IRB-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,7,7.58
+HUB-IRB-04-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-04,2,5.58
+HUB-IRB-05-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,7,5.98
+HUB-IRB-05-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,7,6.93
+HUB-IRB-05-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,7,6.19
+HUB-IRB-05-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,7,5.87
+HUB-IRB-05-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,7,5.2
+HUB-IRB-05-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-05,2,2.43
+HUB-IRB-06-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,9.39
+HUB-IRB-06-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,7.86
+HUB-IRB-06-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,7.07
+HUB-IRB-06-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,7.9
+HUB-IRB-06-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,9.05
+HUB-IRB-06-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,6.65
+HUB-IRB-06-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,5.75
+HUB-IRB-06-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,7,9.22
+HUB-IRB-06-R09,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-06,3,8.17
+HUB-IRB-07-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,7,6.95
+HUB-IRB-07-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,7,5.26
+HUB-IRB-07-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,7,6.95
+HUB-IRB-07-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,7,5.23
+HUB-IRB-07-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,7,6.46
+HUB-IRB-07-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-07,5,4.09
+HUB-IRB-08-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,7,6.4
+HUB-IRB-08-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,7,6.09
+HUB-IRB-08-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,7,5.83
+HUB-IRB-08-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,7,6.79
+HUB-IRB-08-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,7,6.7
+HUB-IRB-08-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-08,5,4.72
+HUB-IRB-09-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,5.1
+HUB-IRB-09-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,5.24
+HUB-IRB-09-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,5.3
+HUB-IRB-09-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,5.47
+HUB-IRB-09-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,9.23
+HUB-IRB-09-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-09,6,6.79
+HUB-IRB-10-R01,access 10/25GE,HUB-IRB-10,7,9.02
+HUB-IRB-10-R02,access 10/25GE,HUB-IRB-10,7,7.17
+HUB-IRB-10-R03,access 10/25GE,HUB-IRB-10,6,7.0
+HUB-IRB-11-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,5.01
+HUB-IRB-11-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,6.69
+HUB-IRB-11-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,6.93
+HUB-IRB-11-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,5.29
+HUB-IRB-11-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,6.22
+HUB-IRB-11-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,7,6.33
+HUB-IRB-11-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-11,1,3.06
+HUB-IRB-12-R01,access 10/25GE,HUB-IRB-12,7,8.36
+HUB-IRB-12-R02,access 10/25GE,HUB-IRB-12,7,7.69
+HUB-IRB-12-R03,access 10/25GE,HUB-IRB-12,7,6.78
+HUB-IRB-12-R04,access 10/25GE,HUB-IRB-12,5,7.24
+HUB-IRB-13-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,9.68
+HUB-IRB-13-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,7.14
+HUB-IRB-13-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,5.78
+HUB-IRB-13-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,8.91
+HUB-IRB-13-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,7.4
+HUB-IRB-13-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,6.29
+HUB-IRB-13-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,7.98
+HUB-IRB-13-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,6.99
+HUB-IRB-13-R09,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,9.44
+HUB-IRB-13-R10,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-13,7,8.36
+HUB-IRB-14-R01,access 10/25GE,HUB-IRB-14,6,6.73
+HUB-IRB-14-R02,access 10/25GE,HUB-IRB-14,6,8.46
+HUB-IRB-14-R03,access 10/25GE,HUB-IRB-14,6,7.59
+HUB-IRB-14-R04,access 10/25GE,HUB-IRB-14,5,6.31
+HUB-IRB-15-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,6.06
+HUB-IRB-15-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.98
+HUB-IRB-15-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.68
+HUB-IRB-15-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.6
+HUB-IRB-15-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.93
+HUB-IRB-15-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.76
+HUB-IRB-15-R07,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,7,5.43
+HUB-IRB-15-R08,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-15,2,2.03
+HUB-IRB-16-R01,access 10/25GE,HUB-IRB-16,7,8.43
+HUB-IRB-16-R02,access 10/25GE,HUB-IRB-16,7,9.03
+HUB-IRB-16-R03,access 10/25GE,HUB-IRB-16,7,8.57
+HUB-IRB-16-R04,access 10/25GE,HUB-IRB-16,7,9.62
+HUB-IRB-16-R05,access 10/25GE,HUB-IRB-16,4,5.85
+HUB-IRB-17-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,7,5.58
+HUB-IRB-17-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,7,5.3
+HUB-IRB-17-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,7,6.51
+HUB-IRB-17-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,7,5.91
+HUB-IRB-17-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,7,6.8
+HUB-IRB-17-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-17,6,4.25
+HUB-IRB-18-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,7,9.33
+HUB-IRB-18-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,7,6.89
+HUB-IRB-18-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,7,6.77
+HUB-IRB-18-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,7,6.26
+HUB-IRB-18-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,7,7.1
+HUB-IRB-18-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-IRB-18,6,6.25
+HUB-IRB-19-R01,access 10/25GE,HUB-IRB-19,7,6.61
+HUB-IRB-19-R02,access 10/25GE,HUB-IRB-19,7,6.73
+HUB-IRB-19-R03,access 10/25GE,HUB-IRB-19,7,8.78
+HUB-IRB-19-R04,access 10/25GE,HUB-IRB-19,7,8.8
+HUB-IRB-19-R05,access 10/25GE,HUB-IRB-19,6,6.95
+HUB-IRB-20-R01,access 10/25GE,HUB-IRB-20,7,8.22
+HUB-IRB-20-R02,access 10/25GE,HUB-IRB-20,7,7.65
+HUB-IRB-20-R03,access 10/25GE,HUB-IRB-20,7,9.65
+HUB-IRB-20-R04,access 10/25GE,HUB-IRB-20,4,5.19
+HUB-JER-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,7,8.08
+HUB-JER-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,7,5.15
+HUB-JER-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,7,6.53
+HUB-JER-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,7,7.51
+HUB-JER-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,7,8.04
+HUB-JER-01-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-01,2,2.43
+HUB-JER-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,7,6.02
+HUB-JER-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,7,9.31
+HUB-JER-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,7,10.3
+HUB-JER-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,7,6.47
+HUB-JER-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,7,5.96
+HUB-JER-02-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-02,4,3.93
+HUB-JER-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,7,7.65
+HUB-JER-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,7,6.97
+HUB-JER-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,7,7.61
+HUB-JER-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,7,5.76
+HUB-JER-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,7,7.92
+HUB-JER-03-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-JER-03,3,5.43
+HUB-KAR-01-R01,access 10/25GE,HUB-KAR-01,7,6.71
+HUB-KAR-01-R02,access 10/25GE,HUB-KAR-01,7,8.24
+HUB-KAR-01-R03,access 10/25GE,HUB-KAR-01,7,8.27
+HUB-KAR-01-R04,access 10/25GE,HUB-KAR-01,7,8.5
+HUB-KAR-01-R05,access 10/25GE,HUB-KAR-01,5,5.45
+HUB-KAR-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-02,7,8.27
+HUB-KAR-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-02,7,6.35
+HUB-KAR-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-02,7,5.77
+HUB-KAR-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-02,7,10.22
+HUB-KAR-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-02,6,6.14
+HUB-KAR-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,7,7.76
+HUB-KAR-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,7,8.72
+HUB-KAR-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,7,7.03
+HUB-KAR-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,7,6.46
+HUB-KAR-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,7,6.46
+HUB-KAR-03-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-KAR-03,2,3.24
+HUB-MA-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-01,7,8.03
+HUB-MA-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-01,7,5.41
+HUB-MA-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-01,7,6.95
+HUB-MA-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-01,7,5.73
+HUB-MA-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-01,6,7.98
+HUB-MA-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-02,7,7.21
+HUB-MA-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-02,7,8.94
+HUB-MA-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-02,7,9.38
+HUB-MA-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-02,7,7.3
+HUB-MA-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-02,6,4.32
+HUB-MA-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-03,7,7.68
+HUB-MA-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-03,7,6.06
+HUB-MA-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-03,7,7.5
+HUB-MA-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-03,7,6.86
+HUB-MA-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-03,6,6.42
+HUB-MA-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-04,7,7.91
+HUB-MA-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-04,7,8.22
+HUB-MA-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-04,7,8.51
+HUB-MA-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-04,7,5.97
+HUB-MA-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MA-04,3,3.09
+HUB-MAD-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-01,7,4.52
+HUB-MAD-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-01,7,6.91
+HUB-MAD-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-01,7,6.75
+HUB-MAD-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-01,7,9.85
+HUB-MAD-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-01,7,7.46
+HUB-MAD-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,7,9.34
+HUB-MAD-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,7,7.79
+HUB-MAD-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,7,5.85
+HUB-MAD-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,7,5.74
+HUB-MAD-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,7,6.37
+HUB-MAD-02-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-02,5,7.42
+HUB-MAD-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,7,8.44
+HUB-MAD-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,7,10.21
+HUB-MAD-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,7,7.36
+HUB-MAD-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,7,6.85
+HUB-MAD-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,7,6.15
+HUB-MAD-03-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-03,3,3.65
+HUB-MAD-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,7,7.31
+HUB-MAD-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,7,7.0
+HUB-MAD-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,7,5.66
+HUB-MAD-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,7,5.48
+HUB-MAD-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,7,9.41
+HUB-MAD-04-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-MAD-04,6,4.99
+HUB-MAF-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-01,6,6.89
+HUB-MAF-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-01,6,4.72
+HUB-MAF-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-01,6,5.66
+HUB-MAF-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-01,6,7.78
+HUB-MAF-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-01,6,7.97
+HUB-MAF-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-02,7,8.3
+HUB-MAF-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-02,7,6.6
+HUB-MAF-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-02,7,6.52
+HUB-MAF-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-02,7,6.36
+HUB-MAF-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-02,7,5.91
+HUB-MAF-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-03,7,8.47
+HUB-MAF-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-03,7,7.16
+HUB-MAF-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-03,7,5.37
+HUB-MAF-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-03,7,6.54
+HUB-MAF-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-03,7,8.67
+HUB-MAF-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-04,7,6.92
+HUB-MAF-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-04,7,10.58
+HUB-MAF-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-04,7,7.53
+HUB-MAF-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-04,7,5.91
+HUB-MAF-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-04,6,4.7
+HUB-MAF-05-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,7,6.1
+HUB-MAF-05-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,7,5.26
+HUB-MAF-05-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,7,6.27
+HUB-MAF-05-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,7,6.52
+HUB-MAF-05-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,7,7.39
+HUB-MAF-05-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-MAF-05,3,3.48
+HUB-MUT-01-R01,access 10/25GE,HUB-MUT-01,7,7.68
+HUB-MUT-01-R02,access 10/25GE,HUB-MUT-01,7,7.58
+HUB-MUT-01-R03,access 10/25GE,HUB-MUT-01,7,8.02
+HUB-MUT-01-R04,access 10/25GE,HUB-MUT-01,7,7.69
+HUB-MUT-01-R05,access 10/25GE,HUB-MUT-01,7,9.3
+HUB-NOR-01-R01,access 10/25GE,HUB-NOR-01,7,7.3
+HUB-NOR-01-R02,access 10/25GE,HUB-NOR-01,7,7.65
+HUB-NOR-01-R03,access 10/25GE,HUB-NOR-01,5,6.72
+HUB-SAL-01-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-01,7,4.95
+HUB-SAL-01-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-01,7,6.4
+HUB-SAL-01-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-01,7,6.16
+HUB-SAL-01-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-01,7,9.63
+HUB-SAL-01-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-01,6,5.59
+HUB-SAL-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-02,7,6.34
+HUB-SAL-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-02,7,7.56
+HUB-SAL-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-02,7,8.48
+HUB-SAL-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-02,7,7.53
+HUB-SAL-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-02,6,5.27
+HUB-SAL-03-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-03,6,5.62
+HUB-SAL-03-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-03,6,5.59
+HUB-SAL-03-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-03,6,6.0
+HUB-SAL-03-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-03,6,6.48
+HUB-SAL-03-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-03,6,6.85
+HUB-SAL-04-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-04,7,8.57
+HUB-SAL-04-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-04,7,6.79
+HUB-SAL-04-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-04,7,5.2
+HUB-SAL-04-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-04,7,6.02
+HUB-SAL-04-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-SAL-04,7,7.81
+HUB-SOU-01-R01,access 10/25GE,HUB-SOU-01,6,6.78
+HUB-SOU-01-R02,access 10/25GE,HUB-SOU-01,6,9.55
+HUB-SOU-01-R03,access 10/25GE,HUB-SOU-01,6,6.89
+HUB-SOU-01-R04,access 10/25GE,HUB-SOU-01,4,5.28
+HUB-TAF-01-R01,access 10/25GE,HUB-TAF-01,6,6.87
+HUB-TAF-01-R02,access 10/25GE,HUB-TAF-01,6,6.85
+HUB-TAF-01-R03,access 10/25GE,HUB-TAF-01,6,6.44
+HUB-TAF-01-R04,access 10/25GE,HUB-TAF-01,6,8.93
+HUB-TAF-01-R05,access 10/25GE,HUB-TAF-01,5,6.16
+HUB-TAF-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,7,7.8
+HUB-TAF-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,7,8.03
+HUB-TAF-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,7,7.24
+HUB-TAF-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,7,6.64
+HUB-TAF-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,7,5.39
+HUB-TAF-02-R06,access 25GE (eCPRI fronthaul + backhaul),HUB-TAF-02,6,7.56
+HUB-WAD-01-R01,access 10/25GE,HUB-WAD-01,7,6.41
+HUB-WAD-01-R02,access 10/25GE,HUB-WAD-01,7,9.52
+HUB-WAD-01-R03,access 10/25GE,HUB-WAD-01,7,8.79
+HUB-WAD-01-R04,access 10/25GE,HUB-WAD-01,7,8.6
+HUB-WAD-01-R05,access 10/25GE,HUB-WAD-01,5,4.87
+HUB-WAD-02-R01,access 25GE (eCPRI fronthaul + backhaul),HUB-WAD-02,6,6.37
+HUB-WAD-02-R02,access 25GE (eCPRI fronthaul + backhaul),HUB-WAD-02,6,6.72
+HUB-WAD-02-R03,access 25GE (eCPRI fronthaul + backhaul),HUB-WAD-02,6,5.48
+HUB-WAD-02-R04,access 25GE (eCPRI fronthaul + backhaul),HUB-WAD-02,6,5.0
+HUB-WAD-02-R05,access 25GE (eCPRI fronthaul + backhaul),HUB-WAD-02,6,10.47
+AGG-POP-AJL-01,aggregation 100GE,POP-AJL,3,10.5
+AGG-POP-ZRQ-01,aggregation 100GE,POP-ZRQ,5,34.5
+AGG-POP-ZRQ-02,aggregation 100GE,POP-ZRQ,5,20.0
+AGG-POP-ZRQ-03,aggregation 100GE,POP-ZRQ,5,25.7
+AGG-POP-ZRQ-04,aggregation 100GE,POP-ZRQ,4,21.9
+AGG-DC1-01,aggregation 100GE,DC1,4,29.8
+AGG-DC1-02,aggregation 100GE,DC1,4,23.5
+AGG-DC1-03,aggregation 100GE,DC1,4,20.4
+AGG-DC1-04,aggregation 100GE,DC1,4,26.8
+AGG-DC2-01,aggregation 100GE,DC2,5,37.7
+AGG-DC2-02,aggregation 100GE,DC2,5,28.5
+AGG-DC2-03,aggregation 100GE,DC2,3,15.1
+AGG-POP-AMM-N-01,aggregation 100GE,POP-AMM-N,5,27.9
+AGG-POP-AMM-N-02,aggregation 100GE,POP-AMM-N,5,34.0
+AGG-POP-AMM-N-03,aggregation 100GE,POP-AMM-N,5,27.7
+AGG-POP-AMM-C-01,aggregation 100GE,POP-AMM-C,4,25.3
+AGG-POP-AMM-C-02,aggregation 100GE,POP-AMM-C,4,13.3
+AGG-POP-AMM-S-01,aggregation 100GE,POP-AMM-S,5,35.4
+AGG-POP-AMM-S-02,aggregation 100GE,POP-AMM-S,5,74.7
+AGG-POP-AMM-S-03,aggregation 100GE,POP-AMM-S,5,36.9
+AGG-POP-AQB-01,aggregation 100GE,POP-AQB,4,55.0
+AGG-POP-AQB-02,aggregation 100GE,POP-AQB,3,24.7
+AGG-POP-AZR-01,aggregation 100GE,POP-AZR,1,1.6
+AGG-POP-DEA-01,aggregation 100GE,POP-DEA,1,2.9
+AGG-POP-DEI-01,aggregation 100GE,POP-DEI,1,0.8
+AGG-POP-GHO-01,aggregation 100GE,POP-GHO,1,2.4
+AGG-POP-IRB-01,aggregation 100GE,POP-IRB,5,26.3
+AGG-POP-IRB-02,aggregation 100GE,POP-IRB,5,32.4
+AGG-POP-IRB-03,aggregation 100GE,POP-IRB,5,39.9
+AGG-POP-IRB-04,aggregation 100GE,POP-IRB,5,22.7
+AGG-POP-JER-01,aggregation 100GE,POP-JER,3,10.7
+AGG-POP-KAR-01,aggregation 100GE,POP-KAR,3,11.4
+AGG-POP-MA-01,aggregation 100GE,POP-MA,4,15.9
+AGG-POP-MAD-01,aggregation 100GE,POP-MAD,4,18.3
+AGG-POP-MAF-01,aggregation 100GE,POP-MAF,5,24.2
+AGG-POP-MUT-01,aggregation 100GE,POP-MUT,1,0.8
+AGG-POP-NOR-01,aggregation 100GE,POP-NOR,1,0.2
+AGG-POP-SAL-01,aggregation 100GE,POP-SAL,4,15.1
+AGG-POP-SOU-01,aggregation 100GE,POP-SOU,1,0.9
+AGG-POP-TAF-01,aggregation 100GE,POP-TAF,2,6.3
+AGG-POP-WAD-01,aggregation 100GE,POP-WAD,2,5.3
+Desert Highway (R15) Amman-Aqaba,DWDM national,,,340
+Dead Sea - Wadi Araba (R65) Amman-Aqaba,DWDM national,,,337
+Amman-Zarqa-Mafraq-Jaber,DWDM national,,,74
+Mafraq-Ramtha-Irbid,DWDM national,,,52
+Irbid-Jerash-Amman (R35),DWDM national,,,68
+King's Highway Madaba-Karak-Tafilah-Petra-Ma'an,DWDM regional,,,241
+Jordan Valley (R65 north),DWDM regional,,,127
+Amman-Salt-Deir Alla,DWDM regional,,,37
+Irbid-Ajloun-Jerash,DWDM regional,,,47
+Karak-Qatraneh,DWDM regional,,,39
+Tafilah-Jurf,DWDM regional,,,34
+Amman-Azraq (R40),DWDM regional,,,112
+Zarqa-Azraq-Safawi,DWDM regional,,,137
+Mafraq-Safawi-Ruwaished (R10),DWDM regional,,,302
+Quweira-Wadi Rum,DWDM regional,,,32
