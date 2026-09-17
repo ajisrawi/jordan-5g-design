@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jordan 5G SA – Nominal Network Design</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root { --bg:#0f1720; --panel:#16212d; --panel2:#1d2b3a; --line:#2b3c4f; --txt:#e6edf3; --mut:#9fb0c0; --acc:#38bdf8; --ok:#34d399; --warn:#fbbf24; --bad:#f87171; }
+  * { box-sizing:border-box; }
+  html,body { height:100%; margin:0; background:var(--bg); color:var(--txt); font:13px/1.45 "Segoe UI",system-ui,sans-serif; }
+  #app { display:flex; height:100%; }
+  #side { width:410px; min-width:410px; display:flex; flex-direction:column; background:var(--panel); border-right:1px solid var(--line); }
+  #side header { padding:12px 14px 8px; border-bottom:1px solid var(--line); }
+  #side h1 { margin:0; font-size:16px; letter-spacing:.2px; }
+  #side header p { margin:3px 0 0; color:var(--mut); font-size:11.5px; }
+  #tabs { display:flex; flex-wrap:wrap; border-bottom:1px solid var(--line); }
+  #tabs button { flex:1 1 auto; background:none; color:var(--mut); border:0; border-bottom:2px solid transparent; padding:8px 6px; cursor:pointer; font:inherit; }
+  #tabs button.on { color:var(--txt); border-bottom-color:var(--acc); }
+  .tab { display:none; overflow:auto; padding:12px 14px 30px; flex:1; }
+  .tab.on { display:block; }
+  h2 { font-size:12px; text-transform:uppercase; letter-spacing:.8px; color:var(--acc); margin:16px 0 6px; }
+  h2:first-child { margin-top:0; }
+  label.row { display:flex; align-items:center; gap:8px; padding:3px 0; cursor:pointer; }
+  label.row .sw { width:12px; height:12px; border-radius:3px; display:inline-block; flex:none; }
+  select,input[type=range] { width:100%; }
+  select { background:var(--panel2); color:var(--txt); border:1px solid var(--line); border-radius:5px; padding:5px; font:inherit; }
+  .ctl { margin:8px 0; } .ctl > span { display:flex; justify-content:space-between; color:var(--mut); font-size:12px; margin-bottom:2px; }
+  table { border-collapse:collapse; width:100%; font-size:11.5px; margin:4px 0 10px; }
+  th,td { border-bottom:1px solid var(--line); padding:4px 5px; text-align:right; vertical-align:top; }
+  th { color:var(--mut); font-weight:600; } th:first-child,td:first-child { text-align:left; }
+  .kpis { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  .kpi { background:var(--panel2); border:1px solid var(--line); border-radius:8px; padding:8px 10px; }
+  .kpi b { display:block; font-size:18px; } .kpi span { color:var(--mut); font-size:11px; }
+  .note { color:var(--mut); font-size:11.5px; } .ok{color:var(--ok)} .warn{color:var(--warn)} .bad{color:var(--bad)}
+  .pill { display:inline-block; padding:1px 7px; border-radius:9px; background:var(--panel2); border:1px solid var(--line); font-size:11px; margin:1px 2px 1px 0; }
+  #map { flex:1; background:#0b1118; }
+  .legend { background:rgba(15,23,32,.88); color:var(--txt); padding:8px 10px; border-radius:8px; border:1px solid var(--line); font-size:11.5px; line-height:1.5; }
+  .legend i { display:inline-block; width:14px; height:10px; margin-right:6px; border-radius:2px; vertical-align:middle; }
+  .leaflet-popup-content-wrapper,.leaflet-popup-tip { background:#16212d; color:var(--txt); }
+  .leaflet-popup-content { margin:10px 12px; font-size:12px; min-width:300px; }
+  .leaflet-popup-content table { font-size:11.5px; } .leaflet-popup-content h3 { margin:0 0 4px; font-size:13px; }
+  .venue-link { color:var(--acc); cursor:pointer; text-decoration:none; }
+  #busy { position:absolute; z-index:999; top:10px; left:50%; transform:translateX(-50%); background:#16212d; border:1px solid var(--line); padding:5px 12px; border-radius:14px; display:none; }
+  @media (max-width:900px){ #app{flex-direction:column-reverse} #side{width:100%;min-width:0;height:48%} }
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="side">
+    <header>
+      <h1>Jordan 5G SA – Nominal Network Design</h1>
+      <p>Coverage · capacity · antenna plan · fiber transport · indoor. Terrain (Copernicus DEM) + building heights (GHSL) aware. <a href="5G_Jordan_Design_Report.pdf" target="_blank" style="color:#38bdf8">Design report (PDF)</a> · <a href="deployment/Jordan_5G_Deployment_Plan.pdf" target="_blank" style="color:#38bdf8">Deployment plan (PDF)</a></p>
+    </header>
+    <nav id="tabs"></nav>
+    <section class="tab" id="t-layers"></section>
+    <section class="tab" id="t-summary"></section>
+    <section class="tab" id="t-radio"></section>
+    <section class="tab" id="t-budget"></section>
+    <section class="tab" id="t-transport"></section>
+    <section class="tab" id="t-indoor"></section>
+    <section class="tab" id="t-rollout"></section>
+  </aside>
+  <div id="map"><div id="busy">Rendering coverage…</div></div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data/design.js"></script>
+<script src="data/rasters.js"></script>
+<script src="data/rollout.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
